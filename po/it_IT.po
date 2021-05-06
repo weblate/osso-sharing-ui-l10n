@@ -1,0 +1,407 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-sharing-ui 20091214124314\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.12.14 12:43+0200\n"
+"PO-Revision-Date: 2009.12.14 12:43+0200\n"
+"Last-Translator:\n"
+"Language-Team: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "share_bd_account"
+msgstr "Account"
+
+msgid "share_bd_accounts_register_new"
+msgstr "Registra un nuovo account"
+
+msgid "share_bd_accounts_sign_in"
+msgstr "Accedi"
+
+msgid "share_bd_accounts_use_existing"
+msgstr "Usa un account esistente"
+
+msgid "share_bd_accounts_validate"
+msgstr "Convalida"
+
+msgid "share_bd_album_update_list"
+msgstr "Aggiorna elenco album"
+
+msgid "share_bd_connect"
+msgstr "Connetti"
+
+msgid "share_bd_error_cancel_sharing"
+msgstr "Interrompi la condivisione"
+
+msgid "share_bd_error_identification_edit_account"
+msgstr "Modifica account"
+
+msgid "share_bd_error_service_retry"
+msgstr "Riprova"
+
+msgid "share_bd_new_account"
+msgstr "Nuovo"
+
+msgid "share_bd_options"
+msgstr "Opzioni"
+
+msgid "share_bd_options_album"
+msgstr "Album"
+
+msgid "share_bd_options_metadata"
+msgstr "Metadati"
+
+msgid "share_bd_options_privacy"
+msgstr "Privacy"
+
+msgid "share_bd_options_size"
+msgstr "Dimensione immagine"
+
+msgid "share_bd_send_bluetooth"
+msgstr "Invia tramite Bluetooth"
+
+msgid "share_bd_send_email"
+msgstr "Invia tramite e-mail"
+
+msgid "share_bd_share_to_service"
+msgstr "Condividi tramite servizio"
+
+msgid "share_bd_tags"
+msgstr "Tag"
+
+msgid "share_cpa_ti"
+msgstr "Account di condivisione"
+
+msgid "share_fi_accounts_add_new_service"
+msgstr "Controlla nuovo servizio"
+
+msgid "share_fi_album_last_update"
+msgstr "Elenco aggiornato"
+
+msgid "share_fi_cpa_edit_account_password"
+msgstr "Password"
+
+msgid "share_fi_cpa_edit_account_username"
+msgstr "Nome utente"
+
+msgid "share_fi_cpa_no_accounts"
+msgstr "(nessun account)"
+
+msgid "share_fi_description_placeholder"
+msgstr "Descrizione"
+
+msgid "share_fi_favourite"
+msgstr "Preferito"
+
+msgid "share_fi_favourites"
+msgstr "Preferite"
+
+msgid "share_fi_options_metadata_keep_all"
+msgstr "Mantienili tutti"
+
+msgid "share_fi_options_metadata_remove_all"
+msgstr "Rimuovi tutti"
+
+msgid "share_fi_options_metadata_remove_some"
+msgstr "Rimuovi le coordinate GPS e il nome dell'autore"
+
+msgid "share_fi_options_privacy_family"
+msgstr "Famiglia"
+
+msgid "share_fi_options_privacy_friends"
+msgstr "Amici"
+
+msgid "share_fi_options_privacy_friends_and_family"
+msgstr "Amici e famiglia"
+
+msgid "share_fi_options_privacy_private"
+msgstr "Privato"
+
+msgid "share_fi_options_privacy_public"
+msgstr "Pubblico"
+
+msgid "share_fi_options_size_large"
+msgstr "Grande"
+
+msgid "share_fi_options_size_medium"
+msgstr "Media"
+
+msgid "share_fi_options_size_original"
+msgstr "Originale"
+
+msgid "share_fi_options_size_small"
+msgstr "Piccola"
+
+msgid "share_fi_status_account_not_available"
+msgstr "Account non disponibile"
+
+msgid "share_fi_status_fileformat_error"
+msgstr "Errore formato file"
+
+msgid "share_fi_status_in_queue"
+msgstr "In coda"
+
+msgid "share_fi_status_menu_sending"
+msgstr "Invio a %s"
+
+msgid "share_fi_status_sending"
+msgstr "Invio in corso"
+
+msgid "share_fi_status_unknown_error"
+msgstr "Errore di trasferimento"
+
+msgid "share_fi_status_upload_limit_error"
+msgstr "Errore: limite d'invio"
+
+msgid "share_fi_status_waiting_for_connection"
+msgstr "Connessione richiesta"
+
+msgid "share_fi_status_waiting_for_service"
+msgstr "In attesa del servizio"
+
+msgid "share_fi_status_wrong_credentials"
+msgstr "Errore d'identificazione"
+
+msgid "share_fi_title_placeholder"
+msgstr "Titolo"
+
+msgid "share_ia_accounts_setup_web_sign_in"
+msgstr ""
+"Continuare la configurazione dell'account accedendo a %s attraverso la "
+"pagina Web.\n"
+"Tornare a Configurazione account dopo l'accesso."
+
+msgid "share_ia_accounts_setup_web_start"
+msgstr ""
+"Il nuovo account deve essere configurato tramite Web.\n"
+"Tornare a Configurazione account dopo averlo registrato."
+
+msgid "share_ia_accounts_setup_web_validate"
+msgstr "Convalida l'account per completarne la configurazione"
+
+msgid "share_ia_cpa_edit_account_web"
+msgstr ""
+"Seleziona Modifica per cambiare su Web l'account\n"
+"%s. Torna poi qui per convalidare le modifiche."
+
+msgid "share_ia_cpa_validate_changes"
+msgstr "Convalida dopo aver completato la modifica dell'account"
+
+msgid "share_ia_error_account"
+msgstr ""
+"Impossibile continuare il trasferimento. L'account selezionato non è più "
+"disponibile."
+
+msgid "share_ia_error_connection"
+msgstr "Trasferimento sospeso. Connettersi a Internet prima."
+
+msgid "share_ia_error_fileformat"
+msgstr ""
+"Trasferimento di %d file non riuscito. Il loro formato non è compatibile col "
+"servizio."
+
+msgid "share_ia_error_fileformat_single_file"
+msgstr ""
+"Trasferimento di %s non riuscito. Il servizio non è in grado di accettare il "
+"formato del file."
+
+msgid "share_ia_error_identification"
+msgstr ""
+"Impossibile continuare il trasferimento. Nome utente o password di %s errati."
+
+msgid "share_ia_error_identification_for_ovi"
+msgstr ""
+"Impossibile continuare il trasferimento. Nome utente o password di %s "
+"errati.\n"
+"Verificare le impostazioni di data."
+
+msgid "share_ia_error_service"
+msgstr "Trasferimento sospeso in attesa che il servizio risponda."
+
+msgid "share_ia_error_unknown"
+msgstr "Trasferimento non riuscito. Impossibile continuare."
+
+msgid "share_ia_error_upload_limit"
+msgstr ""
+"Trasferimento di %d file non riuscito. Il limite di invio del servizio è "
+"stato superato."
+
+msgid "share_ia_error_upload_limit_single_file"
+msgstr ""
+"Trasferimento di %s non riuscito. Il limite di invio del servizio è stato "
+"superato."
+
+msgid "share_ib_account_editing_completed"
+msgstr "La modifica dell'account è stata completata"
+
+msgid "share_ib_account_setup_completed"
+msgstr "Configurazione dell'account completata"
+
+msgid "share_ib_album_update_failed"
+msgstr "Aggiornamento dell'elenco album non riuscito"
+
+msgid "share_ib_all_files_no_longer_available"
+msgstr "File non più disponibili. Condivisione non riuscita."
+
+msgid "share_ib_enter_credentials_first"
+msgstr "Inserire prima il nome dell'utente e la password"
+
+msgid "share_ib_file_no_longer_available"
+msgstr "%s non più disponibile"
+
+msgid "share_ib_files_no_longer_available"
+msgstr "File %d non più disponibili"
+
+msgid "share_ib_no_account_to_validate"
+msgstr "Configurazione dell'account non completata. Operazione annullata."
+
+msgid "share_ib_no_changes_to_validate"
+msgstr "Modifiche non completate. Operazione annullata."
+
+msgid "share_ib_no_connection"
+msgstr "Nessuna connessione di rete disponibile. Operazione annullata."
+
+msgid "share_ib_no_files_selected"
+msgstr "Nessun file selezionato. Condivisione annullata."
+
+msgid "share_ib_not_enough_memory_processing"
+msgstr "Memoria non sufficiente per elaborare i file prima della condivisione"
+
+msgid "share_ib_not_enough_memory_scaling"
+msgstr "Memoria insufficiente per ridimensionare le immagini"
+
+msgid "share_ib_only_file_no_longer_available"
+msgstr "File non più disponibile. Condivisione non riuscita."
+
+msgid "share_ib_processing"
+msgstr "Elaborazione dei file prima della condivisione"
+
+msgid "share_ib_service_not_responding"
+msgstr "Il servizio non risponde. Riprovare più tardi."
+
+msgid "share_ib_validation_failed"
+msgstr "Convalida dell'account non riuscita"
+
+msgid "share_ib_wrong_credentials"
+msgstr "Nome utente o password errati"
+
+msgid "share_ib_wrong_credentials_for_ovi"
+msgstr ""
+"Nome utente o password errati.\n"
+"Verificare le impostazioni di data."
+
+msgid "share_li_album_default"
+msgstr "Predefinito"
+
+msgid "share_li_album_mymedia"
+msgstr "Tutti i file multimediali"
+
+msgid "share_nc_cancel_sharing"
+msgstr "Interrompere la condivisione di %d file tramite %s?"
+
+msgid "share_nc_cancel_sharing_single_file"
+msgstr "Interrompere la condivisione di %s tramite %s?"
+
+msgid "share_nc_delete_account"
+msgstr "Eliminare l'account %s?"
+
+msgid "share_nc_delete_account_in_use"
+msgstr "Account in uso. Eliminare l'account %s?"
+
+msgid "share_ni_account_deleted"
+msgstr ""
+"L'account selezionato per la condivisione è stato eliminato.\n"
+"Selezionare un altro account."
+
+msgid "share_ni_already_sent_multiple"
+msgstr "%d file già inviati al servizio"
+
+msgid "share_ni_already_sent_single"
+msgstr "%s già inviato al servizio"
+
+msgid "share_ni_metadata_removal_some"
+msgstr ""
+"Impossibile rimuovere i metadati di %d/%d file.\n"
+"Verranno rimossi solo i metadati dagli altri file."
+
+msgid "share_ni_non_local_files"
+msgstr "Impossibile condividere i file virtuali. Operazione annullata."
+
+msgid "share_ni_only_account_deleted"
+msgstr ""
+"L'account selezionato per la condivisione è stato eliminato.\n"
+"È necessario creare un nuovo account."
+
+msgid "share_ni_outbox_full"
+msgstr "Memoria insufficiente per nuovi trasferimenti"
+
+msgid "share_ni_sso_account_setup_completed"
+msgstr ""
+"L'account Ovi di Nokia è stato configurato.\n"
+"Condivisione, chat e servizi Web attivati."
+
+msgid "share_ni_too_many_files"
+msgstr ""
+"Impossibile condividere più di %d file contemporaneamente. Operazione "
+"annullata."
+
+msgid "share_ni_username_existing"
+msgstr ""
+"Esiste già un account %s con nome utente %s.\n"
+"Operazione annullata."
+
+msgid "share_ti_accounts_select_service"
+msgstr "Configurazione account - Selezionare un servizio"
+
+msgid "share_ti_accounts_setup"
+msgstr "Configurazione account - %s"
+
+msgid "share_ti_accounts_setup_web_sign_in"
+msgstr "Configurazione account - Accedere a %s"
+
+msgid "share_ti_accounts_setup_web_validate"
+msgstr "Configurazione account - Convalidare l'account %s"
+
+msgid "share_ti_accounts_validating"
+msgstr "Convalida dell'account %s"
+
+msgid "share_ti_cpa_edit_account"
+msgstr "Modifica l'account %s"
+
+msgid "share_ti_cpa_validate_changes"
+msgstr "Convalida le modifiche per l'account %s"
+
+msgid "share_ti_cpa_validating_changes"
+msgstr "Convalida delle modifiche per l'account %s"
+
+msgid "share_ti_options"
+msgstr "Opzioni di condivisione"
+
+msgid "share_ti_select_account"
+msgstr "Seleziona un account"
+
+msgid "share_ti_select_album"
+msgstr "Seleziona un album"
+
+msgid "share_ti_share_dialogs_multiple"
+msgstr "Condividi %d file"
+
+msgid "share_ti_share_dialogs_single"
+msgstr "Condividi %s"
+
+msgid "share_ti_share_status_dialog"
+msgstr "Stato condivisione"
+
+msgid "share_ti_single_content_details"
+msgstr "Modifica i dettagli di: %s"
+
+msgid "share_ti_status_menu_plug_in"
+msgstr "Condivisione"
+
+msgid "share_ti_transfer_error_dialogs"
+msgstr "Condivisione di %d file tramite %s"
+
+msgid "share_ti_transfer_error_dialogs_single_file"
+msgstr "Condivisione %s tramite %s"

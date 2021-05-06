@@ -1,0 +1,409 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-sharing-ui 20091214124314\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.12.14 12:43+0200\n"
+"PO-Revision-Date: 2009.12.14 12:43+0200\n"
+"Last-Translator:\n"
+"Language-Team: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "share_bd_account"
+msgstr "Konto"
+
+msgid "share_bd_accounts_register_new"
+msgstr "Neues Konto registrieren"
+
+msgid "share_bd_accounts_sign_in"
+msgstr "Anmelden"
+
+msgid "share_bd_accounts_use_existing"
+msgstr "Vorhandenes Konto verwenden"
+
+msgid "share_bd_accounts_validate"
+msgstr "Überprüfen"
+
+msgid "share_bd_album_update_list"
+msgstr "Albumliste aktualisieren"
+
+msgid "share_bd_connect"
+msgstr "Verbinden"
+
+msgid "share_bd_error_cancel_sharing"
+msgstr "Freigabe abbrechen"
+
+msgid "share_bd_error_identification_edit_account"
+msgstr "Konto bearbeiten"
+
+msgid "share_bd_error_service_retry"
+msgstr "Erneut versuchen"
+
+msgid "share_bd_new_account"
+msgstr "Neu"
+
+msgid "share_bd_options"
+msgstr "Optionen"
+
+msgid "share_bd_options_album"
+msgstr "Album"
+
+msgid "share_bd_options_metadata"
+msgstr "Metadaten"
+
+msgid "share_bd_options_privacy"
+msgstr "Sichtbarkeit"
+
+msgid "share_bd_options_size"
+msgstr "Bildgröße"
+
+msgid "share_bd_send_bluetooth"
+msgstr "Über Bluetooth senden"
+
+msgid "share_bd_send_email"
+msgstr "Per E-Mail senden"
+
+msgid "share_bd_share_to_service"
+msgstr "Über Dienst freigeben"
+
+msgid "share_bd_tags"
+msgstr "Tags"
+
+msgid "share_cpa_ti"
+msgstr "Freigabekonten"
+
+msgid "share_fi_accounts_add_new_service"
+msgstr "Auf neuen Dienst prüfen"
+
+msgid "share_fi_album_last_update"
+msgstr "Liste aktualisiert"
+
+msgid "share_fi_cpa_edit_account_password"
+msgstr "Kennwort"
+
+msgid "share_fi_cpa_edit_account_username"
+msgstr "Benutzername"
+
+msgid "share_fi_cpa_no_accounts"
+msgstr "(Keine Konten)"
+
+msgid "share_fi_description_placeholder"
+msgstr "Beschreibung"
+
+msgid "share_fi_favourite"
+msgstr "Favorit"
+
+msgid "share_fi_favourites"
+msgstr "Favoriten"
+
+msgid "share_fi_options_metadata_keep_all"
+msgstr "Alle behalten"
+
+msgid "share_fi_options_metadata_remove_all"
+msgstr "Alle in Datei entfernen"
+
+msgid "share_fi_options_metadata_remove_some"
+msgstr "GPS-Koordinaten und Namen des Erstellers entfernen"
+
+msgid "share_fi_options_privacy_family"
+msgstr "Familie"
+
+msgid "share_fi_options_privacy_friends"
+msgstr "Freunde"
+
+msgid "share_fi_options_privacy_friends_and_family"
+msgstr "Freunde und Familie"
+
+msgid "share_fi_options_privacy_private"
+msgstr "Privat"
+
+msgid "share_fi_options_privacy_public"
+msgstr "Öffentlich"
+
+msgid "share_fi_options_size_large"
+msgstr "Groß"
+
+msgid "share_fi_options_size_medium"
+msgstr "Mittel"
+
+msgid "share_fi_options_size_original"
+msgstr "Original speichern"
+
+msgid "share_fi_options_size_small"
+msgstr "Klein"
+
+msgid "share_fi_status_account_not_available"
+msgstr "Konto nicht verfügbar"
+
+msgid "share_fi_status_fileformat_error"
+msgstr "Dateiformatfehler"
+
+msgid "share_fi_status_in_queue"
+msgstr "In Warteschlange"
+
+msgid "share_fi_status_menu_sending"
+msgstr "Senden an %s"
+
+msgid "share_fi_status_sending"
+msgstr "Senden"
+
+msgid "share_fi_status_unknown_error"
+msgstr "Übertragungsfehler"
+
+msgid "share_fi_status_upload_limit_error"
+msgstr "Fehler: max. Uploadgröße"
+
+msgid "share_fi_status_waiting_for_connection"
+msgstr "Auf Verbindung warten"
+
+msgid "share_fi_status_waiting_for_service"
+msgstr "Auf Dienst warten"
+
+msgid "share_fi_status_wrong_credentials"
+msgstr "Identifizierungsfehler"
+
+msgid "share_fi_title_placeholder"
+msgstr "Titel"
+
+msgid "share_ia_accounts_setup_web_sign_in"
+msgstr ""
+"Kontoeinrichtung mit Anmeldung bei %s über die Webseite fortsetzen.\n"
+"Nach Anmeldung zur Kontoeinrichtung zurückkehren."
+
+msgid "share_ia_accounts_setup_web_start"
+msgstr ""
+"Neues Flickr-Konto muss über Webseite eingerichtet werden. Nach "
+"Registrierung des vorhandenen oder neuen Kontos zur Kontoeinrichtung "
+"zurückkehren."
+
+msgid "share_ia_accounts_setup_web_validate"
+msgstr "Konto überprüfen, um Kontoeinrichtung abzuschließen"
+
+msgid "share_ia_cpa_edit_account_web"
+msgstr ""
+"Auf 'Bearbeiten' tippen, um Webseite zum Bearbeiten des %s-Kontos zu "
+"öffnen.\n"
+"Nach der Kontobearbeitung hierher zurückkehren, um Änderungen zu überprüfen."
+
+msgid "share_ia_cpa_validate_changes"
+msgstr "Änderungen überprüfen, um Kontobearbeitung abzuschließen"
+
+msgid "share_ia_error_account"
+msgstr ""
+"Fortsetzung der Übertragung nicht möglich. Ausgewähltes Konto ist nicht mehr "
+"verfügbar."
+
+msgid "share_ia_error_connection"
+msgstr "Bevorstehende Übertragung. Warten auf Internetverbindung."
+
+msgid "share_ia_error_fileformat"
+msgstr ""
+"Übertragung von %d Dateien fehlgeschlagen. Dateiformat kann von Dienst nicht "
+"angenommen werden."
+
+msgid "share_ia_error_fileformat_single_file"
+msgstr ""
+"Übertragung von %s fehlgeschlagen. Dateiformat kann von Dienst nicht "
+"angenommen werden."
+
+msgid "share_ia_error_identification"
+msgstr ""
+"Fortsetzung der Übertragung nicht möglich. Benutzername oder Kennwort für %s "
+"falsch."
+
+msgid "share_ia_error_identification_for_ovi"
+msgstr ""
+"Fortsetzung der Übertragung nicht möglich. Benutzername oder Kennwort für %s "
+"falsch.\n"
+"(Zeiteinstellungen prüfen.)"
+
+msgid "share_ia_error_service"
+msgstr "Bevorstehende Übertragung. Warten auf Antwort des Dienstes."
+
+msgid "share_ia_error_unknown"
+msgstr "Übertragung fehlgeschlagen. Fortsetzung nicht möglich."
+
+msgid "share_ia_error_upload_limit"
+msgstr ""
+"Übertragung von %d Dateien fehlgeschlagen. Max. Uploadgröße für Dienst "
+"überschritten."
+
+msgid "share_ia_error_upload_limit_single_file"
+msgstr ""
+"Übertragung von %s fehlgeschlagen. Max. Uploadgröße für Dienst überschritten."
+
+msgid "share_ib_account_editing_completed"
+msgstr "Kontobearbeitung abgeschlossen"
+
+msgid "share_ib_account_setup_completed"
+msgstr "Kontoeinrichtung abgeschlossen"
+
+msgid "share_ib_album_update_failed"
+msgstr "Aktualisierung der Albumliste fehlgeschlagen"
+
+msgid "share_ib_all_files_no_longer_available"
+msgstr "Dateien sind nicht mehr verfügbar. Freigabe fehlgeschlagen."
+
+msgid "share_ib_enter_credentials_first"
+msgstr "Zuerst Benutzernamen und Kennwort eingeben"
+
+msgid "share_ib_file_no_longer_available"
+msgstr "%s ist nicht mehr verfügbar"
+
+msgid "share_ib_files_no_longer_available"
+msgstr "%d Dateien sind nicht mehr verfügbar."
+
+msgid "share_ib_no_account_to_validate"
+msgstr "Kontoeinrichtung nicht fertig gestellt. Vorgang abgebrochen."
+
+msgid "share_ib_no_changes_to_validate"
+msgstr "Änderungen nicht fertig gestellt. Vorgang abgebrochen."
+
+msgid "share_ib_no_connection"
+msgstr "Keine Netzverbindung verfügbar. Vorgang abgebrochen."
+
+msgid "share_ib_no_files_selected"
+msgstr "Keine Dateien ausgewählt. Freigabe abgebrochen."
+
+msgid "share_ib_not_enough_memory_processing"
+msgstr "Nicht genug Speicher zum Verarbeiten der Dateien vor der Freigabe"
+
+msgid "share_ib_not_enough_memory_scaling"
+msgstr "Nicht genug Speicher zum Ändern der Bildgröße"
+
+msgid "share_ib_only_file_no_longer_available"
+msgstr "Datei ist nicht mehr verfügbar. Freigabe fehlgeschlagen."
+
+msgid "share_ib_processing"
+msgstr "Dateien werden vor der Freigabe verarbeitet"
+
+msgid "share_ib_service_not_responding"
+msgstr "Dienst antwortet nicht. Später erneut versuchen."
+
+msgid "share_ib_validation_failed"
+msgstr "Kontoüberprüfung fehlgeschlagen"
+
+msgid "share_ib_wrong_credentials"
+msgstr "Benutzername oder Kennwort falsch"
+
+msgid "share_ib_wrong_credentials_for_ovi"
+msgstr ""
+"Benutzername oder Kennwort falsch.\n"
+"(Zeiteinstellungen prüfen.)"
+
+msgid "share_li_album_default"
+msgstr "Standard"
+
+msgid "share_li_album_mymedia"
+msgstr "Alle Medien"
+
+msgid "share_nc_cancel_sharing"
+msgstr "Freigabe von %d Dateien über %s abbrechen"
+
+msgid "share_nc_cancel_sharing_single_file"
+msgstr "Freigabe von %s über %s abbrechen"
+
+msgid "share_nc_delete_account"
+msgstr "Konto für %s löschen?"
+
+msgid "share_nc_delete_account_in_use"
+msgstr "Konto bereits verwendet. Konto für %s löschen?"
+
+msgid "share_ni_account_deleted"
+msgstr ""
+"Für die Freigabe ausgewähltes Konto wurde gelöscht.\n"
+"Anderes Konto auswählen."
+
+msgid "share_ni_already_sent_multiple"
+msgstr "%d Dateien wurden bereits an Dienst gesendet"
+
+msgid "share_ni_already_sent_single"
+msgstr "%s wurde bereits an Dienst gesendet"
+
+msgid "share_ni_metadata_removal_some"
+msgstr ""
+"Aus %d/%d Dateien können die Metadaten nicht entfernt werden.\n"
+"Es werden nur Metadaten aus anderen Dateien entfernt."
+
+msgid "share_ni_non_local_files"
+msgstr ""
+"Nicht lokale Dateien können nicht freigegeben werden. Vorgang abgebrochen"
+
+msgid "share_ni_only_account_deleted"
+msgstr ""
+"Für die Freigabe ausgewähltes Konto wurde gelöscht.\n"
+"Neues Konto muss erstellt werden."
+
+msgid "share_ni_outbox_full"
+msgstr "Nicht genügend Speicher für neue Übertragungen"
+
+msgid "share_ni_sso_account_setup_completed"
+msgstr ""
+"Kontoeinrichtung für Ovi von Nokia abgeschlossen.\n"
+"Freigabe, Chat und Webdienste aktiviert."
+
+msgid "share_ni_too_many_files"
+msgstr ""
+"Es können nur maximal %d Dateien gleichzeitig freigegeben werden. Vorgang "
+"abgebrochen."
+
+msgid "share_ni_username_existing"
+msgstr ""
+"Ein Konto mit dem Benutzernamen '%s' besteht bereits für %s.\n"
+"Vorgang abgebrochen."
+
+msgid "share_ti_accounts_select_service"
+msgstr "Kontoeinrichtung – Dienst auswählen:"
+
+msgid "share_ti_accounts_setup"
+msgstr "Kontoeinrichtung – %s:"
+
+msgid "share_ti_accounts_setup_web_sign_in"
+msgstr "Kontoeinrichtung – Bei %s anmelden"
+
+msgid "share_ti_accounts_setup_web_validate"
+msgstr "Kontoeinrichtung – %s-Konto überprüfen"
+
+msgid "share_ti_accounts_validating"
+msgstr "Konto für %s wird überprüft"
+
+msgid "share_ti_cpa_edit_account"
+msgstr "Konto für %s bearbeiten"
+
+msgid "share_ti_cpa_validate_changes"
+msgstr "Änderungen für %s-Konto überprüfen"
+
+msgid "share_ti_cpa_validating_changes"
+msgstr "Änderungen für %s-Konto werden überprüft"
+
+msgid "share_ti_options"
+msgstr "Freigabeoptionen"
+
+msgid "share_ti_select_account"
+msgstr "Konto auswählen"
+
+msgid "share_ti_select_album"
+msgstr "Album auswählen"
+
+msgid "share_ti_share_dialogs_multiple"
+msgstr "%d Dateien freigeben"
+
+msgid "share_ti_share_dialogs_single"
+msgstr "%s freigeben"
+
+msgid "share_ti_share_status_dialog"
+msgstr "Freigabestatus"
+
+msgid "share_ti_single_content_details"
+msgstr "Details bearbeiten: %s"
+
+msgid "share_ti_status_menu_plug_in"
+msgstr "Freigeben"
+
+msgid "share_ti_transfer_error_dialogs"
+msgstr "%d Dateien über %s freigegeben"
+
+msgid "share_ti_transfer_error_dialogs_single_file"
+msgstr "%s über %s freigegeben"

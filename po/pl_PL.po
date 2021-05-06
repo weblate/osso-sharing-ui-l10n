@@ -1,0 +1,408 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-sharing-ui 20091214124314\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.12.14 12:43+0200\n"
+"PO-Revision-Date: 2009.12.14 12:43+0200\n"
+"Last-Translator:\n"
+"Language-Team: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2\n"
+
+msgid "share_bd_account"
+msgstr "Konto"
+
+msgid "share_bd_accounts_register_new"
+msgstr "Zarejestruj nowe konto"
+
+msgid "share_bd_accounts_sign_in"
+msgstr "Zaloguj"
+
+msgid "share_bd_accounts_use_existing"
+msgstr "Użyj istniejącego konta"
+
+msgid "share_bd_accounts_validate"
+msgstr "Zatwierdź"
+
+msgid "share_bd_album_update_list"
+msgstr "Aktualizuj listę albumów"
+
+msgid "share_bd_connect"
+msgstr "Połącz"
+
+msgid "share_bd_error_cancel_sharing"
+msgstr "Zakończ udostępnianie"
+
+msgid "share_bd_error_identification_edit_account"
+msgstr "Edytuj konto"
+
+msgid "share_bd_error_service_retry"
+msgstr "Ponów"
+
+msgid "share_bd_new_account"
+msgstr "Nowe"
+
+msgid "share_bd_options"
+msgstr "Opcje"
+
+msgid "share_bd_options_album"
+msgstr "Album"
+
+msgid "share_bd_options_metadata"
+msgstr "Metadane"
+
+msgid "share_bd_options_privacy"
+msgstr "Prywatność"
+
+msgid "share_bd_options_size"
+msgstr "Rozmiar obrazu"
+
+msgid "share_bd_send_bluetooth"
+msgstr "Wyślij przez Bluetooth"
+
+msgid "share_bd_send_email"
+msgstr "Wyślij przez pocztę e-mail"
+
+msgid "share_bd_share_to_service"
+msgstr "Udostępnij przez usługę"
+
+msgid "share_bd_tags"
+msgstr "Znaczniki"
+
+msgid "share_cpa_ti"
+msgstr "Konta udostępniania"
+
+msgid "share_fi_accounts_add_new_service"
+msgstr "Sprawdź dostępność nowych usług"
+
+msgid "share_fi_album_last_update"
+msgstr "Lista zaktualizowana"
+
+msgid "share_fi_cpa_edit_account_password"
+msgstr "Hasło"
+
+msgid "share_fi_cpa_edit_account_username"
+msgstr "Nazwa użytkownika"
+
+msgid "share_fi_cpa_no_accounts"
+msgstr "(brak kont)"
+
+msgid "share_fi_description_placeholder"
+msgstr "Opis"
+
+msgid "share_fi_favourite"
+msgstr "Ulubione"
+
+msgid "share_fi_favourites"
+msgstr "Ulubione"
+
+msgid "share_fi_options_metadata_keep_all"
+msgstr "Zachowaj wszystko"
+
+msgid "share_fi_options_metadata_remove_all"
+msgstr "Usuń zawartość pliku"
+
+msgid "share_fi_options_metadata_remove_some"
+msgstr "Usuń współrzędne GPS i nazwę autora"
+
+msgid "share_fi_options_privacy_family"
+msgstr "Rodzina"
+
+msgid "share_fi_options_privacy_friends"
+msgstr "Znajomi"
+
+msgid "share_fi_options_privacy_friends_and_family"
+msgstr "Rodzina i znajomi"
+
+msgid "share_fi_options_privacy_private"
+msgstr "Prywatny"
+
+msgid "share_fi_options_privacy_public"
+msgstr "Publiczny"
+
+msgid "share_fi_options_size_large"
+msgstr "Duży"
+
+msgid "share_fi_options_size_medium"
+msgstr "Średni"
+
+msgid "share_fi_options_size_original"
+msgstr "Zachowaj oryginalny"
+
+msgid "share_fi_options_size_small"
+msgstr "Mały"
+
+msgid "share_fi_status_account_not_available"
+msgstr "Konto niedostępne"
+
+msgid "share_fi_status_fileformat_error"
+msgstr "Błąd formatu pliku"
+
+msgid "share_fi_status_in_queue"
+msgstr "Kolejka"
+
+msgid "share_fi_status_menu_sending"
+msgstr "Wysyłanie do %s"
+
+msgid "share_fi_status_sending"
+msgstr "Wysyłanie"
+
+msgid "share_fi_status_unknown_error"
+msgstr "Błąd przesyłu"
+
+msgid "share_fi_status_upload_limit_error"
+msgstr "Błąd limitu wysyłania"
+
+msgid "share_fi_status_waiting_for_connection"
+msgstr "Oczekiwanie na połączenie"
+
+msgid "share_fi_status_waiting_for_service"
+msgstr "Oczekiwanie na usługę"
+
+msgid "share_fi_status_wrong_credentials"
+msgstr "Błąd identyfikacji"
+
+msgid "share_fi_title_placeholder"
+msgstr "Tytuł"
+
+msgid "share_ia_accounts_setup_web_sign_in"
+msgstr ""
+"Kontynuuj konfigurację, logując się do %s na stronie internetowej.\n"
+"Powróć do Konfiguracji konta po zalogowaniu się."
+
+msgid "share_ia_accounts_setup_web_start"
+msgstr ""
+"Nowe konto Flickr należy skonfigurować na stronie internetowej.\n"
+"Powróć do Konfiguracji konta po zarejestrowaniu istniejącego lub nowego "
+"konta."
+
+msgid "share_ia_accounts_setup_web_validate"
+msgstr "Zatwierdź konto, aby zakończyć proces konfiguracji"
+
+msgid "share_ia_cpa_edit_account_web"
+msgstr ""
+"Dotknij opcji Edytuj, aby otworzyć stronę WWW i edytować konto %s.\n"
+"Powróć do tego ekranu po edycji konta, aby zatwierdzić zmiany."
+
+msgid "share_ia_cpa_validate_changes"
+msgstr "Zatwierdź zmiany, aby zakończyć edycję konta"
+
+msgid "share_ia_error_account"
+msgstr ""
+"Nie można kontynuować przesyłania. Wybrane konto nie jest już dostępne."
+
+msgid "share_ia_error_connection"
+msgstr "Oczekiwanie na przesył i połączenie z Internetem."
+
+msgid "share_ia_error_fileformat"
+msgstr ""
+"Przesyłanie %d plików nie powiodło się. Usługa nie odbiera plików w tym "
+"formacie."
+
+msgid "share_ia_error_fileformat_single_file"
+msgstr ""
+"Przesyłanie %s nie powiodło się. Usługa nie odbiera plików w tym formacie."
+
+msgid "share_ia_error_identification"
+msgstr ""
+"Nie można kontynuować przesyłania. Nieprawidłowa nazwa użytkownika lub hasło "
+"dla %s."
+
+msgid "share_ia_error_identification_for_ovi"
+msgstr ""
+"Nie można kontynuować przesyłania. Nieprawidłowa nazwa użytkownika lub hasło "
+"dla %s.\n"
+"(Sprawdź także ustawienia godziny)."
+
+msgid "share_ia_error_service"
+msgstr "Oczekiwanie na przesył i odpowiedź usługi."
+
+msgid "share_ia_error_unknown"
+msgstr "Przesyłanie nie powiodło się. Nie można kontynuować."
+
+msgid "share_ia_error_upload_limit"
+msgstr ""
+"Przesyłanie %d plików nie powiodło się. Przekroczono limit wysyłania do "
+"usługi."
+
+msgid "share_ia_error_upload_limit_single_file"
+msgstr ""
+"Przesyłanie %s nie powiodło się. Przekroczono limit wysyłania do usługi."
+
+msgid "share_ib_account_editing_completed"
+msgstr "Edycja konta zakończona"
+
+msgid "share_ib_account_setup_completed"
+msgstr "Konfiguracja konta zakończona"
+
+msgid "share_ib_album_update_failed"
+msgstr "Błąd aktualizacji listy albumów"
+
+msgid "share_ib_all_files_no_longer_available"
+msgstr "Pliki niedostępne. Błąd udostępniania."
+
+msgid "share_ib_enter_credentials_first"
+msgstr "Najpierw wpisz nazwę użytkownika i hasło"
+
+msgid "share_ib_file_no_longer_available"
+msgstr "Plik %s niedostępny"
+
+msgid "share_ib_files_no_longer_available"
+msgstr "Niedostępne pliki: %d"
+
+msgid "share_ib_no_account_to_validate"
+msgstr "Nie zakończono konfiguracji konta. Operacja anulowana."
+
+msgid "share_ib_no_changes_to_validate"
+msgstr "Zmiany nie zakończone. Operacja anulowana."
+
+msgid "share_ib_no_connection"
+msgstr "Brak dostępnego połączenia sieciowego. Operacja anulowana."
+
+msgid "share_ib_no_files_selected"
+msgstr "Nie wybrano plików. Udostępnianie anulowane."
+
+msgid "share_ib_not_enough_memory_processing"
+msgstr "Za mało pamięci, aby przetworzyć pliki przed udostępnieniem"
+
+msgid "share_ib_not_enough_memory_scaling"
+msgstr "Za mało pamięci, aby zmienić rozmiar obrazów"
+
+msgid "share_ib_only_file_no_longer_available"
+msgstr "Plik niedostępny. Błąd udostępniania."
+
+msgid "share_ib_processing"
+msgstr "Przetwarzanie plików przed udostępnieniem"
+
+msgid "share_ib_service_not_responding"
+msgstr "Usługa nie odpowiada. Spróbuj ponownie później."
+
+msgid "share_ib_validation_failed"
+msgstr "Zatwierdzanie konta nie powiodło się"
+
+msgid "share_ib_wrong_credentials"
+msgstr "Nieprawidłowa nazwa użytkownika lub hasło"
+
+msgid "share_ib_wrong_credentials_for_ovi"
+msgstr ""
+"Nieprawidłowa nazwa użytkownika lub hasło.\n"
+"(Sprawdź także ustawienia godziny)."
+
+msgid "share_li_album_default"
+msgstr "Domyślny"
+
+msgid "share_li_album_mymedia"
+msgstr "Wszystkie multimedia"
+
+msgid "share_nc_cancel_sharing"
+msgstr "Zakończyć udostępnianie %d plików przez %s?"
+
+msgid "share_nc_cancel_sharing_single_file"
+msgstr "Zakończyć udostępnianie %s przez %s?"
+
+msgid "share_nc_delete_account"
+msgstr "Usunąć konto dla %s?"
+
+msgid "share_nc_delete_account_in_use"
+msgstr "Konto używane. Usunąć konto dla %s?"
+
+msgid "share_ni_account_deleted"
+msgstr ""
+"Konto przeznaczone do udostępniania zostało usunięte.\n"
+"Wybierz inne konto."
+
+msgid "share_ni_already_sent_multiple"
+msgstr "Pliki wysłane do usługi: %d"
+
+msgid "share_ni_already_sent_single"
+msgstr "Plik %s wysłany do usługi"
+
+msgid "share_ni_metadata_removal_some"
+msgstr ""
+"Nie można usunąć metadanych z %d z %d plików.\n"
+"Można usunąć metadane wyłącznie innych plików."
+
+msgid "share_ni_non_local_files"
+msgstr ""
+"Nie można udostępniać plików, które nie są zapisane lokalnie. Operacja "
+"anulowana."
+
+msgid "share_ni_only_account_deleted"
+msgstr ""
+"Konto przeznaczone do udostępniania zostało usunięte.\n"
+"Utwórz nowe konto."
+
+msgid "share_ni_outbox_full"
+msgstr "Za mało pamięci, aby rozpocząć nowe przesyłanie"
+
+msgid "share_ni_sso_account_setup_completed"
+msgstr ""
+"Konfiguracja konta serwisu Ovi firmy Nokia zakończona.\n"
+"Udostępnianie, czat i usługi internetowe aktywowane"
+
+msgid "share_ni_too_many_files"
+msgstr ""
+"Nie można udostępnić więcej niż %d pliki(-ów) jednocześnie. Operacja "
+"anulowana."
+
+msgid "share_ni_username_existing"
+msgstr ""
+"Konto z nazwą użytkownika %s już istnieje dla %s.\n"
+"Operacja anulowana."
+
+msgid "share_ti_accounts_select_service"
+msgstr "Konfiguracja konta - Wybór usługi"
+
+msgid "share_ti_accounts_setup"
+msgstr "Konfiguracja konta - %s"
+
+msgid "share_ti_accounts_setup_web_sign_in"
+msgstr "Konfiguracja konta - Logowanie do %s"
+
+msgid "share_ti_accounts_setup_web_validate"
+msgstr "Konfiguracja konta - Zatwierdzanie konta %s"
+
+msgid "share_ti_accounts_validating"
+msgstr "Zatwierdzanie konta dla %s"
+
+msgid "share_ti_cpa_edit_account"
+msgstr "Edytuj konto użytkownika %s"
+
+msgid "share_ti_cpa_validate_changes"
+msgstr "Zatwierdź zmiany dla konta %s"
+
+msgid "share_ti_cpa_validating_changes"
+msgstr "Zatwierdzanie zmian dla konta %s"
+
+msgid "share_ti_options"
+msgstr "Opcje udostępniania"
+
+msgid "share_ti_select_account"
+msgstr "Wybierz konto"
+
+msgid "share_ti_select_album"
+msgstr "Wybierz album"
+
+msgid "share_ti_share_dialogs_multiple"
+msgstr "Udostępnij pliki: %d"
+
+msgid "share_ti_share_dialogs_single"
+msgstr "Udostępnij %s"
+
+msgid "share_ti_share_status_dialog"
+msgstr "Stan udostępniania"
+
+msgid "share_ti_single_content_details"
+msgstr "Edytuj szczegóły: %s"
+
+msgid "share_ti_status_menu_plug_in"
+msgstr "Udostępnianie"
+
+msgid "share_ti_transfer_error_dialogs"
+msgstr "Udostępnianie %d plików przez %s"
+
+msgid "share_ti_transfer_error_dialogs_single_file"
+msgstr "Udostępnianie %s przez %s"

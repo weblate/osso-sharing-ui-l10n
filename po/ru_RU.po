@@ -1,0 +1,399 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-sharing-ui 20091214124314\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.12.14 12:43+0200\n"
+"PO-Revision-Date: 2009.12.14 12:43+0200\n"
+"Last-Translator:\n"
+"Language-Team: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2\n"
+
+msgid "share_bd_account"
+msgstr "Учетная запись"
+
+msgid "share_bd_accounts_register_new"
+msgstr "Регистрация новой учетной записи"
+
+msgid "share_bd_accounts_sign_in"
+msgstr "Регистрация"
+
+msgid "share_bd_accounts_use_existing"
+msgstr "Использовать существующую учетную запись"
+
+msgid "share_bd_accounts_validate"
+msgstr "Подтвердить"
+
+msgid "share_bd_album_update_list"
+msgstr "Обновить список альбомов"
+
+msgid "share_bd_connect"
+msgstr "Подключить"
+
+msgid "share_bd_error_cancel_sharing"
+msgstr "Остановить обмен"
+
+msgid "share_bd_error_identification_edit_account"
+msgstr "Изменить учетную запись"
+
+msgid "share_bd_error_service_retry"
+msgstr "Повторить"
+
+msgid "share_bd_new_account"
+msgstr "Создать"
+
+msgid "share_bd_options"
+msgstr "Параметры"
+
+msgid "share_bd_options_album"
+msgstr "Альбом"
+
+msgid "share_bd_options_metadata"
+msgstr "Метаданные"
+
+msgid "share_bd_options_privacy"
+msgstr "Конфиденциальность"
+
+msgid "share_bd_options_size"
+msgstr "Размер изображения"
+
+msgid "share_bd_send_bluetooth"
+msgstr "Отправить через Bluetooth"
+
+msgid "share_bd_send_email"
+msgstr "Отправить по эл. почте"
+
+msgid "share_bd_share_to_service"
+msgstr "Совм. использ-е через службу"
+
+msgid "share_bd_tags"
+msgstr "Тэги"
+
+msgid "share_cpa_ti"
+msgstr "Учетные записи обмена"
+
+msgid "share_fi_accounts_add_new_service"
+msgstr "Проверить наличие новых сервисов"
+
+msgid "share_fi_album_last_update"
+msgstr "Список обновлен"
+
+msgid "share_fi_cpa_edit_account_password"
+msgstr "Пароль"
+
+msgid "share_fi_cpa_edit_account_username"
+msgstr "Имя пользователя"
+
+msgid "share_fi_cpa_no_accounts"
+msgstr "(нет учетных записей)"
+
+msgid "share_fi_description_placeholder"
+msgstr "Описание"
+
+msgid "share_fi_favourite"
+msgstr "Избранное"
+
+msgid "share_fi_favourites"
+msgstr "Избранное"
+
+msgid "share_fi_options_metadata_keep_all"
+msgstr "Хранить все"
+
+msgid "share_fi_options_metadata_remove_all"
+msgstr "Удалить все в файле"
+
+msgid "share_fi_options_metadata_remove_some"
+msgstr "Удалить координаты GPS и имя автора"
+
+msgid "share_fi_options_privacy_family"
+msgstr "Родные"
+
+msgid "share_fi_options_privacy_friends"
+msgstr "Друзья"
+
+msgid "share_fi_options_privacy_friends_and_family"
+msgstr "Друзья и родные"
+
+msgid "share_fi_options_privacy_private"
+msgstr "Личный"
+
+msgid "share_fi_options_privacy_public"
+msgstr "Неконфиденциально"
+
+msgid "share_fi_options_size_large"
+msgstr "Большой"
+
+msgid "share_fi_options_size_medium"
+msgstr "Средний"
+
+msgid "share_fi_options_size_original"
+msgstr "Сохранить исходное изображение"
+
+msgid "share_fi_options_size_small"
+msgstr "Маленький"
+
+msgid "share_fi_status_account_not_available"
+msgstr "Учетная запись недоступна"
+
+msgid "share_fi_status_fileformat_error"
+msgstr "Ошибка формата файла"
+
+msgid "share_fi_status_in_queue"
+msgstr "В очереди"
+
+msgid "share_fi_status_menu_sending"
+msgstr "Отправка на %s"
+
+msgid "share_fi_status_sending"
+msgstr "Отправка"
+
+msgid "share_fi_status_unknown_error"
+msgstr "Ошибка передачи"
+
+msgid "share_fi_status_upload_limit_error"
+msgstr "Ошибка предела загрузки"
+
+msgid "share_fi_status_waiting_for_connection"
+msgstr "Ожидание соединения"
+
+msgid "share_fi_status_waiting_for_service"
+msgstr "Ожидание сервиса"
+
+msgid "share_fi_status_wrong_credentials"
+msgstr "Ошибка идентификации"
+
+msgid "share_fi_title_placeholder"
+msgstr "Заголовок"
+
+msgid "share_ia_accounts_setup_web_sign_in"
+msgstr ""
+"Продолжайте настройку учетной записи путем регистрации на %s на веб-"
+"странице.\n"
+"После регистрации вернитесь в окно Настройка учетной записи."
+
+msgid "share_ia_accounts_setup_web_start"
+msgstr ""
+"Новую учетную запись Flickr следует настроить на веб-странице.\n"
+"Вернитесь в окно \"Настройка учетной записи\" после регистрации новой или "
+"уже существующей учетной записи."
+
+msgid "share_ia_accounts_setup_web_validate"
+msgstr "Для завершения настройки учетной записи ее следует подтвердить"
+
+msgid "share_ia_cpa_edit_account_web"
+msgstr ""
+"Нажмите Изменить, чтобы открыть веб-страницу для изменения учетной записи "
+"%s.\n"
+"Вернитесь после редактирования учетной записи для подтверждения изменений."
+
+msgid "share_ia_cpa_validate_changes"
+msgstr "Подтвердите изменения для завершения редактирования учетной записи"
+
+msgid "share_ia_error_account"
+msgstr "Не удается продолжить передачу. Выбранная учетная запись недоступна."
+
+msgid "share_ia_error_connection"
+msgstr "Передача отложена. Ожидание Интернет-соединения."
+
+msgid "share_ia_error_fileformat"
+msgstr "Сбой передачи файлов (%d). Формат файла не может быть принят службой."
+
+msgid "share_ia_error_fileformat_single_file"
+msgstr "Сбой передачи %s. Формат файла не может быть принят службой."
+
+msgid "share_ia_error_identification"
+msgstr ""
+"Не удается продолжить передачу. Неверное имя пользователя или пароль для %s."
+
+msgid "share_ia_error_identification_for_ovi"
+msgstr ""
+"Не удается продолжить передачу. Неверное имя пользователя или пароль для "
+"%s.\n"
+"(Проверьте также настройки времени)."
+
+msgid "share_ia_error_service"
+msgstr "Передача отложена. Ожидание ответа сервиса."
+
+msgid "share_ia_error_unknown"
+msgstr "Сбой передачи. Не удается продолжить."
+
+msgid "share_ia_error_upload_limit"
+msgstr "Сбой передачи файлов (%d). Превышен предел загрузки службы."
+
+msgid "share_ia_error_upload_limit_single_file"
+msgstr "Сбой передачи %s. Превышен предел загрузки службы."
+
+msgid "share_ib_account_editing_completed"
+msgstr "Изменение учетной записи завершено"
+
+msgid "share_ib_account_setup_completed"
+msgstr "Настройка учетной записи завершена"
+
+msgid "share_ib_album_update_failed"
+msgstr "Не удалось обновить список альбомов"
+
+msgid "share_ib_all_files_no_longer_available"
+msgstr "Файлы отсутствуют. Обмен не выполнен."
+
+msgid "share_ib_enter_credentials_first"
+msgstr "Сначала введите имя пользователя и пароль"
+
+msgid "share_ib_file_no_longer_available"
+msgstr "%s отсутствует"
+
+msgid "share_ib_files_no_longer_available"
+msgstr "Отсутствует файлов: %d"
+
+msgid "share_ib_no_account_to_validate"
+msgstr "Настройка учетной записи не завершена. Операция отменена."
+
+msgid "share_ib_no_changes_to_validate"
+msgstr "Внесение изменений не завершено. Операция отменена."
+
+msgid "share_ib_no_connection"
+msgstr "Нет сетевого соединения. Операция отменена."
+
+msgid "share_ib_no_files_selected"
+msgstr "Файлы не выбраны. Отправка отменена."
+
+msgid "share_ib_not_enough_memory_processing"
+msgstr "Недостаточно памяти для обработки файлов перед отправкой"
+
+msgid "share_ib_not_enough_memory_scaling"
+msgstr "Недостаточно памяти для изменения размера изображений"
+
+msgid "share_ib_only_file_no_longer_available"
+msgstr "Файл отсутствует. Обмен не выполнен."
+
+msgid "share_ib_processing"
+msgstr "Обработка файлов перед отправкой"
+
+msgid "share_ib_service_not_responding"
+msgstr "Сервис не отвечает. Повторите попытку позднее."
+
+msgid "share_ib_validation_failed"
+msgstr "Сбой при утверждении учетной записи"
+
+msgid "share_ib_wrong_credentials"
+msgstr "Неверное имя пользователя или пароль"
+
+msgid "share_ib_wrong_credentials_for_ovi"
+msgstr ""
+"Неверное имя пользователя или пароль.\n"
+"(Проверьте также настройки времени)."
+
+msgid "share_li_album_default"
+msgstr "По умолчанию"
+
+msgid "share_li_album_mymedia"
+msgstr "Все медиафайлы"
+
+msgid "share_nc_cancel_sharing"
+msgstr "Остановить совместное использование файлов (%d) через %s?"
+
+msgid "share_nc_cancel_sharing_single_file"
+msgstr "Остановить совместное использование %s через %s?"
+
+msgid "share_nc_delete_account"
+msgstr "Удалить учетную запись для %s?"
+
+msgid "share_nc_delete_account_in_use"
+msgstr "Учетная запись используется. Удалить учетную запись для %s?"
+
+msgid "share_ni_account_deleted"
+msgstr ""
+"Выбранная для обмена учетная запись была удалена.\n"
+"Выберите другую учетную запись."
+
+msgid "share_ni_already_sent_multiple"
+msgstr "%d файлов, отправленных на сервис."
+
+msgid "share_ni_already_sent_single"
+msgstr "%s уже отправлены на сервис"
+
+msgid "share_ni_metadata_removal_some"
+msgstr ""
+"Не удалось удалить метаданные из файлов (%d/%d).\n"
+"Удалены метаданные только из остальных файлов."
+
+msgid "share_ni_non_local_files"
+msgstr "Не удается отправить нелокальные файлы. Операция отменена."
+
+msgid "share_ni_only_account_deleted"
+msgstr ""
+"Выбранная для обмена учетная запись была удалена.\n"
+"Следует создать новую учетную запись."
+
+msgid "share_ni_outbox_full"
+msgstr "Недостаточно памяти для новой передачи"
+
+msgid "share_ni_sso_account_setup_completed"
+msgstr ""
+"Настройка учетной записи для Ovi Nokia завершена.\n"
+"Чат, обмен и веб-службы активированы."
+
+msgid "share_ni_too_many_files"
+msgstr ""
+"Не удается отправить больше чем %d файла за один раз. Операция отменена."
+
+msgid "share_ni_username_existing"
+msgstr ""
+"Учетная запись с именем пользователя %s уже существует для %s.\n"
+"Операция отменена."
+
+msgid "share_ti_accounts_select_service"
+msgstr "Настройка учетной записи - Выберите сервис"
+
+msgid "share_ti_accounts_setup"
+msgstr "Настройка учетной записи - %s"
+
+msgid "share_ti_accounts_setup_web_sign_in"
+msgstr "Настройка учетной записи - Зарегистрироваться на %s"
+
+msgid "share_ti_accounts_setup_web_validate"
+msgstr "Настройка учетной записи - Подтверждение учетной записи %s"
+
+msgid "share_ti_accounts_validating"
+msgstr "Подтверждение учетной записи для %s"
+
+msgid "share_ti_cpa_edit_account"
+msgstr "Изменить учетную запись %s"
+
+msgid "share_ti_cpa_validate_changes"
+msgstr "Подтвердить изменения учетной записи %s"
+
+msgid "share_ti_cpa_validating_changes"
+msgstr "Подтверждение изменений учетной записи %s"
+
+msgid "share_ti_options"
+msgstr "Параметры общего доступа"
+
+msgid "share_ti_select_account"
+msgstr "Выберите учетную запись"
+
+msgid "share_ti_select_album"
+msgstr "Выберите альбом"
+
+msgid "share_ti_share_dialogs_multiple"
+msgstr "Открыть общий доступ к файлам (%d)"
+
+msgid "share_ti_share_dialogs_single"
+msgstr "Открыть общий доступ %s"
+
+msgid "share_ti_share_status_dialog"
+msgstr "Состояние обмена"
+
+msgid "share_ti_single_content_details"
+msgstr "Изменить сведения: %s"
+
+msgid "share_ti_status_menu_plug_in"
+msgstr "Обмен"
+
+msgid "share_ti_transfer_error_dialogs"
+msgstr "Совместное использование файлов (%d) через %s"
+
+msgid "share_ti_transfer_error_dialogs_single_file"
+msgstr "Совместное использование %s через %s"

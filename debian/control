@@ -1,0 +1,119 @@
+Source: osso-sharing-ui-l10n
+Section: misc
+Priority: optional
+Maintainer: Ivan J. <parazyd@dyne.org>
+Build-Depends: debhelper-compat (= 12), gettext
+Standards-Version: 4.3.0
+
+Package: osso-sharing-ui-l10n-mr0
+Section: misc
+Architecture: all
+Provides: osso-sharing-ui-l10n-mr
+Depends: osso-sharing-ui-l10n-ruru, osso-sharing-ui-l10n-frfr, osso-sharing-ui-l10n-frca, osso-sharing-ui-l10n-dadk, osso-sharing-ui-l10n-itit, osso-sharing-ui-l10n-svse, osso-sharing-ui-l10n-nono, osso-sharing-ui-l10n-fifi, osso-sharing-ui-l10n-nlnl, osso-sharing-ui-l10n-enus, osso-sharing-ui-l10n-dede, osso-sharing-ui-l10n-esmx, osso-sharing-ui-l10n-eses, osso-sharing-ui-l10n-cscz, osso-sharing-ui-l10n-ptpt, osso-sharing-ui-l10n-engb, osso-sharing-ui-l10n-plpl
+Description: osso-sharing-ui marketing release package
+ This is a metapackage for osso-sharing-ui to pull all the l10n packages.
+ Application developers of osso-sharing-ui should depend on
+ "osso-sharing-ui-l10n-mr0 | osso-sharing-ui-l10n-mr"
+ to ensure correct locales are getting installed.
+
+Package: osso-sharing-ui-l10n-cscz
+Section: misc
+Architecture: all
+Description: language files for osso-sharing-ui (cs_CZ)
+ Language files for cs_CZ osso-sharing-ui.
+
+Package: osso-sharing-ui-l10n-dadk
+Section: misc
+Architecture: all
+Description: language files for osso-sharing-ui (da_DK)
+ Language files for da_DK osso-sharing-ui.
+
+Package: osso-sharing-ui-l10n-dede
+Section: misc
+Architecture: all
+Description: language files for osso-sharing-ui (de_DE)
+ Language files for de_DE osso-sharing-ui.
+
+Package: osso-sharing-ui-l10n-engb
+Section: misc
+Architecture: all
+Description: language files for osso-sharing-ui (en_GB)
+ Language files for en_GB osso-sharing-ui.
+
+Package: osso-sharing-ui-l10n-enus
+Section: misc
+Architecture: all
+Description: language files for osso-sharing-ui (en_US)
+ Language files for en_US osso-sharing-ui.
+
+Package: osso-sharing-ui-l10n-eses
+Section: misc
+Architecture: all
+Description: language files for osso-sharing-ui (es_ES)
+ Language files for es_ES osso-sharing-ui.
+
+Package: osso-sharing-ui-l10n-esmx
+Section: misc
+Architecture: all
+Description: language files for osso-sharing-ui (es_MX)
+ Language files for es_MX osso-sharing-ui.
+
+Package: osso-sharing-ui-l10n-fifi
+Section: misc
+Architecture: all
+Description: language files for osso-sharing-ui (fi_FI)
+ Language files for fi_FI osso-sharing-ui.
+
+Package: osso-sharing-ui-l10n-frca
+Section: misc
+Architecture: all
+Description: language files for osso-sharing-ui (fr_CA)
+ Language files for fr_CA osso-sharing-ui.
+
+Package: osso-sharing-ui-l10n-frfr
+Section: misc
+Architecture: all
+Description: language files for osso-sharing-ui (fr_FR)
+ Language files for fr_FR osso-sharing-ui.
+
+Package: osso-sharing-ui-l10n-itit
+Section: misc
+Architecture: all
+Description: language files for osso-sharing-ui (it_IT)
+ Language files for it_IT osso-sharing-ui.
+
+Package: osso-sharing-ui-l10n-nlnl
+Section: misc
+Architecture: all
+Description: language files for osso-sharing-ui (nl_NL)
+ Language files for nl_NL osso-sharing-ui.
+
+Package: osso-sharing-ui-l10n-nono
+Section: misc
+Architecture: all
+Description: language files for osso-sharing-ui (no_NO)
+ Language files for no_NO osso-sharing-ui.
+
+Package: osso-sharing-ui-l10n-plpl
+Section: misc
+Architecture: all
+Description: language files for osso-sharing-ui (pl_PL)
+ Language files for pl_PL osso-sharing-ui.
+
+Package: osso-sharing-ui-l10n-ptpt
+Section: misc
+Architecture: all
+Description: language files for osso-sharing-ui (pt_PT)
+ Language files for pt_PT osso-sharing-ui.
+
+Package: osso-sharing-ui-l10n-ruru
+Section: misc
+Architecture: all
+Description: language files for osso-sharing-ui (ru_RU)
+ Language files for ru_RU osso-sharing-ui.
+
+Package: osso-sharing-ui-l10n-svse
+Section: misc
+Architecture: all
+Description: language files for osso-sharing-ui (sv_SE)
+ Language files for sv_SE osso-sharing-ui.

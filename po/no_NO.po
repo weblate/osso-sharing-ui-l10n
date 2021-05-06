@@ -1,0 +1,402 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-sharing-ui 20091214124314\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.12.14 12:43+0200\n"
+"PO-Revision-Date: 2009.12.14 12:43+0200\n"
+"Last-Translator:\n"
+"Language-Team: no_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "share_bd_account"
+msgstr "Konto"
+
+msgid "share_bd_accounts_register_new"
+msgstr "Registrer ny konto"
+
+msgid "share_bd_accounts_sign_in"
+msgstr "Logg deg på"
+
+msgid "share_bd_accounts_use_existing"
+msgstr "Bruk eksisterende konto"
+
+msgid "share_bd_accounts_validate"
+msgstr "Godkjenn"
+
+msgid "share_bd_album_update_list"
+msgstr "Oppdater albumliste"
+
+msgid "share_bd_connect"
+msgstr "Koble til"
+
+msgid "share_bd_error_cancel_sharing"
+msgstr "Stans deling"
+
+msgid "share_bd_error_identification_edit_account"
+msgstr "Rediger konto"
+
+msgid "share_bd_error_service_retry"
+msgstr "Prøv på nytt"
+
+msgid "share_bd_new_account"
+msgstr "Ny"
+
+msgid "share_bd_options"
+msgstr "Alternativer"
+
+msgid "share_bd_options_album"
+msgstr "Album"
+
+msgid "share_bd_options_metadata"
+msgstr "Metadata"
+
+msgid "share_bd_options_privacy"
+msgstr "Personvern"
+
+msgid "share_bd_options_size"
+msgstr "Bildestørrelse"
+
+msgid "share_bd_send_bluetooth"
+msgstr "Send via Bluetooth"
+
+msgid "share_bd_send_email"
+msgstr "Send via e-post"
+
+msgid "share_bd_share_to_service"
+msgstr "Del via tjeneste"
+
+msgid "share_bd_tags"
+msgstr "Koder"
+
+msgid "share_cpa_ti"
+msgstr "Kontoer for deling"
+
+msgid "share_fi_accounts_add_new_service"
+msgstr "Se etter ny tjeneste"
+
+msgid "share_fi_album_last_update"
+msgstr "Listen er oppdatert"
+
+msgid "share_fi_cpa_edit_account_password"
+msgstr "Passord"
+
+msgid "share_fi_cpa_edit_account_username"
+msgstr "Brukernavn"
+
+msgid "share_fi_cpa_no_accounts"
+msgstr "(ingen kontoer)"
+
+msgid "share_fi_description_placeholder"
+msgstr "Beskrivelse"
+
+msgid "share_fi_favourite"
+msgstr "Favoritt"
+
+msgid "share_fi_favourites"
+msgstr "Favoritter"
+
+msgid "share_fi_options_metadata_keep_all"
+msgstr "Behold alle"
+
+msgid "share_fi_options_metadata_remove_all"
+msgstr "Fjern alle i filen"
+
+msgid "share_fi_options_metadata_remove_some"
+msgstr "Fjern GPS-koordinater og oppretternavn"
+
+msgid "share_fi_options_privacy_family"
+msgstr "Familie"
+
+msgid "share_fi_options_privacy_friends"
+msgstr "Venner"
+
+msgid "share_fi_options_privacy_friends_and_family"
+msgstr "Familie og venner"
+
+msgid "share_fi_options_privacy_private"
+msgstr "Privat"
+
+msgid "share_fi_options_privacy_public"
+msgstr "Offentlig"
+
+msgid "share_fi_options_size_large"
+msgstr "Stor"
+
+msgid "share_fi_options_size_medium"
+msgstr "Middels"
+
+msgid "share_fi_options_size_original"
+msgstr "Behold original"
+
+msgid "share_fi_options_size_small"
+msgstr "Liten"
+
+msgid "share_fi_status_account_not_available"
+msgstr "Kontoen er ikke tilgjengelig"
+
+msgid "share_fi_status_fileformat_error"
+msgstr "Filformatfeil"
+
+msgid "share_fi_status_in_queue"
+msgstr "I kø"
+
+msgid "share_fi_status_menu_sending"
+msgstr "Sender til %s"
+
+msgid "share_fi_status_sending"
+msgstr "Sender"
+
+msgid "share_fi_status_unknown_error"
+msgstr "Overføringsfeil"
+
+msgid "share_fi_status_upload_limit_error"
+msgstr "Opplastingsgrensefeil"
+
+msgid "share_fi_status_waiting_for_connection"
+msgstr "Venter på tilkobling"
+
+msgid "share_fi_status_waiting_for_service"
+msgstr "Venter på tjeneste"
+
+msgid "share_fi_status_wrong_credentials"
+msgstr "Identifikasjonsfeil"
+
+msgid "share_fi_title_placeholder"
+msgstr "Tittel"
+
+msgid "share_ia_accounts_setup_web_sign_in"
+msgstr ""
+"Fortsett kontooppsettet ved å logge deg på %s via nettsiden.\n"
+"Gå tilbake til Kontooppsett etter at du har logget på."
+
+msgid "share_ia_accounts_setup_web_start"
+msgstr ""
+"Du må konfigurere en ny Flickr-konto via nettsiden.\n"
+"Gå tilbake til Kontooppsett etter at du har registrert den eksisterende "
+"eller nye kontoen."
+
+msgid "share_ia_accounts_setup_web_validate"
+msgstr "Godkjenn kontoen for å fullføre kontooppsettet"
+
+msgid "share_ia_cpa_edit_account_web"
+msgstr ""
+"Trykk Rediger for å åpne nettsiden for redigering av kontoen %s.\n"
+"Gå tilbake hit etter at du har redigert kontoen, for å godkjenne endringene."
+
+msgid "share_ia_cpa_validate_changes"
+msgstr "Godkjenn endringene for å fullføre kontoredigering"
+
+msgid "share_ia_error_account"
+msgstr ""
+"Kan ikke fortsette overføringen. Den valgte kontoen er ikke lenger "
+"tilgjengelig."
+
+msgid "share_ia_error_connection"
+msgstr "Overføring venter. Venter på Internett-tilkobling."
+
+msgid "share_ia_error_fileformat"
+msgstr ""
+"Overføring av %d filer mislyktes. Filformatet er ugyldig for tjenesten."
+
+msgid "share_ia_error_fileformat_single_file"
+msgstr "Overføring av %s mislyktes. Filformatet er ugyldig for tjenesten."
+
+msgid "share_ia_error_identification"
+msgstr ""
+"Kan ikke fortsette overføringen. Det er angitt feil brukernavn eller passord "
+"for %s."
+
+msgid "share_ia_error_identification_for_ovi"
+msgstr ""
+"Kan ikke fortsette overføringen. Det er angitt feil brukernavn eller passord "
+"for %s.\n"
+"(Kontroller også tidsinnstillingene.)"
+
+msgid "share_ia_error_service"
+msgstr "Overføring venter. Venter på tjenestesvar."
+
+msgid "share_ia_error_unknown"
+msgstr "Overføringen mislyktes. Kan ikke fortsette."
+
+msgid "share_ia_error_upload_limit"
+msgstr ""
+"Overføring av %d filer mislyktes. Tjenestens opplastingsgrense er "
+"overskredet."
+
+msgid "share_ia_error_upload_limit_single_file"
+msgstr ""
+"Overføring av %s mislyktes. Tjenestens opplastingsgrense er overskredet."
+
+msgid "share_ib_account_editing_completed"
+msgstr "Kontoredigeringen er fullført"
+
+msgid "share_ib_account_setup_completed"
+msgstr "Kontooppsettet er fullført"
+
+msgid "share_ib_album_update_failed"
+msgstr "Oppdatering av albumlisten mislyktes"
+
+msgid "share_ib_all_files_no_longer_available"
+msgstr "Filene er ikke lenger tilgjengelige. Deling mislyktes."
+
+msgid "share_ib_enter_credentials_first"
+msgstr "Skriv først inn brukernavn og passord"
+
+msgid "share_ib_file_no_longer_available"
+msgstr "%s er ikke lenger tilgjengelig"
+
+msgid "share_ib_files_no_longer_available"
+msgstr "%d filer er ikke lenger tilgjengelige"
+
+msgid "share_ib_no_account_to_validate"
+msgstr "Kontooppsettet ble ikke fullført. Operasjonen er avbrutt."
+
+msgid "share_ib_no_changes_to_validate"
+msgstr "Endringene ble ikke fullførte. Operasjonen er avbrutt."
+
+msgid "share_ib_no_connection"
+msgstr "Det er ingen nettverkstilkobling tilgjengelig. Operasjonen mislyktes."
+
+msgid "share_ib_no_files_selected"
+msgstr "Det er ikke valgt filer. Delingen er avbrutt."
+
+msgid "share_ib_not_enough_memory_processing"
+msgstr "Ikke nok minne til å behandle filer før deling"
+
+msgid "share_ib_not_enough_memory_scaling"
+msgstr "Ikke nok minne til å endre bildestørrelsen"
+
+msgid "share_ib_only_file_no_longer_available"
+msgstr "Filen er ikke lenger tilgjengelig. Deling mislyktes."
+
+msgid "share_ib_processing"
+msgstr "Behandler filer før deling"
+
+msgid "share_ib_service_not_responding"
+msgstr "Tjenesten svarer ikke. Prøv igjen senere."
+
+msgid "share_ib_validation_failed"
+msgstr "Kontogodkjenningen mislyktes"
+
+msgid "share_ib_wrong_credentials"
+msgstr "Feil brukernavn eller passord"
+
+msgid "share_ib_wrong_credentials_for_ovi"
+msgstr ""
+"Feil brukernavn eller passord.\n"
+"(Kontroller også tidsinnstillingene.)"
+
+msgid "share_li_album_default"
+msgstr "Standard"
+
+msgid "share_li_album_mymedia"
+msgstr "Alle medier"
+
+msgid "share_nc_cancel_sharing"
+msgstr "Stanse deling av %d filer via %s?"
+
+msgid "share_nc_cancel_sharing_single_file"
+msgstr "Stanse deling av %s via %s?"
+
+msgid "share_nc_delete_account"
+msgstr "Slette kontoen for %s?"
+
+msgid "share_nc_delete_account_in_use"
+msgstr "Kontoen er i bruk. Slette kontoen for %s?"
+
+msgid "share_ni_account_deleted"
+msgstr ""
+"Kontoen som er valgt for deling, er slettet.\n"
+"Velg en annen konto."
+
+msgid "share_ni_already_sent_multiple"
+msgstr "%d filer er allerede sendt til tjeneste"
+
+msgid "share_ni_already_sent_single"
+msgstr "%s er allerede sendt til tjeneste"
+
+msgid "share_ni_metadata_removal_some"
+msgstr ""
+"Kan ikke fjerne metadata fra filene %d/%d.\n"
+"Det er bare metadata fra andre filer som fjernes."
+
+msgid "share_ni_non_local_files"
+msgstr "Kan ikke dele filer som ikke er lokale. Operasjonen er avbrutt."
+
+msgid "share_ni_only_account_deleted"
+msgstr ""
+"Kontoen som er valgt for deling, er slettet.\n"
+"Opprett en ny konto."
+
+msgid "share_ni_outbox_full"
+msgstr "Ikke nok minne til nye overføringer"
+
+msgid "share_ni_sso_account_setup_completed"
+msgstr ""
+"Kontooppsettet for Ovi by Nokia er fullført.\n"
+"Deling, nettprat og webtjenester er aktivert."
+
+msgid "share_ni_too_many_files"
+msgstr "Kan ikke dele mer enn %d filer samtidig. Operasjonen er avbrutt."
+
+msgid "share_ni_username_existing"
+msgstr ""
+"Kontoen med brukernavnet %s finnes allerede for %s.\n"
+"Operasjonen er avbrutt."
+
+msgid "share_ti_accounts_select_service"
+msgstr "Kontooppsett – velg tjeneste"
+
+msgid "share_ti_accounts_setup"
+msgstr "Kontooppsett – %s"
+
+msgid "share_ti_accounts_setup_web_sign_in"
+msgstr "Kontooppsett – logg deg på %s"
+
+msgid "share_ti_accounts_setup_web_validate"
+msgstr "Kontooppsett – godkjenn kontoen %s"
+
+msgid "share_ti_accounts_validating"
+msgstr "Godkjenner kontoen for %s"
+
+msgid "share_ti_cpa_edit_account"
+msgstr "Rediger konto for %s"
+
+msgid "share_ti_cpa_validate_changes"
+msgstr "Godkjenn endringene for kontoen %s"
+
+msgid "share_ti_cpa_validating_changes"
+msgstr "Godkjenner endringene for kontoen %s"
+
+msgid "share_ti_options"
+msgstr "Delingsalternativer"
+
+msgid "share_ti_select_account"
+msgstr "Velg konto"
+
+msgid "share_ti_select_album"
+msgstr "Velg album"
+
+msgid "share_ti_share_dialogs_multiple"
+msgstr "Del %d filer"
+
+msgid "share_ti_share_dialogs_single"
+msgstr "Del %s"
+
+msgid "share_ti_share_status_dialog"
+msgstr "Delingsstatus"
+
+msgid "share_ti_single_content_details"
+msgstr "Rediger detaljer: %s"
+
+msgid "share_ti_status_menu_plug_in"
+msgstr "Deling"
+
+msgid "share_ti_transfer_error_dialogs"
+msgstr "Deler %d filer via %s"
+
+msgid "share_ti_transfer_error_dialogs_single_file"
+msgstr "Deler %s via %s"
