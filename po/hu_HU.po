@@ -1,0 +1,380 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-sharing-ui 20090706094241\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2010-01-31 22:55+0100\n"
+"Last-Translator: attilaposa <laposa@pannongsm.hu>\n"
+"Language-Team: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "share_bd_account"
+msgstr "Fiók"
+
+msgid "share_bd_accounts_register_new"
+msgstr "Új fiók regisztrálása"
+
+msgid "share_bd_accounts_sign_in"
+msgstr "Bejelentkezés"
+
+msgid "share_bd_accounts_use_existing"
+msgstr "Meglévő fiók használata"
+
+msgid "share_bd_accounts_validate"
+msgstr "Érvényesítés"
+
+msgid "share_bd_album_update_list"
+msgstr "Albumlista frissítése"
+
+msgid "share_bd_connect"
+msgstr "Csatlakozás"
+
+msgid "share_bd_error_cancel_sharing"
+msgstr "Megosztás leállítása"
+
+msgid "share_bd_error_identification_edit_account"
+msgstr "Fiók szerkesztése"
+
+msgid "share_bd_error_service_retry"
+msgstr "Ismét"
+
+msgid "share_bd_new_account"
+msgstr "Új"
+
+msgid "share_bd_options"
+msgstr "Opciók"
+
+msgid "share_bd_options_album"
+msgstr "Album"
+
+msgid "share_bd_options_metadata"
+msgstr "Meta-adat"
+
+msgid "share_bd_options_privacy"
+msgstr "Titoktartás"
+
+msgid "share_bd_options_size"
+msgstr "Kép mérete"
+
+msgid "share_bd_send_bluetooth"
+msgstr "Küldés Bluetooth-on"
+
+msgid "share_bd_send_email"
+msgstr "Küldés E-mail-en"
+
+msgid "share_bd_share_to_service"
+msgstr "Megoszás szolgáltatással"
+
+msgid "share_bd_tags"
+msgstr "Cimkék"
+
+msgid "share_cpa_ti"
+msgstr "Megosztási fiók"
+
+msgid "share_fi_accounts_add_new_service"
+msgstr "Új szolgáltatás ellenőrzése"
+
+msgid "share_fi_album_last_update"
+msgstr "Lista frissítve"
+
+msgid "share_fi_cpa_edit_account_password"
+msgstr "Jelszó"
+
+msgid "share_fi_cpa_edit_account_username"
+msgstr "Felhasználónév"
+
+msgid "share_fi_cpa_no_accounts"
+msgstr "(nincs fiók)"
+
+msgid "share_fi_description_placeholder"
+msgstr "Leírás"
+
+msgid "share_fi_favourite"
+msgstr "Kedvenc"
+
+msgid "share_fi_favourites"
+msgstr "Kedvencek"
+
+msgid "share_fi_options_metadata_keep_all"
+msgstr "Összes megtartása"
+
+msgid "share_fi_options_metadata_remove_all"
+msgstr "Minden másolása fájlba"
+
+msgid "share_fi_options_metadata_remove_some"
+msgstr "GPS koordináták és a készítő nevének eltávolítása"
+
+msgid "share_fi_options_privacy_family"
+msgstr "Család"
+
+msgid "share_fi_options_privacy_friends"
+msgstr "Barátok"
+
+msgid "share_fi_options_privacy_friends_and_family"
+msgstr "Barátok és család"
+
+msgid "share_fi_options_privacy_private"
+msgstr "Magán"
+
+msgid "share_fi_options_privacy_public"
+msgstr "Nyilvános"
+
+msgid "share_fi_options_size_large"
+msgstr "Nagy"
+
+msgid "share_fi_options_size_medium"
+msgstr "Közepes"
+
+msgid "share_fi_options_size_original"
+msgstr "Eredeti megőrzése"
+
+msgid "share_fi_options_size_small"
+msgstr "Kicsi"
+
+msgid "share_fi_status_account_not_available"
+msgstr "A fiók nem elérhető"
+
+msgid "share_fi_status_fileformat_error"
+msgstr "Fájl formátum hiba"
+
+msgid "share_fi_status_in_queue"
+msgstr "Sorban áll"
+
+msgid "share_fi_status_menu_sending"
+msgstr "Küldés neki: %s"
+
+msgid "share_fi_status_sending"
+msgstr "Küldés"
+
+msgid "share_fi_status_unknown_error"
+msgstr "Átviteli hiba"
+
+msgid "share_fi_status_upload_limit_error"
+msgstr "Feltöltési korlát hiba"
+
+msgid "share_fi_status_waiting_for_connection"
+msgstr "Várakozás csatlakozásra"
+
+msgid "share_fi_status_waiting_for_service"
+msgstr "Várakozás szolgáltatásra"
+
+msgid "share_fi_status_wrong_credentials"
+msgstr "Azonosítási hiba"
+
+msgid "share_fi_title_placeholder"
+msgstr "Cím"
+
+msgid "share_ia_accounts_setup_web_sign_in"
+msgstr ""
+"A fiók beállításának folytatásához be kell jelentkezned weblapon keresztül ide: %s.\n"
+"Térj vissza a Fiók beállításokhoz a bejelentkezés után."
+
+msgid "share_ia_accounts_setup_web_start"
+msgstr ""
+"Új Flickr fiók beállítása weboldalon keresztül lehetséges.\n"
+"Térj vissza a Fiók beállításokhoz miután regisztráltál egy létező vagy új fiókot."
+
+msgid "share_ia_accounts_setup_web_validate"
+msgstr "Fiók érvényesítése a beállítás befejezéséhez"
+
+msgid "share_ia_cpa_edit_account_web"
+msgstr ""
+"Kattints a 'Szerkeszt'-re a weboldal megnyitásához, hogy a(z) %s fiókot szerkeszthesd.\n"
+"A fiók szerkesztése után térj vissza ide a változások érvényesítéséhez."
+
+msgid "share_ia_cpa_validate_changes"
+msgstr "Változások érvényesítése a fiók szerkesztésének befejezéséhez"
+
+msgid "share_ia_error_account"
+msgstr "Az átvitel folytatása nem lehetséges. A kiválasztott fiók már nem elérhető."
+
+msgid "share_ia_error_connection"
+msgstr "Átvitel felfüggesztve. Várakozás Internet kapcsolatra."
+
+msgid "share_ia_error_fileformat"
+msgstr "%d fájl átvitele sikertelen. A szolgáltatás nem fogadja el a fájl formátumát."
+
+msgid "share_ia_error_fileformat_single_file"
+msgstr "%s átvitele sikertelen. A szolgáltatás nem fogadja el a fájl formátumát."
+
+msgid "share_ia_error_identification"
+msgstr "Átvitel folytatása nem lehetséges. Felhasználónév vagy jelszó érvénytelen ide: %s"
+
+msgid "share_ia_error_service"
+msgstr "Átvitel felfüggesztve. Várakozás a szolgáltatás válaszára."
+
+msgid "share_ia_error_unknown"
+msgstr "Átvitel sikertelen. A folytatás nem lehetséges."
+
+msgid "share_ia_error_upload_limit"
+msgstr "%d fájl átvitele sikertelen. Szolgáltatás feltöltési korlátja túllépve."
+
+msgid "share_ia_error_upload_limit_single_file"
+msgstr "%s átvitele sikertelen. Szolgáltatás feltöltési korlátja túllépve."
+
+msgid "share_ib_account_editing_completed"
+msgstr "Fiók szerkesztése befejezve"
+
+msgid "share_ib_account_setup_completed"
+msgstr "Fiók beállítása befejezve"
+
+msgid "share_ib_album_update_failed"
+msgstr "Albumlista frissítése sikertelen"
+
+msgid "share_ib_all_files_no_longer_available"
+msgstr "A fájlok már nem elérhetőek. A megosztás sikertelen."
+
+msgid "share_ib_enter_credentials_first"
+msgstr "Adja meg a felhasználónevet és a jelszót"
+
+msgid "share_ib_file_no_longer_available"
+msgstr "%s fájl már nem elérhető"
+
+msgid "share_ib_files_no_longer_available"
+msgstr "%d fájl már nem elérhető"
+
+msgid "share_ib_no_account_to_validate"
+msgstr "Fiók beállítása nincs befejezve. Művelet megszakítva."
+
+msgid "share_ib_no_changes_to_validate"
+msgstr "Változások nincsenek véglegesítve. Művelet megszakítva."
+
+msgid "share_ib_no_connection"
+msgstr "Nincs elérhető hálózati kapcsolat. Művelet megszakítva."
+
+msgid "share_ib_no_files_selected"
+msgstr "Nincs fájl kiválasztva. Megosztás megszakítva."
+
+msgid "share_ib_not_enough_memory_processing"
+msgstr "Nincs elég memória a fájl feldolgozásához megosztás előtt"
+
+msgid "share_ib_not_enough_memory_scaling"
+msgstr "A kép átméretezéséhez nincs elég memória."
+
+msgid "share_ib_only_file_no_longer_available"
+msgstr "A fájl már nem elérhető. Megosztás sikertelen."
+
+msgid "share_ib_processing"
+msgstr "Fájl feldolgozása megosztás előtt"
+
+msgid "share_ib_service_not_responding"
+msgstr "A szolgáltatás nem válaszol. Próbáld meg később."
+
+msgid "share_ib_validation_failed"
+msgstr "A fiók érvényesítése sikertelen"
+
+msgid "share_ib_wrong_credentials"
+msgstr "Felhasználónév vagy jelszó érvénytelen"
+
+msgid "share_li_album_mymedia"
+msgstr "Minden média"
+
+msgid "share_nc_cancel_sharing"
+msgstr "%d fájl megosztásának leállítása ezen keresztül: %s?"
+
+msgid "share_nc_cancel_sharing_single_file"
+msgstr "%s megosztásának leállítása ezen keresztül: %s?"
+
+msgid "share_nc_delete_account"
+msgstr "Törlöd a(z) %s fiókot?"
+
+msgid "share_nc_delete_account_in_use"
+msgstr "A fiók használatban van. Törlöd a(z) %s fiókot?"
+
+msgid "share_ni_account_deleted"
+msgstr ""
+"A megosztásra kijelölt fiók törölve lett.\n"
+"Válassz másik fiókot."
+
+msgid "share_ni_already_sent_multiple"
+msgstr "%d fájl már elküldésre került a szolgáltatónak"
+
+msgid "share_ni_already_sent_single"
+msgstr "%s már elküldésre került a szolgáltatónak"
+
+msgid "share_ni_metadata_removal_some"
+msgstr ""
+"A meta-adatok eltávolítása %d/%d fájlból sikertelen.\n"
+"A többi fájlból csak a meta-adat lesz eltávolítva."
+
+msgid "share_ni_non_local_files"
+msgstr "Nem helyi fájl megosztása nem lehetséges. Művelet megszakítva."
+
+msgid "share_ni_only_account_deleted"
+msgstr ""
+"A megosztásra kijelölt fiók törölve lett.\n"
+"Új fiókot kell létrehoznod."
+
+msgid "share_ni_outbox_full"
+msgstr "Nincs elég memória új átvitelre"
+
+msgid "share_ni_sso_account_setup_completed"
+msgstr ""
+"Nokia Ovi fiók beállítva.\n"
+"Megosztás, IM és webes szolgáltatások aktiválva."
+
+msgid "share_ni_too_many_files"
+msgstr "Nem lehetséges több mint %d fájl megosztása egyszerre. Művelet megszakítva."
+
+msgid "share_ni_username_existing"
+msgstr ""
+"Fiók a(z) %s felhasználónéven már létezik (%s).\n"
+"Művelet megszakítva."
+
+msgid "share_ti_accounts_select_service"
+msgstr "Fiók beállítása - Szolgáltatás választása"
+
+msgid "share_ti_accounts_setup"
+msgstr "Fiók beállítása - %s"
+
+msgid "share_ti_accounts_setup_web_sign_in"
+msgstr "Fiók beállítása - Bejelentkezés ide: %s"
+
+msgid "share_ti_accounts_setup_web_validate"
+msgstr "Fiók beállítása - A(z) %s fiók érvényesítése"
+
+msgid "share_ti_accounts_validating"
+msgstr "A(z) %s fiók érvényesítése"
+
+msgid "share_ti_cpa_edit_account"
+msgstr "A(z) %s fiók szerkesztése"
+
+msgid "share_ti_cpa_validate_changes"
+msgstr "A(z) %s változásainak érvényesítése"
+
+msgid "share_ti_cpa_validating_changes"
+msgstr "A(z) %s fiók változásainak érvényesítése"
+
+msgid "share_ti_options"
+msgstr "Megosztási opciók"
+
+msgid "share_ti_select_account"
+msgstr "Fiók választása"
+
+msgid "share_ti_select_album"
+msgstr "Album választása"
+
+msgid "share_ti_share_dialogs_multiple"
+msgstr "%d fájl megosztása"
+
+msgid "share_ti_share_dialogs_single"
+msgstr "Megosztás %s"
+
+msgid "share_ti_share_status_dialog"
+msgstr "Megosztás állapota"
+
+msgid "share_ti_single_content_details"
+msgstr "Tulajdonságok szerkesztése: %s"
+
+msgid "share_ti_status_menu_plug_in"
+msgstr "Megosztás"
+
+msgid "share_ti_transfer_error_dialogs"
+msgstr "%d fájl megosztása ezen keresztül: %s"
+
+msgid "share_ti_transfer_error_dialogs_single_file"
+msgstr "%s megosztása ezen keresztül: %s"
+
