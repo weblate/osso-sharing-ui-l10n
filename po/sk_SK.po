@@ -1,0 +1,398 @@
+#
+# Roman Moravčík <roman.moravcik@gmail.com>, 2010.
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-sharing-ui 20090706094241\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.12.14 12:43+0200\n"
+"PO-Revision-Date: 2010-03-27 23:38+0100\n"
+"Last-Translator:\n"
+"Language-Team: Slovak <sk-i18n@lists.linux.sk>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2\n"
+"Last-Translator: Roman Moravčík <roman.moravcik@gmail.com>\n"
+
+msgid "share_bd_account"
+msgstr "Účet"
+
+msgid "share_bd_accounts_register_new"
+msgstr "Zaregistrovať nový účet"
+
+msgid "share_bd_accounts_sign_in"
+msgstr "Prihlásiť"
+
+msgid "share_bd_accounts_use_existing"
+msgstr "Použiť existujúci účet"
+
+msgid "share_bd_accounts_validate"
+msgstr "Potvrdiť"
+
+msgid "share_bd_album_update_list"
+msgstr "Aktualizovať zoznam albumov"
+
+msgid "share_bd_connect"
+msgstr "Pripojiť"
+
+msgid "share_bd_error_cancel_sharing"
+msgstr "Zastaviť zdieľanie"
+
+msgid "share_bd_error_identification_edit_account"
+msgstr "Upraviť účet"
+
+msgid "share_bd_error_service_retry"
+msgstr "Skúsiť znova"
+
+msgid "share_bd_new_account"
+msgstr "Nový"
+
+msgid "share_bd_options"
+msgstr "Možnosti"
+
+msgid "share_bd_options_album"
+msgstr "Album"
+
+msgid "share_bd_options_metadata"
+msgstr "Metadáta"
+
+msgid "share_bd_options_privacy"
+msgstr "Súkromie"
+
+msgid "share_bd_options_size"
+msgstr "Veľkosť obrázku"
+
+msgid "share_bd_send_bluetooth"
+msgstr "Zdielať cez Bluetooth"
+
+msgid "share_bd_send_email"
+msgstr "Zdielať cez e-mail"
+
+msgid "share_bd_share_to_service"
+msgstr "Zdielať cez službu"
+
+msgid "share_bd_tags"
+msgstr "Značky"
+
+msgid "share_cpa_ti"
+msgstr "Účty zdieľania"
+
+msgid "share_fi_accounts_add_new_service"
+msgstr "Zistiť novú službu"
+
+msgid "share_fi_album_last_update"
+msgstr "Zoznam aktualizovaný"
+
+msgid "share_fi_cpa_edit_account_password"
+msgstr "Heslo"
+
+msgid "share_fi_cpa_edit_account_username"
+msgstr "Užívateľské meno"
+
+msgid "share_fi_cpa_no_accounts"
+msgstr "(žiadne účty)"
+
+msgid "share_fi_description_placeholder"
+msgstr "Popis"
+
+msgid "share_fi_favourite"
+msgstr "Obľúbený"
+
+msgid "share_fi_favourites"
+msgstr "Obľúbené"
+
+msgid "share_fi_options_metadata_keep_all"
+msgstr "Zachovať všetko"
+
+msgid "share_fi_options_metadata_remove_all"
+msgstr "Odstrániť všetko v súbore"
+
+msgid "share_fi_options_metadata_remove_some"
+msgstr "Odstrániť súradnice GPS a meno autora"
+
+msgid "share_fi_options_privacy_family"
+msgstr "Rodina"
+
+msgid "share_fi_options_privacy_friends"
+msgstr "Priatelia"
+
+msgid "share_fi_options_privacy_friends_and_family"
+msgstr "Priatelia a rodina"
+
+msgid "share_fi_options_privacy_private"
+msgstr "Osobné"
+
+msgid "share_fi_options_privacy_public"
+msgstr "Verejné"
+
+msgid "share_fi_options_size_large"
+msgstr "Veľká"
+
+msgid "share_fi_options_size_medium"
+msgstr "Stredná"
+
+msgid "share_fi_options_size_original"
+msgstr "Zachovať pôvodnú"
+
+msgid "share_fi_options_size_small"
+msgstr "Malá"
+
+msgid "share_fi_status_account_not_available"
+msgstr "Účet nie je dostupný"
+
+msgid "share_fi_status_fileformat_error"
+msgstr "Chyba formátu súboru"
+
+msgid "share_fi_status_in_queue"
+msgstr "Vo fronte"
+
+msgid "share_fi_status_menu_sending"
+msgstr "Odosielanie do služby %s"
+
+msgid "share_fi_status_sending"
+msgstr "Odosielanie"
+
+msgid "share_fi_status_unknown_error"
+msgstr "Chyba prenosu"
+
+msgid "share_fi_status_upload_limit_error"
+msgstr "Chyba limitu nahrávania"
+
+msgid "share_fi_status_waiting_for_connection"
+msgstr "Čakanie na pripojenie"
+
+msgid "share_fi_status_waiting_for_service"
+msgstr "Čakanie na službu"
+
+msgid "share_fi_status_wrong_credentials"
+msgstr "Chyba identifikácie"
+
+msgid "share_fi_title_placeholder"
+msgstr "Názov"
+
+msgid "share_ia_accounts_setup_web_sign_in"
+msgstr ""
+"Pokračujte v nastavení účtu prihlásením sa k službe %s cez webovú stránku.\n"
+"Po prihlásení sa vráťte na Nastavenie účtu."
+
+msgid "share_ia_accounts_setup_web_start"
+msgstr ""
+"Nový účet služby Flickr musí byť nastavený na webovej stránke. Po "
+"zaregistrovaní existujúceho alebo nového účtu sa vráťte na Nastavenie účtu."
+
+msgid "share_ia_accounts_setup_web_validate"
+msgstr "Pre dokončenie nastavenia účtu potvrďte účet"
+
+msgid "share_ia_cpa_edit_account_web"
+msgstr ""
+"Klepnutím na možnosť „Upraviť“ otvorite webovú stránku pre úpravy účtu %s.\n"
+"Po prevedení úpravy účtu sa vráťte sem a potvrďte zmeny."
+
+msgid "share_ia_cpa_validate_changes"
+msgstr "Potvrdiť zmeny pre dokončenie úprav účtu"
+
+msgid "share_ia_error_account"
+msgstr "Nemožno pokračovať v prenose. Zvolený účet už nie je dostupný."
+
+msgid "share_ia_error_connection"
+msgstr "Prenos čaká na internetové pripojenie."
+
+msgid "share_ia_error_fileformat"
+msgstr "Prenos %d súborov sa nepodaril. Služba nemôže prijať formát súborov."
+
+msgid "share_ia_error_fileformat_single_file"
+msgstr "Prenos %s sa nepodaril. Služba nemôže prijať formát súboru."
+
+msgid "share_ia_error_identification"
+msgstr ""
+"Nemožno pokračovať v prenose. Užívateľské meno alebo heslo pre %s je "
+"nesprávne."
+
+msgid "share_ia_error_identification_for_ovi"
+msgstr ""
+"Nemožno pokračovať v prenose. Užívateľské meno alebo heslo pre %s je "
+"nesprávne.\n"
+"(Taktiež skontrolujte nastavenie času.)"
+
+msgid "share_ia_error_service"
+msgstr "Prenos čaká na odozvu služby."
+
+msgid "share_ia_error_unknown"
+msgstr "Prenos sa nepodaril. Nemožno pokračovať."
+
+msgid "share_ia_error_upload_limit"
+msgstr "Prenos %d súborov sa nepodaril. Prekročený limit pre nahrávanie."
+
+msgid "share_ia_error_upload_limit_single_file"
+msgstr "Prenos %s sa nepodaril. Prekročený limit pre nahrávanie."
+
+msgid "share_ib_account_editing_completed"
+msgstr "Úprava účtu dokončená"
+
+msgid "share_ib_account_setup_completed"
+msgstr "Nastavenie účtu dokončené"
+
+msgid "share_ib_album_update_failed"
+msgstr "Aktualizácia zoznamu albumov sa nepodarila"
+
+msgid "share_ib_all_files_no_longer_available"
+msgstr "Súbory už nie sú dostupné. Zdieľanie sa nepodarilo."
+
+msgid "share_ib_enter_credentials_first"
+msgstr "Najskôr vložte užívateľské meno a heslo"
+
+msgid "share_ib_file_no_longer_available"
+msgstr "%s už nie je dostupný"
+
+msgid "share_ib_files_no_longer_available"
+msgstr "%d súborov už nie je dostupných."
+
+msgid "share_ib_no_account_to_validate"
+msgstr "Nastavenie účtu nebolo dokončené. Operácia zrušená."
+
+msgid "share_ib_no_changes_to_validate"
+msgstr "Zmeny neboli dokončené. Operácia zrušená."
+
+msgid "share_ib_no_connection"
+msgstr "Nie je dostupné žiadne sieťové pripojenie. Operácia zrušená."
+
+msgid "share_ib_no_files_selected"
+msgstr "Nevybrané žiadne súbory. Zdieľanie zrušené."
+
+msgid "share_ib_not_enough_memory_processing"
+msgstr "Nedostatok pamäte na spracovanie súborov pred zdieľaním"
+
+msgid "share_ib_not_enough_memory_scaling"
+msgstr "Nedostatok pamäte na zmenu veľkosti obrázkov"
+
+msgid "share_ib_only_file_no_longer_available"
+msgstr "Súbor už nie je dostupný. Zdieľanie sa nepodarilo."
+
+msgid "share_ib_processing"
+msgstr "Spracovanie súborov pred zdieľaním"
+
+msgid "share_ib_service_not_responding"
+msgstr "Služba neodpovedá. Opakujte neskôr."
+
+msgid "share_ib_validation_failed"
+msgstr "Potvrdenie účtu sa nepodarilo"
+
+msgid "share_ib_wrong_credentials"
+msgstr "Nesprávne užívateľské meno alebo heslo"
+
+msgid "share_ib_wrong_credentials_for_ovi"
+msgstr ""
+"Nesprávne užívateľské meno alebo heslo.\n"
+"(Taktiež skontrolujte nastavenie času.)"
+
+msgid "share_li_album_default"
+msgstr "Predvolený"
+
+msgid "share_li_album_mymedia"
+msgstr "Všetky média"
+
+msgid "share_nc_cancel_sharing"
+msgstr "Zastaviť zdieľanie %d súborov cez %s?"
+
+msgid "share_nc_cancel_sharing_single_file"
+msgstr "Zastaviť zdieľanie %s cez %s?"
+
+msgid "share_nc_delete_account"
+msgstr "Odstrániť účet služby %s?"
+
+msgid "share_nc_delete_account_in_use"
+msgstr "Účet je používaný. Odstrániť účet služby %s?"
+
+msgid "share_ni_account_deleted"
+msgstr ""
+"Účet vybraný pre zdieľanie bol odstránený.\n"
+"Zvolte iný účet."
+
+msgid "share_ni_already_sent_multiple"
+msgstr "Na server už bolo odoslaných súborov: %d"
+
+msgid "share_ni_already_sent_single"
+msgstr "%s už odoslané do služby"
+
+msgid "share_ni_metadata_removal_some"
+msgstr ""
+"Nemožno odstrániť metadáta z %d/%d súborov.\n"
+"Budú odstránené len metadáta z ostatných súborov."
+
+msgid "share_ni_non_local_files"
+msgstr "Nemožno zdieľať iné ako miestne súbory. Operácia zrušená."
+
+msgid "share_ni_only_account_deleted"
+msgstr ""
+"Účet vybraný pre zdieľanie bol odstránený.\n"
+"Musí byť vytvorený nový účet."
+
+msgid "share_ni_outbox_full"
+msgstr "Nedostatok pamäte na nové prenosy"
+
+msgid "share_ni_sso_account_setup_completed"
+msgstr ""
+"Nastavenie účtu služby Ovi poskytovanú spoločnosťou Nokia bolo dokončené.\n"
+"Zdieľanie, chat a webové služby aktivované"
+
+msgid "share_ni_too_many_files"
+msgstr "Nemožno zdieľať viacej ako %d súborov. Operácia zrušená."
+
+msgid "share_ni_username_existing"
+msgstr ""
+"Účet s užívateľským menom %s už existuje pre %s.\n"
+"Operácia zrušená."
+
+msgid "share_ti_accounts_select_service"
+msgstr "Nastavenie účtu – Zvolte službu"
+
+msgid "share_ti_accounts_setup"
+msgstr "Nastavenie účtu – %s"
+
+msgid "share_ti_accounts_setup_web_sign_in"
+msgstr "Nastavenie účtu – Prihlásenie k službe %s"
+
+msgid "share_ti_accounts_setup_web_validate"
+msgstr "Nastavenie účtu – Potvrďte účet %s"
+
+msgid "share_ti_accounts_validating"
+msgstr "Potvrdzovanie účtu služby %s"
+
+msgid "share_ti_cpa_edit_account"
+msgstr "Upraviť účet služby %s"
+
+msgid "share_ti_cpa_validate_changes"
+msgstr "Potvrdiť zmeny pre účet %s"
+
+msgid "share_ti_cpa_validating_changes"
+msgstr "Potvrdzovanie zmien pre účet %s"
+
+msgid "share_ti_options"
+msgstr "Možnosti zdieľania"
+
+msgid "share_ti_select_account"
+msgstr "Zvoliť účet"
+
+msgid "share_ti_select_album"
+msgstr "Zvoliť album"
+
+msgid "share_ti_share_dialogs_multiple"
+msgstr "Zdieľať súbory (%d)"
+
+msgid "share_ti_share_dialogs_single"
+msgstr "Zdieľať %s"
+
+msgid "share_ti_share_status_dialog"
+msgstr "Stav zdieľania"
+
+msgid "share_ti_single_content_details"
+msgstr "Upraviť podrobnosti: %s"
+
+msgid "share_ti_status_menu_plug_in"
+msgstr "Zdieľanie"
+
+msgid "share_ti_transfer_error_dialogs"
+msgstr "Zdieľanie %d súborov cez %s"
+
+msgid "share_ti_transfer_error_dialogs_single_file"
+msgstr "Zdieľanie %s cez %s"
