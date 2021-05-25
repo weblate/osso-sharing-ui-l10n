@@ -1,0 +1,380 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: osso-sharing-ui 20090706094241\n"
+"Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2010-04-27 19:23+0400\n"
+"Last-Translator: Osama Al Abrash <madboy221@hotmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1\n"
+
+msgid "share_bd_account"
+msgstr "الحساب"
+
+msgid "share_bd_accounts_register_new"
+msgstr "تسجيل حساب جديد"
+
+msgid "share_bd_accounts_sign_in"
+msgstr "تسجيل الدخول"
+
+msgid "share_bd_accounts_use_existing"
+msgstr "أستخدام حساب سابق"
+
+msgid "share_bd_accounts_validate"
+msgstr "تأكيد"
+
+msgid "share_bd_album_update_list"
+msgstr "تحديث قائمة الألبومات"
+
+msgid "share_bd_connect"
+msgstr "أتصال"
+
+msgid "share_bd_error_cancel_sharing"
+msgstr "إيقاف المشاركة"
+
+msgid "share_bd_error_identification_edit_account"
+msgstr "تعديل الحساب"
+
+msgid "share_bd_error_service_retry"
+msgstr "إعادة المحاولة"
+
+msgid "share_bd_new_account"
+msgstr "جديد"
+
+msgid "share_bd_options"
+msgstr "خيارات"
+
+msgid "share_bd_options_album"
+msgstr "الألبوم"
+
+msgid "share_bd_options_metadata"
+msgstr "البيانات"
+
+msgid "share_bd_options_privacy"
+msgstr "الخصوصية"
+
+msgid "share_bd_options_size"
+msgstr "حجم الصورة"
+
+msgid "share_bd_send_bluetooth"
+msgstr "Bluetooth أرسال بواسطة"
+
+msgid "share_bd_send_email"
+msgstr "أرسال عبر الأيميل"
+
+msgid "share_bd_share_to_service"
+msgstr "مشاركة عبر الأنترنت"
+
+msgid "share_bd_tags"
+msgstr "فئة"
+
+msgid "share_cpa_ti"
+msgstr "حسابات المشاركة"
+
+msgid "share_fi_accounts_add_new_service"
+msgstr "البحث عن تحديثات جديدة للخدمة"
+
+msgid "share_fi_album_last_update"
+msgstr "قائمة التحديثات"
+
+msgid "share_fi_cpa_edit_account_password"
+msgstr "كلمة السر"
+
+msgid "share_fi_cpa_edit_account_username"
+msgstr "الأسم المستخدم"
+
+msgid "share_fi_cpa_no_accounts"
+msgstr "(لايوجد حساب)"
+
+msgid "share_fi_description_placeholder"
+msgstr "الوصف"
+
+msgid "share_fi_favourite"
+msgstr "المفضلة"
+
+msgid "share_fi_favourites"
+msgstr "المفضلات"
+
+msgid "share_fi_options_metadata_keep_all"
+msgstr "إبقاء الجميع"
+
+msgid "share_fi_options_metadata_remove_all"
+msgstr "مسح الجميع"
+
+msgid "share_fi_options_metadata_remove_some"
+msgstr "أزالة الأسم المستعار وأحدثيات المكان"
+
+msgid "share_fi_options_privacy_family"
+msgstr "العائلة"
+
+msgid "share_fi_options_privacy_friends"
+msgstr "الأصدقاء"
+
+msgid "share_fi_options_privacy_friends_and_family"
+msgstr "العائلة والأصدقاء"
+
+msgid "share_fi_options_privacy_private"
+msgstr "خاص"
+
+msgid "share_fi_options_privacy_public"
+msgstr "عام"
+
+msgid "share_fi_options_size_large"
+msgstr "كبير"
+
+msgid "share_fi_options_size_medium"
+msgstr "وسط"
+
+msgid "share_fi_options_size_original"
+msgstr "الحفاظ على الأصل"
+
+msgid "share_fi_options_size_small"
+msgstr "صغير"
+
+msgid "share_fi_status_account_not_available"
+msgstr "الحساب غير موجود"
+
+msgid "share_fi_status_fileformat_error"
+msgstr "صيغة الملف خاطئه"
+
+msgid "share_fi_status_in_queue"
+msgstr "في الأنتظار"
+
+msgid "share_fi_status_menu_sending"
+msgstr "إرسال إلى %s"
+
+msgid "share_fi_status_sending"
+msgstr "جارى الأرسال"
+
+msgid "share_fi_status_unknown_error"
+msgstr "خطأ في النقل"
+
+msgid "share_fi_status_upload_limit_error"
+msgstr "خطأ بحدود الرفع"
+
+msgid "share_fi_status_waiting_for_connection"
+msgstr "بأنتظار الأتصال"
+
+msgid "share_fi_status_waiting_for_service"
+msgstr "بأنتظار الرد من الخادم"
+
+msgid "share_fi_status_wrong_credentials"
+msgstr "خطأ في المطابقة"
+
+msgid "share_fi_title_placeholder"
+msgstr "اللقب"
+
+msgid "share_ia_accounts_setup_web_sign_in"
+msgstr ""
+"متابعة إعدادات الحساب من خلال تسجيل الدخول إلى %s من خلال صفحة.\n"
+"والعودة إلى إعدادات الحساب بعد تسجيل الدخول."
+
+msgid "share_ia_accounts_setup_web_start"
+msgstr ""
+"يتم من خلال صفحة الأنترنت Flickrتعين الحساب الجديد ل  .\n"
+"العودة إلى إعدادت الحساب بعد تسجيل الدخول أو أنشاء حساب جديد."
+
+msgid "share_ia_accounts_setup_web_validate"
+msgstr "التحقق من صحة الحساب لأكمال الأعدادات"
+
+msgid "share_ia_cpa_edit_account_web"
+msgstr ""
+"إضغط على تحرير لتحرير صفحة الأنترنت %s الحساب.\n"
+"العوده عند التأكد من صحة الحساب والتغيرات."
+
+msgid "share_ia_cpa_validate_changes"
+msgstr "التحقق من صحة التغيرات لأستكمال تحرير الحساب"
+
+msgid "share_ia_error_account"
+msgstr "غير قادر على أكمال النقل. الحساب المختار غير متوفر حاليا."
+
+msgid "share_ia_error_connection"
+msgstr "النقل قيد التسليم. بأنتظار الأتصال بالأنترنت."
+
+msgid "share_ia_error_fileformat"
+msgstr "نقل %d الملف فشل. الخادم لايقبل بصيغة الملف."
+
+msgid "share_ia_error_fileformat_single_file"
+msgstr "نقل %s فشل. الخادم لا يقبل صيغة الملف."
+
+msgid "share_ia_error_identification"
+msgstr "غير قادر على إكمال النقل. أسم المستخدم وكلمة السر التالية %s خاطئ."
+
+msgid "share_ia_error_service"
+msgstr "قيد التسليم.بإنتظار الرد من الخادم."
+
+msgid "share_ia_error_unknown"
+msgstr "فشل النقل. غير قادر على الأكمال."
+
+msgid "share_ia_error_upload_limit"
+msgstr "نقل %d الملف خاطئ. تجاوز الحد المسموح به لرفع."
+
+msgid "share_ia_error_upload_limit_single_file"
+msgstr "نقل %sخاطئ. تجاوز الحد المسموح به لرفع."
+
+msgid "share_ib_account_editing_completed"
+msgstr "تحرير الحساب أكتمل"
+
+msgid "share_ib_account_setup_completed"
+msgstr "ضبط إعدادات الحساب أكتمل"
+
+msgid "share_ib_album_update_failed"
+msgstr "فشل بتحديث قائمة الألبومات"
+
+msgid "share_ib_all_files_no_longer_available"
+msgstr "الملفات لم تعد متوفره. فشل بالمشاركة."
+
+msgid "share_ib_enter_credentials_first"
+msgstr "أدخل أسم المستخدم وكلمة المرور أولا ً"
+
+msgid "share_ib_file_no_longer_available"
+msgstr "%s لم يعد متوفرا ً"
+
+msgid "share_ib_files_no_longer_available"
+msgstr "%d الملفات لم تعد متوفرة"
+
+msgid "share_ib_no_account_to_validate"
+msgstr "إعدادات الحساب لم تكتمل. تم إلغاء العملية."
+
+msgid "share_ib_no_changes_to_validate"
+msgstr "التغير لم يكتمل. تم إلغاء العملية."
+
+msgid "share_ib_no_connection"
+msgstr "لايوجد أتصال أنترنت متوفر. تم إلغاء العملية."
+
+msgid "share_ib_no_files_selected"
+msgstr "لايوجد ملفات محددة. تم إلغاء المشاركة."
+
+msgid "share_ib_not_enough_memory_processing"
+msgstr "لاتوجد ذاكره كافية لمعالجة الملف قبل المشاركة"
+
+msgid "share_ib_not_enough_memory_scaling"
+msgstr "لاتوجد ذاكرة كافية لمعالجة الصورة"
+
+msgid "share_ib_only_file_no_longer_available"
+msgstr "الملف غير متوفر حاليا. تم إلغاء المشاركة."
+
+msgid "share_ib_processing"
+msgstr "معالجة الملف قبل المشاركة"
+
+msgid "share_ib_service_not_responding"
+msgstr "الخادم لا يستجيب. أعد المحاولة لاحقاً."
+
+msgid "share_ib_validation_failed"
+msgstr "فشل التحقق من صحة الحساب"
+
+msgid "share_ib_wrong_credentials"
+msgstr "أسم المستخدم أو كلمة المرور خاطئة"
+
+msgid "share_li_album_mymedia"
+msgstr "جميع الوسائط"
+
+msgid "share_nc_cancel_sharing"
+msgstr "إيقاف المشاركة %d الملف عبر %s?"
+
+msgid "share_nc_cancel_sharing_single_file"
+msgstr "إيقاف المشاركة %s عبر %s?"
+
+msgid "share_nc_delete_account"
+msgstr "حذف حساب %s?"
+
+msgid "share_nc_delete_account_in_use"
+msgstr "الحساب مستخدم. حذف الحساب من %s?"
+
+msgid "share_ni_account_deleted"
+msgstr ""
+"الحساب المستخدم للمشاركة قد حذف.\n"
+"أستخدم حساب آخر."
+
+msgid "share_ni_already_sent_multiple"
+msgstr "الملف تم أرسالة مسبقا ً: %d"
+
+msgid "share_ni_already_sent_single"
+msgstr "%s تم أرسالة مسبقا"
+
+msgid "share_ni_metadata_removal_some"
+msgstr ""
+"غير قادر على حذف التعاريف من %d/%d الملفات.\n"
+"سيتم أزالة التعاريف من الملفات الأخرى."
+
+msgid "share_ni_non_local_files"
+msgstr "غير قادر على مشاركة الملفات الغير محلية. تم إلغاء العملية."
+
+msgid "share_ni_only_account_deleted"
+msgstr ""
+"الحسات المحدد للمشاركة قد تم حذفة.\n"
+"يجب أنشاء حساب جديد."
+
+msgid "share_ni_outbox_full"
+msgstr "لاتوجد ذاكره كافية لنقل جديد"
+
+msgid "share_ni_sso_account_setup_completed"
+msgstr ""
+"قد تم لنوكيا Ovi ال إعدادات حساب .\n"
+"المشاركة, الدردشة وخدمات الشبكة تم تفعيلها"
+
+msgid "share_ni_too_many_files"
+msgstr "غير قادر على مشاركة أكثر من %d ملف دفعه واحده. تم إلغاء العملية."
+
+msgid "share_ni_username_existing"
+msgstr ""
+"الحساب وأسم المستخدم %s موجود بالفعل %s.\n"
+"تم إلغاء العملية."
+
+msgid "share_ti_accounts_select_service"
+msgstr "إعدادات الحساب - أختر الخادم"
+
+msgid "share_ti_accounts_setup"
+msgstr "إعدادات الحساب - %s"
+
+msgid "share_ti_accounts_setup_web_sign_in"
+msgstr "إعدادات الحساب - تسجيل الدخول إلى %s"
+
+msgid "share_ti_accounts_setup_web_validate"
+msgstr "إعدادت الحساب - التحقق من الصحه %s الحساب"
+
+msgid "share_ti_accounts_validating"
+msgstr "التحقق من صحة الحساب %s"
+
+msgid "share_ti_cpa_edit_account"
+msgstr "تحرير حساب %s"
+
+msgid "share_ti_cpa_validate_changes"
+msgstr "التأكد من صحة تغيرات %s حساب"
+
+msgid "share_ti_cpa_validating_changes"
+msgstr "التأكد من صحة تغيرات %s حساب"
+
+msgid "share_ti_options"
+msgstr "إعدادات المشاركة"
+
+msgid "share_ti_select_account"
+msgstr "إختيار الحساب"
+
+msgid "share_ti_select_album"
+msgstr "إختيار الألبوم"
+
+msgid "share_ti_share_dialogs_multiple"
+msgstr "مشاركة %d ملفات"
+
+msgid "share_ti_share_dialogs_single"
+msgstr "مشاركة %s"
+
+msgid "share_ti_share_status_dialog"
+msgstr "حالة المشاركة"
+
+msgid "share_ti_single_content_details"
+msgstr "تحرير التفاصيل: %s"
+
+msgid "share_ti_status_menu_plug_in"
+msgstr "مشاركة"
+
+msgid "share_ti_transfer_error_dialogs"
+msgstr "مشاركة %d الملف عبر %s"
+
+msgid "share_ti_transfer_error_dialogs_single_file"
+msgstr "مشاركة %s عبر %s"
+
