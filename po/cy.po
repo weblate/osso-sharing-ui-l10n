@@ -1,0 +1,376 @@
+# 
+# Translators:
+# Geraint Rowlands <ansbaradigeidfran@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2012-03-03 15:45+0000\n"
+"Last-Translator: Geraint Rowlands <ansbaradigeidfran@gmail.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: cy\n"
+"Plural-Forms: nplurals=4; plural=(n==1) ? 0 : (n==2) ? 1 : (n != 8 && n != 11) ? 2 : 3\n"
+
+msgid "share_bd_account"
+msgstr "Cyfrif"
+
+msgid "share_bd_accounts_register_new"
+msgstr "Cofrestru cyfrif newydd"
+
+msgid "share_bd_accounts_sign_in"
+msgstr "Mewngofnodi"
+
+msgid "share_bd_accounts_use_existing"
+msgstr "Defnyddio cyfrif sy'n bodoli"
+
+msgid "share_bd_accounts_validate"
+msgstr "Dilysu"
+
+msgid "share_bd_album_update_list"
+msgstr "Diweddaru rhestr albwm"
+
+msgid "share_bd_connect"
+msgstr "Cysylltu"
+
+msgid "share_bd_error_cancel_sharing"
+msgstr "Peidio rhannu"
+
+msgid "share_bd_error_identification_edit_account"
+msgstr "Golygu cyfrif"
+
+msgid "share_bd_error_service_retry"
+msgstr "Ail-geisio"
+
+msgid "share_bd_new_account"
+msgstr "Newydd"
+
+msgid "share_bd_options"
+msgstr "Opsiynau"
+
+msgid "share_bd_options_album"
+msgstr "Albwm"
+
+msgid "share_bd_options_metadata"
+msgstr "Meta-ddata"
+
+msgid "share_bd_options_privacy"
+msgstr "Preifatrwydd"
+
+msgid "share_bd_options_size"
+msgstr "Maint llun"
+
+msgid "share_bd_send_bluetooth"
+msgstr "Gyrru drwy Bluetooth"
+
+msgid "share_bd_send_email"
+msgstr "Gyrru drwy e-bost"
+
+msgid "share_bd_share_to_service"
+msgstr "Gyrru drwy wasanaeth"
+
+msgid "share_bd_tags"
+msgstr "Tagiau"
+
+msgid "share_cpa_ti"
+msgstr "Cyfrifon rhannu"
+
+msgid "share_fi_accounts_add_new_service"
+msgstr "Gwirio am wasanaeth newydd"
+
+msgid "share_fi_album_last_update"
+msgstr "Rhestr wedi'i ddiweddaru"
+
+msgid "share_fi_cpa_edit_account_password"
+msgstr "Cyfrinair"
+
+msgid "share_fi_cpa_edit_account_username"
+msgstr "Enw defnyddiwr"
+
+msgid "share_fi_cpa_no_accounts"
+msgstr "(dim cyfrifon)"
+
+msgid "share_fi_description_placeholder"
+msgstr "Disgrifiad"
+
+msgid "share_fi_favourite"
+msgstr "Ffefryn"
+
+msgid "share_fi_favourites"
+msgstr "Ffefrynnau"
+
+msgid "share_fi_options_metadata_keep_all"
+msgstr "Cadw oll"
+
+msgid "share_fi_options_metadata_remove_all"
+msgstr "Tynnu oll"
+
+msgid "share_fi_options_metadata_remove_some"
+msgstr "Tynnu cyfeirnod GPS ac enw creawdwr"
+
+msgid "share_fi_options_privacy_family"
+msgstr "Teulu"
+
+msgid "share_fi_options_privacy_friends"
+msgstr "Ffrindiau"
+
+msgid "share_fi_options_privacy_friends_and_family"
+msgstr "Ffrindiau a theulu"
+
+msgid "share_fi_options_privacy_private"
+msgstr "Preifat"
+
+msgid "share_fi_options_privacy_public"
+msgstr "Cyhoeddus"
+
+msgid "share_fi_options_size_large"
+msgstr "Mawr"
+
+msgid "share_fi_options_size_medium"
+msgstr "Canolig"
+
+msgid "share_fi_options_size_original"
+msgstr "Cadw'r gwreiddiol"
+
+msgid "share_fi_options_size_small"
+msgstr "Bychan"
+
+msgid "share_fi_status_account_not_available"
+msgstr "Cyfrif ddim ar gael"
+
+msgid "share_fi_status_fileformat_error"
+msgstr "Gwall fformad ffeil"
+
+msgid "share_fi_status_in_queue"
+msgstr "Mewn ciw"
+
+msgid "share_fi_status_menu_sending"
+msgstr "Yn gyrru at %s"
+
+msgid "share_fi_status_sending"
+msgstr "Yn gyrru"
+
+msgid "share_fi_status_unknown_error"
+msgstr "Gwall trosglwyddo"
+
+msgid "share_fi_status_upload_limit_error"
+msgstr "Gwall terfyn lanlwytho"
+
+msgid "share_fi_status_waiting_for_connection"
+msgstr "Yn aros am gysylltiad"
+
+msgid "share_fi_status_waiting_for_service"
+msgstr "Yn aros am wasanaeth"
+
+msgid "share_fi_status_wrong_credentials"
+msgstr "Gwall dilysu"
+
+msgid "share_fi_title_placeholder"
+msgstr "Teitl"
+
+msgid "share_ia_accounts_setup_web_sign_in"
+msgstr "Gorffennwch sefydlu'r cyfrif drwy mewngofnodi at %s drwy dudalen gwe. Dychwelwch at Sefydlu cyfrif wedi mewngofnodi."
+
+msgid "share_ia_accounts_setup_web_start"
+msgstr "Rhaid sefydlu'r cyfrif Flickr newydd drwy dudalen gwe. Dychwelwch at Sefydlu cyfrif wedi cofrestru cyfrif newydd sydd eisoes yn bodoli."
+
+msgid "share_ia_accounts_setup_web_validate"
+msgstr "Dilyswch y cyfrif i gwblhau sefydlu'r cyfrif"
+
+msgid "share_ia_cpa_edit_account_web"
+msgstr "Tarwch 'Golygu' i agor tudalen gwe ar gyfer golygu'r cyfrif %s. Dychwelwch yma wedi golygu'r cyfrif y ddilysu newidiadau."
+
+msgid "share_ia_cpa_validate_changes"
+msgstr "Dilyswch y newidiadau i gwblhau golygu'r cyfrif"
+
+msgid "share_ia_error_account"
+msgstr "Methu parhau i drosglwyddo. Nid yw'r cyfrif a ddewiswyd bellach ar gael."
+
+msgid "share_ia_error_connection"
+msgstr "Trosglwyddo ar aros tra'n disgwyl am gysylltiad gwe."
+
+msgid "share_ia_error_fileformat"
+msgstr "Methwyd trosglwyddo %d ffeil. Nid yw'r gwasanaeth yn derbyn y fformad ffeil."
+
+msgid "share_ia_error_fileformat_single_file"
+msgstr "Methyd trosglwyddo %s. Nid yw'r gwasanaeth yn derbyn y fformad ffeil."
+
+msgid "share_ia_error_identification"
+msgstr "Methu parhau a'r trosglwyddiad. Enw defnyddiwr neu gyfrinair annilys ar gyfer %s."
+
+msgid "share_ia_error_identification_for_ovi"
+msgstr "Methu parhau a'r trosglwyddiad. Enw defnyddiwr neu gyfrinair annilys ar gyfer %s. (Gwiriwch eich gosodiadau amser hefyd.)"
+
+msgid "share_ia_error_service"
+msgstr "Trosglwyddiad ar aros tra'n disgwyl ymateb gan y gwasanaeth."
+
+msgid "share_ia_error_unknown"
+msgstr "Methodd y trosglwyddiad. Methu parhau."
+
+msgid "share_ia_error_upload_limit"
+msgstr "Methwyd trosglwyddo %d ffeil. Cyrhaeddwyd terfyn lanlwytho'r gwasanaeth."
+
+msgid "share_ia_error_upload_limit_single_file"
+msgstr "Methwyd trosglwyddo %s. Cyrhaeddwyd terfyn lanlwytho'r gwasanaeth."
+
+msgid "share_ib_account_editing_completed"
+msgstr "Cwblhawyd golygu'r cyfrif"
+
+msgid "share_ib_account_setup_completed"
+msgstr "Cwblhawyd sefydlu'r cyfrif"
+
+msgid "share_ib_album_update_failed"
+msgstr "Methwyd diweddaru'r rhestr albwm"
+
+msgid "share_ib_all_files_no_longer_available"
+msgstr "Nid yw'r ffeiliau ar gael. Methwyd rhannu."
+
+msgid "share_ib_enter_credentials_first"
+msgstr "Rhowch enw defnyddiwr a chyfrinair yn gyntaf"
+
+msgid "share_ib_file_no_longer_available"
+msgstr "Nid yw %s bellach ar gael"
+
+msgid "share_ib_files_no_longer_available"
+msgstr "Nid yw %d ffeil bellach ar gael"
+
+msgid "share_ib_no_account_to_validate"
+msgstr "Sefydlu cyfrif heb ei orffen. Ataliwyd y weithred."
+
+msgid "share_ib_no_changes_to_validate"
+msgstr "Newidiadau heb eu gorffen. Ataliwyd y weithred."
+
+msgid "share_ib_no_connection"
+msgstr "Dim cysylltiad rhwydwaith ar gael. Ataliwyd y weithred."
+
+msgid "share_ib_no_files_selected"
+msgstr "Dim ffeiliau wedi eu dewis. Ataliwyd rhannu."
+
+msgid "share_ib_not_enough_memory_processing"
+msgstr "Diffyg cof at brosesu'r ffeil cyn rhannu"
+
+msgid "share_ib_not_enough_memory_scaling"
+msgstr "Diffyg cof at ailfeintio lluniau"
+
+msgid "share_ib_only_file_no_longer_available"
+msgstr "Nid yw'r ffeil bellach ar gael. Methwyd rhannu."
+
+msgid "share_ib_processing"
+msgstr "Yn prosesu ffeiliau cyn rhannu"
+
+msgid "share_ib_service_not_responding"
+msgstr "Nid yw'r gwasanaeth yn ymateb. Ceisiwch eto'n ddiweddarach."
+
+msgid "share_ib_validation_failed"
+msgstr "Methwyd dilysu'r cyfrif"
+
+msgid "share_ib_wrong_credentials"
+msgstr "Enw defnyddiwr neu gyfrinair annilys"
+
+msgid "share_ib_wrong_credentials_for_ovi"
+msgstr "Enw defnyddiwr neu gyfrinair annilys. (Gwiriwch eich gosodiadau amser hefyd.)"
+
+msgid "share_li_album_default"
+msgstr "Rhagosodedig"
+
+msgid "share_li_album_mymedia"
+msgstr "Pob ffeil"
+
+msgid "share_nc_cancel_sharing"
+msgstr "Gorffen rhannu %d ffeil drwy %s?"
+
+msgid "share_nc_cancel_sharing_single_file"
+msgstr "Gorffen rhannu %s gyda %$s?"
+
+msgid "share_nc_delete_account"
+msgstr "Dileu cyfrif ar gyfer %s?"
+
+msgid "share_nc_delete_account_in_use"
+msgstr "Cyfrif mewn defnydd. Dileu cyfrif ar gyfer %s?"
+
+msgid "share_ni_account_deleted"
+msgstr "Mae'r cyfrif a ddewiswyd wedi ei ddileu. Dewiswch gyfrif arall."
+
+msgid "share_ni_already_sent_multiple"
+msgstr "Ffeiliau wedi eu anfon at y gwasanaeth: %d"
+
+msgid "share_ni_already_sent_single"
+msgstr "%s eisoes wedi ei anfon at y gwasanaeth"
+
+msgid "share_ni_metadata_removal_some"
+msgstr "Methu tynnu meta-ddata o %d/%d ffeil. Tynnir meta-ddata o'r ffeiliau eraill yn unig."
+
+msgid "share_ni_non_local_files"
+msgstr "Methu rhannu ffeiliau nad ydynt yn leol. Ataliwyd y weithred."
+
+msgid "share_ni_only_account_deleted"
+msgstr "Mae'r cyfrif a ddewiswyd wedi ei ddileu. Rhaid creu cyfrif newydd."
+
+msgid "share_ni_outbox_full"
+msgstr "Diffyg cof ar gyfer trosglwyddiadau newydd"
+
+msgid "share_ni_sso_account_setup_completed"
+msgstr "Cwblhawyd sefydlu cyfrif ar gyfer Ovi gan Nokia. Gweithredwyd gwasanaethau rhannu, sgwrs, a gwê"
+
+msgid "share_ni_too_many_files"
+msgstr "Methu rhannu mwy na %d ffeil ar unwaith. Ataliwyd y weithred."
+
+msgid "share_ni_username_existing"
+msgstr "Mae cyfrif gyda'r enw defnyddiwr %s eisoes yn bodoli ar gyfer %s. Ataliwyd y weithred."
+
+msgid "share_ti_accounts_select_service"
+msgstr "Sefydlu cyfrif - Dewis gwasanaeth"
+
+msgid "share_ti_accounts_setup"
+msgstr "Sefydlu cyfrif - %s"
+
+msgid "share_ti_accounts_setup_web_sign_in"
+msgstr "Sefydlu cyfrif - Mewngofnodi at %s"
+
+msgid "share_ti_accounts_setup_web_validate"
+msgstr "Sefydlu cyfrif - Dilysu cyfrif %s"
+
+msgid "share_ti_accounts_validating"
+msgstr "Yn dilysu'r cyfrif %s"
+
+msgid "share_ti_cpa_edit_account"
+msgstr "Golygu cyfrif %s"
+
+msgid "share_ti_cpa_validate_changes"
+msgstr "Dilysu newidiadau'r cyfrif %s"
+
+msgid "share_ti_cpa_validating_changes"
+msgstr "Yn dilysu newidiadau'r cyfrif %s"
+
+msgid "share_ti_options"
+msgstr "Dewisiadau rhannu"
+
+msgid "share_ti_select_account"
+msgstr "Dewis cyfrif"
+
+msgid "share_ti_select_album"
+msgstr "Dewis albwm"
+
+msgid "share_ti_share_dialogs_multiple"
+msgstr "Rhannu %d ffeil"
+
+msgid "share_ti_share_dialogs_single"
+msgstr "Rhannu %s"
+
+msgid "share_ti_share_status_dialog"
+msgstr "Statws rhannu"
+
+msgid "share_ti_single_content_details"
+msgstr "Golygu manylion: %s"
+
+msgid "share_ti_status_menu_plug_in"
+msgstr "Rhannu"
+
+msgid "share_ti_transfer_error_dialogs"
+msgstr "Rhannu %d ffeil drwy %s"
+
+msgid "share_ti_transfer_error_dialogs_single_file"
+msgstr "Rhannu %s drwy %s"
