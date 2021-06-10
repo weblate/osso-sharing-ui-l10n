@@ -1,0 +1,375 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2010-11-30 11:48+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "share_bd_account"
+msgstr "帐户"
+
+msgid "share_bd_accounts_register_new"
+msgstr "注册新账户"
+
+msgid "share_bd_accounts_sign_in"
+msgstr "登陆"
+
+msgid "share_bd_accounts_use_existing"
+msgstr "使用现有的帐户"
+
+msgid "share_bd_accounts_validate"
+msgstr "验证"
+
+msgid "share_bd_album_update_list"
+msgstr "更新相册列表"
+
+msgid "share_bd_connect"
+msgstr "连接"
+
+msgid "share_bd_error_cancel_sharing"
+msgstr "停止共享"
+
+msgid "share_bd_error_identification_edit_account"
+msgstr "编辑帐户"
+
+msgid "share_bd_error_service_retry"
+msgstr "重试"
+
+msgid "share_bd_new_account"
+msgstr "新建"
+
+msgid "share_bd_options"
+msgstr "选项"
+
+msgid "share_bd_options_album"
+msgstr "相册"
+
+msgid "share_bd_options_metadata"
+msgstr "元数据"
+
+msgid "share_bd_options_privacy"
+msgstr "隐私"
+
+msgid "share_bd_options_size"
+msgstr "图像尺寸"
+
+msgid "share_bd_send_bluetooth"
+msgstr "通过蓝牙传送"
+
+msgid "share_bd_send_email"
+msgstr "通过E-mail发送"
+
+msgid "share_bd_share_to_service"
+msgstr "通过共享服务"
+
+msgid "share_bd_tags"
+msgstr "标签"
+
+msgid "share_cpa_ti"
+msgstr "共享帐户"
+
+msgid "share_fi_accounts_add_new_service"
+msgstr "检查新服务"
+
+msgid "share_fi_album_last_update"
+msgstr "名单更新"
+
+msgid "share_fi_cpa_edit_account_password"
+msgstr "密码"
+
+msgid "share_fi_cpa_edit_account_username"
+msgstr "用户名"
+
+msgid "share_fi_cpa_no_accounts"
+msgstr "(没有帐户)"
+
+msgid "share_fi_description_placeholder"
+msgstr "描述"
+
+msgid "share_fi_favourite"
+msgstr "加入收藏"
+
+msgid "share_fi_favourites"
+msgstr "我的最爱"
+
+msgid "share_fi_options_metadata_keep_all"
+msgstr "保留所有"
+
+msgid "share_fi_options_metadata_remove_all"
+msgstr "在文件中删除所有"
+
+msgid "share_fi_options_metadata_remove_some"
+msgstr "删除GPS坐标和创作者的名字"
+
+msgid "share_fi_options_privacy_family"
+msgstr "家人"
+
+msgid "share_fi_options_privacy_friends"
+msgstr "朋友"
+
+msgid "share_fi_options_privacy_friends_and_family"
+msgstr "朋友和家人"
+
+msgid "share_fi_options_privacy_private"
+msgstr "私人"
+
+msgid "share_fi_options_privacy_public"
+msgstr "公共"
+
+msgid "share_fi_options_size_large"
+msgstr "大"
+
+msgid "share_fi_options_size_medium"
+msgstr "中等"
+
+msgid "share_fi_options_size_original"
+msgstr "保留原数据"
+
+msgid "share_fi_options_size_small"
+msgstr "小"
+
+msgid "share_fi_status_account_not_available"
+msgstr "帐户无法使用"
+
+msgid "share_fi_status_fileformat_error"
+msgstr "文件格式错误"
+
+msgid "share_fi_status_in_queue"
+msgstr "在队列中"
+
+msgid "share_fi_status_menu_sending"
+msgstr "发送 %s"
+
+msgid "share_fi_status_sending"
+msgstr "发送中"
+
+msgid "share_fi_status_unknown_error"
+msgstr "传输错误"
+
+msgid "share_fi_status_upload_limit_error"
+msgstr "上传限制错误"
+
+msgid "share_fi_status_waiting_for_connection"
+msgstr "等待连接"
+
+msgid "share_fi_status_waiting_for_service"
+msgstr "等待服务"
+
+msgid "share_fi_status_wrong_credentials"
+msgstr "识别错误"
+
+msgid "share_fi_title_placeholder"
+msgstr "标题"
+
+msgid "share_ia_accounts_setup_web_sign_in"
+msgstr "继续在帐户设置登陆后返回帐号设置."
+
+msgid "share_ia_accounts_setup_web_start"
+msgstr "必须通过网页设立新的Flickr帐户.\n注册或登陆新的帐户后返回帐号设置."
+
+msgid "share_ia_accounts_setup_web_validate"
+msgstr "验证帐户,完成帐户设置"
+
+msgid "share_ia_cpa_edit_account_web"
+msgstr "点击'编辑'修改完成后回到这里来验证帐户变更."
+
+msgid "share_ia_cpa_validate_changes"
+msgstr "验证更改完成帐户编辑"
+
+msgid "share_ia_error_account"
+msgstr "无法继续转移.选择的帐户不再可用."
+
+msgid "share_ia_error_connection"
+msgstr "转移正在等待中.请等待网络连接"
+
+msgid "share_ia_error_fileformat"
+msgstr "转让 %d 文件失败.文件格式无法被服务接受."
+
+msgid "share_ia_error_fileformat_single_file"
+msgstr "转移 %s 失败. 该文件格式服务器无法接受."
+
+msgid "share_ia_error_identification"
+msgstr "无法继续转移.户名或密码 %s 不正确"
+
+msgid "share_ia_error_identification_for_ovi"
+msgstr "无法继续传送. %s 的用户名称或密码不正确.\n (请一并检查时间设定)"
+
+msgid "share_ia_error_service"
+msgstr "转让未完成.等待服务器响应."
+
+msgid "share_ia_error_unknown"
+msgstr "传输失败.无法继续."
+
+msgid "share_ia_error_upload_limit"
+msgstr "转移 %d 文件失败. 服务上载限制超出."
+
+msgid "share_ia_error_upload_limit_single_file"
+msgstr "转移 %s 失败.超出服务上载限制"
+
+msgid "share_ib_account_editing_completed"
+msgstr "帐户编辑完成"
+
+msgid "share_ib_account_setup_completed"
+msgstr "帐户设置完成"
+
+msgid "share_ib_album_update_failed"
+msgstr "相册目录更新失败"
+
+msgid "share_ib_all_files_no_longer_available"
+msgstr "文件不再可用.共享失败."
+
+msgid "share_ib_enter_credentials_first"
+msgstr "首先输入用户名和密码"
+
+msgid "share_ib_file_no_longer_available"
+msgstr "%s 不再可用"
+
+msgid "share_ib_files_no_longer_available"
+msgstr "%d 文件不再可用"
+
+msgid "share_ib_no_account_to_validate"
+msgstr "未完成帐户设置.操作取消."
+
+msgid "share_ib_no_changes_to_validate"
+msgstr "改变未完成.操作取消."
+
+msgid "share_ib_no_connection"
+msgstr "没有网络连接.操作取消."
+
+msgid "share_ib_no_files_selected"
+msgstr "没有文件选中.共享取消."
+
+msgid "share_ib_not_enough_memory_processing"
+msgstr "没有足够的内存来处理共享文件"
+
+msgid "share_ib_not_enough_memory_scaling"
+msgstr "没有足够的内存来调整图像"
+
+msgid "share_ib_only_file_no_longer_available"
+msgstr "文件不可用.共享失败."
+
+msgid "share_ib_processing"
+msgstr "共享之前请结束进程"
+
+msgid "share_ib_service_not_responding"
+msgstr "服务没有响应.请稍后再试."
+
+msgid "share_ib_validation_failed"
+msgstr "帐户验证失败"
+
+msgid "share_ib_wrong_credentials"
+msgstr "用户名或密码不正确"
+
+msgid "share_ib_wrong_credentials_for_ovi"
+msgstr "用户名称或密码不正确. \n(请一并检查时间设定)"
+
+msgid "share_li_album_default"
+msgstr "预设"
+
+msgid "share_li_album_mymedia"
+msgstr "所有媒体"
+
+msgid "share_nc_cancel_sharing"
+msgstr "停止共享 %d 文件通过 %s?"
+
+msgid "share_nc_cancel_sharing_single_file"
+msgstr "停止共享 %s 通过 %s?"
+
+msgid "share_nc_delete_account"
+msgstr "删除帐户 %s?"
+
+msgid "share_nc_delete_account_in_use"
+msgstr "帐户使用.除帐户 %s?"
+
+msgid "share_ni_account_deleted"
+msgstr "选择共享帐户已被删除.\n选择其他帐户."
+
+msgid "share_ni_already_sent_multiple"
+msgstr "文件已发送到服务: %d"
+
+msgid "share_ni_already_sent_single"
+msgstr "%s 已经发送到服务"
+
+msgid "share_ni_metadata_removal_some"
+msgstr "无法删除元数据将会移除来源于其他文件的元数据."
+
+msgid "share_ni_non_local_files"
+msgstr "无法分享非本地文件.操作取消."
+
+msgid "share_ni_only_account_deleted"
+msgstr "选择的共享帐户已被删除.\n必须创建新账户."
+
+msgid "share_ni_outbox_full"
+msgstr "没有足够的内存来为新的转移使用"
+
+msgid "share_ni_sso_account_setup_completed"
+msgstr "Ovi帐户安装由诺基亚公司设计开发.\n共享"
+
+msgid "share_ni_too_many_files"
+msgstr "无法一次分享 %d 多个文件. 操作取消."
+
+msgid "share_ni_username_existing"
+msgstr "帐户用户名取消操作."
+
+msgid "share_ti_accounts_select_service"
+msgstr "帐户设置 - 选择服务"
+
+msgid "share_ti_accounts_setup"
+msgstr "帐户设置 - %s"
+
+msgid "share_ti_accounts_setup_web_sign_in"
+msgstr "帐户设置-登录到 %s"
+
+msgid "share_ti_accounts_setup_web_validate"
+msgstr "帐户设置-验证 %s 帐户"
+
+msgid "share_ti_accounts_validating"
+msgstr "验证帐户 %s"
+
+msgid "share_ti_cpa_edit_account"
+msgstr "编辑帐户 %s"
+
+msgid "share_ti_cpa_validate_changes"
+msgstr "验证 %s 帐户"
+
+msgid "share_ti_cpa_validating_changes"
+msgstr "验证 %s 帐户"
+
+msgid "share_ti_options"
+msgstr "共享选项"
+
+msgid "share_ti_select_account"
+msgstr "选择帐户"
+
+msgid "share_ti_select_album"
+msgstr "选择相册"
+
+msgid "share_ti_share_dialogs_multiple"
+msgstr "分享 %d 文件"
+
+msgid "share_ti_share_dialogs_single"
+msgstr "分享 %s"
+
+msgid "share_ti_share_status_dialog"
+msgstr "共享状态"
+
+msgid "share_ti_single_content_details"
+msgstr "编辑细节: %s"
+
+msgid "share_ti_status_menu_plug_in"
+msgstr "分享"
+
+msgid "share_ti_transfer_error_dialogs"
+msgstr "分享 %d 文件通过 %s"
+
+msgid "share_ti_transfer_error_dialogs_single_file"
+msgstr "分享 %s 通过 %s"
