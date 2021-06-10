@@ -1,0 +1,375 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2010-11-30 11:48+0000\n"
+"Last-Translator: \n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_TW\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "share_bd_account"
+msgstr "帳號"
+
+msgid "share_bd_accounts_register_new"
+msgstr "註冊新帳號"
+
+msgid "share_bd_accounts_sign_in"
+msgstr "登入"
+
+msgid "share_bd_accounts_use_existing"
+msgstr "使用現有的帳號"
+
+msgid "share_bd_accounts_validate"
+msgstr "驗證"
+
+msgid "share_bd_album_update_list"
+msgstr "更新相簿列表"
+
+msgid "share_bd_connect"
+msgstr "連接"
+
+msgid "share_bd_error_cancel_sharing"
+msgstr "停止線上分享"
+
+msgid "share_bd_error_identification_edit_account"
+msgstr "編輯帳號"
+
+msgid "share_bd_error_service_retry"
+msgstr "重試"
+
+msgid "share_bd_new_account"
+msgstr "新增"
+
+msgid "share_bd_options"
+msgstr "選項"
+
+msgid "share_bd_options_album"
+msgstr "相簿"
+
+msgid "share_bd_options_metadata"
+msgstr "中繼資料"
+
+msgid "share_bd_options_privacy"
+msgstr "隱私"
+
+msgid "share_bd_options_size"
+msgstr "影像尺寸"
+
+msgid "share_bd_send_bluetooth"
+msgstr "通過藍牙傳送"
+
+msgid "share_bd_send_email"
+msgstr "通過電子郵件傳送"
+
+msgid "share_bd_share_to_service"
+msgstr "通過線上分享服務"
+
+msgid "share_bd_tags"
+msgstr "標籤"
+
+msgid "share_cpa_ti"
+msgstr "線上分享"
+
+msgid "share_fi_accounts_add_new_service"
+msgstr "檢查新服務"
+
+msgid "share_fi_album_last_update"
+msgstr "名單更新"
+
+msgid "share_fi_cpa_edit_account_password"
+msgstr "密碼"
+
+msgid "share_fi_cpa_edit_account_username"
+msgstr "使用者名稱"
+
+msgid "share_fi_cpa_no_accounts"
+msgstr "(沒有帳號)"
+
+msgid "share_fi_description_placeholder"
+msgstr "描述"
+
+msgid "share_fi_favourite"
+msgstr "加入收藏"
+
+msgid "share_fi_favourites"
+msgstr "我的最愛"
+
+msgid "share_fi_options_metadata_keep_all"
+msgstr "保留所有"
+
+msgid "share_fi_options_metadata_remove_all"
+msgstr "在檔案中刪除所有"
+
+msgid "share_fi_options_metadata_remove_some"
+msgstr "刪除GPS座標和作者的名字"
+
+msgid "share_fi_options_privacy_family"
+msgstr "家人"
+
+msgid "share_fi_options_privacy_friends"
+msgstr "朋友"
+
+msgid "share_fi_options_privacy_friends_and_family"
+msgstr "朋友和家人"
+
+msgid "share_fi_options_privacy_private"
+msgstr "私人"
+
+msgid "share_fi_options_privacy_public"
+msgstr "公共"
+
+msgid "share_fi_options_size_large"
+msgstr "大"
+
+msgid "share_fi_options_size_medium"
+msgstr "中等"
+
+msgid "share_fi_options_size_original"
+msgstr "保留原尺寸"
+
+msgid "share_fi_options_size_small"
+msgstr "小"
+
+msgid "share_fi_status_account_not_available"
+msgstr "帳號無法使用"
+
+msgid "share_fi_status_fileformat_error"
+msgstr "檔案格式錯誤"
+
+msgid "share_fi_status_in_queue"
+msgstr "在隊列中"
+
+msgid "share_fi_status_menu_sending"
+msgstr "傳送 %s"
+
+msgid "share_fi_status_sending"
+msgstr "傳送中"
+
+msgid "share_fi_status_unknown_error"
+msgstr "傳輸錯誤"
+
+msgid "share_fi_status_upload_limit_error"
+msgstr "上傳限制錯誤"
+
+msgid "share_fi_status_waiting_for_connection"
+msgstr "等待連接"
+
+msgid "share_fi_status_waiting_for_service"
+msgstr "等待服務"
+
+msgid "share_fi_status_wrong_credentials"
+msgstr "識別錯誤"
+
+msgid "share_fi_title_placeholder"
+msgstr "標題"
+
+msgid "share_ia_accounts_setup_web_sign_in"
+msgstr "以網頁登入 %s 後繼續帳號的設定\n. 登入後返回帳號設定."
+
+msgid "share_ia_accounts_setup_web_start"
+msgstr "必須通過網頁設立新的Flickr帳號.\n註冊或登入新的帳號後返回帳號設定."
+
+msgid "share_ia_accounts_setup_web_validate"
+msgstr "驗證帳號,完成帳號設定"
+
+msgid "share_ia_cpa_edit_account_web"
+msgstr "點擊'編輯'，開啟網頁編輯修改完成返回至此以驗證帳號變更."
+
+msgid "share_ia_cpa_validate_changes"
+msgstr "驗證帳號以完成帳號設定"
+
+msgid "share_ia_error_account"
+msgstr "無法繼續傳送.選取的帳號無法使用."
+
+msgid "share_ia_error_connection"
+msgstr "傳送暫停中.請等待網路連線"
+
+msgid "share_ia_error_fileformat"
+msgstr "傳送 %d 檔案失敗.檔案格式無法被服務接受."
+
+msgid "share_ia_error_fileformat_single_file"
+msgstr "傳送 %s 失敗. 伺服器無法接受該檔案格式."
+
+msgid "share_ia_error_identification"
+msgstr "無法繼續傳送.帳號或密碼 %s 不正確"
+
+msgid "share_ia_error_identification_for_ovi"
+msgstr "無法繼續傳送. %s 的使用者名稱或密碼不正確.\n (請一併檢查時間設定)"
+
+msgid "share_ia_error_service"
+msgstr "轉讓未完成.等待伺服器回應."
+
+msgid "share_ia_error_unknown"
+msgstr "傳輸失敗.無法繼續."
+
+msgid "share_ia_error_upload_limit"
+msgstr "傳送 %d 檔案失敗. 超出服務上載限制."
+
+msgid "share_ia_error_upload_limit_single_file"
+msgstr "傳送 %s 失敗.超出服務上載限制"
+
+msgid "share_ib_account_editing_completed"
+msgstr "帳號編輯完成"
+
+msgid "share_ib_account_setup_completed"
+msgstr "帳號設定完成"
+
+msgid "share_ib_album_update_failed"
+msgstr "相簿目錄更新失敗"
+
+msgid "share_ib_all_files_no_longer_available"
+msgstr "檔案不再可用.線上分享失敗."
+
+msgid "share_ib_enter_credentials_first"
+msgstr "請先輸入帳號和密碼"
+
+msgid "share_ib_file_no_longer_available"
+msgstr "%s 不再可用"
+
+msgid "share_ib_files_no_longer_available"
+msgstr "%d 檔案不再可用"
+
+msgid "share_ib_no_account_to_validate"
+msgstr "未完成帳號設定.操作取消."
+
+msgid "share_ib_no_changes_to_validate"
+msgstr "變更未完成.操作取消."
+
+msgid "share_ib_no_connection"
+msgstr "沒有網路連線.操作取消."
+
+msgid "share_ib_no_files_selected"
+msgstr "沒有選取檔案.線上分享取消."
+
+msgid "share_ib_not_enough_memory_processing"
+msgstr "沒有足夠的記憶體來處理分享檔案"
+
+msgid "share_ib_not_enough_memory_scaling"
+msgstr "沒有足夠的記憶體來調整影像"
+
+msgid "share_ib_only_file_no_longer_available"
+msgstr "檔案不可用.線上分享失敗."
+
+msgid "share_ib_processing"
+msgstr "線上分享前請結束程式"
+
+msgid "share_ib_service_not_responding"
+msgstr "服務沒有回應. 請稍後再試."
+
+msgid "share_ib_validation_failed"
+msgstr "帳號驗證失敗"
+
+msgid "share_ib_wrong_credentials"
+msgstr "帳號或密碼不正確"
+
+msgid "share_ib_wrong_credentials_for_ovi"
+msgstr "使用者名稱或密碼不正確. \n(請一併檢查時間設定)User name or password incorrect.\n(Also check time settings.)"
+
+msgid "share_li_album_default"
+msgstr "預設"
+
+msgid "share_li_album_mymedia"
+msgstr "所有媒體"
+
+msgid "share_nc_cancel_sharing"
+msgstr "停止通過 %s線上分享 %d 檔案?"
+
+msgid "share_nc_cancel_sharing_single_file"
+msgstr "停止通過 %s線上分享 %s ?"
+
+msgid "share_nc_delete_account"
+msgstr "刪除帳號 %s?"
+
+msgid "share_nc_delete_account_in_use"
+msgstr "帳號使用中. 刪除帳號 %s?"
+
+msgid "share_ni_account_deleted"
+msgstr "選取的線上分享帳號已被刪除.\n選擇其他帳號."
+
+msgid "share_ni_already_sent_multiple"
+msgstr "檔案已傳送到服務: %d"
+
+msgid "share_ni_already_sent_single"
+msgstr "%s 已經傳送到服務"
+
+msgid "share_ni_metadata_removal_some"
+msgstr "無法從%d/%d檔案刪除中繼資料. \n 僅會移除來自於其他檔案的中繼資料."
+
+msgid "share_ni_non_local_files"
+msgstr "無法分享非本地檔案.操作取消."
+
+msgid "share_ni_only_account_deleted"
+msgstr "選擇的線上分享帳號已被刪除.\n必須建立新帳號."
+
+msgid "share_ni_outbox_full"
+msgstr "沒有足夠的記憶體進行新的傳送"
+
+msgid "share_ni_sso_account_setup_completed"
+msgstr "諾基亞Ovi帳號設定已完成. \n 已啟動線上分享，聊天和Web服務"
+
+msgid "share_ni_too_many_files"
+msgstr "無法一次分享 %d 多個檔案. 操作取消."
+
+msgid "share_ni_username_existing"
+msgstr "帳號名稱 %s 已存在. 取消操作."
+
+msgid "share_ti_accounts_select_service"
+msgstr "帳號設定 - 選擇服務"
+
+msgid "share_ti_accounts_setup"
+msgstr "帳號設定 - %s"
+
+msgid "share_ti_accounts_setup_web_sign_in"
+msgstr "帳號設定-登錄到 %s"
+
+msgid "share_ti_accounts_setup_web_validate"
+msgstr "帳號設定-驗證 %s 帳號"
+
+msgid "share_ti_accounts_validating"
+msgstr "驗證帳號 %s"
+
+msgid "share_ti_cpa_edit_account"
+msgstr "編輯帳號 %s"
+
+msgid "share_ti_cpa_validate_changes"
+msgstr "驗證 %s 帳號"
+
+msgid "share_ti_cpa_validating_changes"
+msgstr "驗證 %s 帳號"
+
+msgid "share_ti_options"
+msgstr "線上分享選項"
+
+msgid "share_ti_select_account"
+msgstr "選擇帳號"
+
+msgid "share_ti_select_album"
+msgstr "選擇相簿"
+
+msgid "share_ti_share_dialogs_multiple"
+msgstr "線上分享 %d 檔案"
+
+msgid "share_ti_share_dialogs_single"
+msgstr "線上分享 %s"
+
+msgid "share_ti_share_status_dialog"
+msgstr "線上分享狀態"
+
+msgid "share_ti_single_content_details"
+msgstr "編輯明細: %s"
+
+msgid "share_ti_status_menu_plug_in"
+msgstr "線上分享"
+
+msgid "share_ti_transfer_error_dialogs"
+msgstr "線上分享 %d 檔案通過 %s"
+
+msgid "share_ti_transfer_error_dialogs_single_file"
+msgstr "線上分享 %s 通過 %s"
