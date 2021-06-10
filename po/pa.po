@@ -1,0 +1,376 @@
+# 
+# Translators:
+#   <firstfan@gmail.com>, 2012.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2012-05-30 16:54+0000\n"
+"Last-Translator: firstfan <firstfan@gmail.com>\n"
+"Language-Team: Panjabi (Punjabi) (http://www.transifex.net/projects/p/n900-extra-translations/language/pa/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pa\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "share_bd_account"
+msgstr "ਅਕਾਊਂਟ"
+
+msgid "share_bd_accounts_register_new"
+msgstr "ਨਵਾਂ ਅਕਾਊਂਟ ਰਜਿਸਟਰ ਕਰੋ"
+
+msgid "share_bd_accounts_sign_in"
+msgstr "ਸਾਈਨ ਇਨ"
+
+msgid "share_bd_accounts_use_existing"
+msgstr "ਮੌਜੂਦਾ ਅਕਾਊਂਟ ਵਰਤੋਂ"
+
+msgid "share_bd_accounts_validate"
+msgstr "ਵੈਧਤਾ"
+
+msgid "share_bd_album_update_list"
+msgstr "ਐਲਬਮ ਲਿਸਟ ਅੱਪਡੇਟ ਕਰੋ"
+
+msgid "share_bd_connect"
+msgstr "ਕੁਨੈਕਟ ਕਰੋ"
+
+msgid "share_bd_error_cancel_sharing"
+msgstr "ਸਾਂਝਾ ਕਰਨਾ ਰੋਕੋ"
+
+msgid "share_bd_error_identification_edit_account"
+msgstr "ਅਕਾਊਂਟ ਸੋਧ"
+
+msgid "share_bd_error_service_retry"
+msgstr "ਮੁੜ-ਕੋਸ਼ਿਸ਼"
+
+msgid "share_bd_new_account"
+msgstr "ਨਵਾਂ"
+
+msgid "share_bd_options"
+msgstr "ਚੋਣਾਂ"
+
+msgid "share_bd_options_album"
+msgstr "ਐਲਬਮ"
+
+msgid "share_bd_options_metadata"
+msgstr "ਮੇਟਾਡਾਟਾ"
+
+msgid "share_bd_options_privacy"
+msgstr "ਪਰਾਈਵੇਸੀ"
+
+msgid "share_bd_options_size"
+msgstr "ਚਿੱਤਰ ਸਾਈਜ਼"
+
+msgid "share_bd_send_bluetooth"
+msgstr "ਬਲਿਊਟੁੱਥ ਰਾਹੀਂ ਭੇਜੋ"
+
+msgid "share_bd_send_email"
+msgstr "ਈਮੇਲ ਰਾਹੀਂ ਭੇਜੋ"
+
+msgid "share_bd_share_to_service"
+msgstr "ਸਰਵਿਸ ਰਾਹੀਂ ਸਾਂਝਾ ਕਰੋ"
+
+msgid "share_bd_tags"
+msgstr "ਟੈਗ"
+
+msgid "share_cpa_ti"
+msgstr "ਸਾਂਝਾ ਕਰਨ ਲਈ ਅਕਾਊਂਟ"
+
+msgid "share_fi_accounts_add_new_service"
+msgstr "ਨਵੀਂ ਸਰਵਿਸ ਲਈ ਚੈੱਕ ਕਰੋ"
+
+msgid "share_fi_album_last_update"
+msgstr "ਲਿਸਟ ਅੱਪਡੇਟ ਹੈ"
+
+msgid "share_fi_cpa_edit_account_password"
+msgstr "ਪਾਸਵਰਡ"
+
+msgid "share_fi_cpa_edit_account_username"
+msgstr "ਯੂਜ਼ਰ ਨਾਂ"
+
+msgid "share_fi_cpa_no_accounts"
+msgstr "(ਅਕਾਊਂਟ ਨਹੀਂ)"
+
+msgid "share_fi_description_placeholder"
+msgstr "ਵੇਰਵਾ"
+
+msgid "share_fi_favourite"
+msgstr "ਪਸੰਦੀਦਾ"
+
+msgid "share_fi_favourites"
+msgstr "ਪਸੰਦੀਦਾ"
+
+msgid "share_fi_options_metadata_keep_all"
+msgstr "ਸਭ ਰੱਖੋ"
+
+msgid "share_fi_options_metadata_remove_all"
+msgstr "ਫਾਇਲ ਵਿੱਚੋਂ ਸਭ ਹਟਾਓ"
+
+msgid "share_fi_options_metadata_remove_some"
+msgstr "GPS ਧੁਰੇ ਅਤੇ ਨਿਰਮਾਤਾ ਨਾਂ ਹਟਾਓ"
+
+msgid "share_fi_options_privacy_family"
+msgstr "ਪਰਿਵਾਰ"
+
+msgid "share_fi_options_privacy_friends"
+msgstr "ਦੋਸਤ"
+
+msgid "share_fi_options_privacy_friends_and_family"
+msgstr "ਦੋਸਤ ਅਤੇ ਪਰਿਵਾਰ"
+
+msgid "share_fi_options_privacy_private"
+msgstr "ਪ੍ਰਾਈਵੇਟ"
+
+msgid "share_fi_options_privacy_public"
+msgstr "ਪਬਲਿਕ"
+
+msgid "share_fi_options_size_large"
+msgstr "ਵੱਡਾ"
+
+msgid "share_fi_options_size_medium"
+msgstr "ਮੱਧਮ"
+
+msgid "share_fi_options_size_original"
+msgstr "ਅਸਲੀ ਰੱਖੋ"
+
+msgid "share_fi_options_size_small"
+msgstr "ਛੋਟਾ"
+
+msgid "share_fi_status_account_not_available"
+msgstr "ਅਕਾਊਂਟ ਉਪਲੱਬਧ ਨਹੀਂ"
+
+msgid "share_fi_status_fileformat_error"
+msgstr "ਫਾਇਲ ਫਾਰਮੈਟ ਗਲਤੀ"
+
+msgid "share_fi_status_in_queue"
+msgstr "ਕਤਾਰ 'ਚ"
+
+msgid "share_fi_status_menu_sending"
+msgstr "%s ਨੂੰ ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ"
+
+msgid "share_fi_status_sending"
+msgstr "ਭੇਜੀ ਜਾ ਰਹੀ ਹੈ"
+
+msgid "share_fi_status_unknown_error"
+msgstr "ਟਰਾਂਸਫਰ ਗਲਤੀ"
+
+msgid "share_fi_status_upload_limit_error"
+msgstr "ਅੱਪਲੋਡ ਲਿਮਟ ਗਲਤੀ"
+
+msgid "share_fi_status_waiting_for_connection"
+msgstr "ਕੁਨੈਕਸ਼ਨ ਲਈ ਉਡੀਕ ਜਾਰੀ"
+
+msgid "share_fi_status_waiting_for_service"
+msgstr "ਸਰਵਿਸ ਲਈ ਉਡੀਕ ਜਾਰੀ"
+
+msgid "share_fi_status_wrong_credentials"
+msgstr "ਪਛਾਣ ਗਲਤੀ"
+
+msgid "share_fi_title_placeholder"
+msgstr "ਟਾਈਟਲ"
+
+msgid "share_ia_accounts_setup_web_sign_in"
+msgstr "%s ਵੈੱਬਪੇਜ਼ ਰਾਹੀਂ ਅਕਾਊਂਟ ਸੈਟਅੱਪ ਜਾਰੀ ਰੱਖੋ।\nਸਾਈਨ-ਅੱਪ ਕਰਨ ਦੇ ਬਾਅਦ ਅਕਾਊਂਟ ਸੈਟਅੱਪ ਉੱਤੇ ਵਾਪਸ ਆਉ।"
+
+msgid "share_ia_accounts_setup_web_start"
+msgstr "ਨਵਾਂ ਫਲਿੱਕਰ ਅਕਾਊਂਟ ਵੈੱਬ ਪੇਜ਼ ਰਾਹੀਂ ਸੈਟਅੱਪ ਕਰਨ ਦੀ ਲੋੜ ਹੈ।\nਮੌਜੂਦਾ ਜਾਂ ਨਵੇਂ ਅਕਾਊਂਟ ਨਾਲ ਰਜਿਸਟਰ ਕਰਨ ਦੇ ਬਾਅਦ ਅਕਾਊਂਟ ਸੈਟਅੱਪ ਉੱਤੇ ਵਾਪਸ ਆਉ।"
+
+msgid "share_ia_accounts_setup_web_validate"
+msgstr "ਅਕਾਊਂਟ ਸੈਟਅੱਪ ਪੂਰਾ ਕਰਨ ਲਈ ਅਕਾਊਂਟ ਵੈਧਤਾ"
+
+msgid "share_ia_cpa_edit_account_web"
+msgstr "%s ਅਕਾਊਂਟ ਸੋਧਣ ਲਈ ਵੈੱਬ ਪੇਜ਼ ਖੋਲ੍ਹਣ ਵਾਸਤੇ 'ਸੋਧ' ਨੂੰ ਛੂਹੋ।\nਬਦਲਾਅ ਪਰਮਾਣਿਤ ਕਰਨ ਵਾਸਤੇ ਅਕਾਊਂਟ ਸੋਧਣ ਦੇ ਬਾਅਦ ਇੱਥੇ ਵਾਪਸ ਆਉ।"
+
+msgid "share_ia_cpa_validate_changes"
+msgstr "ਅਕਾਊਂਟ ਸੋਧ ਪੂਰਾ ਕਰਨ ਲਈ ਬਦਲਾਅ ਪਰਮਾਣਿਤ"
+
+msgid "share_ia_error_account"
+msgstr "ਟਰਾਂਸਫਰ ਪੂਰਾ ਕਰਨ ਲਈ ਅਸਮਰੱਥ ਹੈ। ਚੁਣਿਆ ਅਕਾਊਂਟ ਹੁਣ ਉਪਲੱਬਧ ਨਹੀਂ ਰਿਹਾ।"
+
+msgid "share_ia_error_connection"
+msgstr "ਟਰਾਂਸਫਰ ਬਾਕੀ ਹੈ। ਇੰਟਰਨੈੱਟ ਕੁਨੈਕਸ਼ਨ ਲਈ ਉਡੀਕ ਜਾਰੀ ਹੈ।"
+
+msgid "share_ia_error_fileformat"
+msgstr "%d ਫਾਇਲਾਂ ਲਈ ਟਰਾਂਸਫਰ ਫੇਲ੍ਹ ਹੋਇਆ। ਸਰਵਿਸ ਫਾਇਲ ਫਾਰਮੈਟ ਮਨਜ਼ੂਰ ਨਹੀਂ ਕਰਦੀ।"
+
+msgid "share_ia_error_fileformat_single_file"
+msgstr "Transfer of %s failed. Service unable to accept file format."
+
+msgid "share_ia_error_identification"
+msgstr "Unable to continue transfer. User name or password for %s incorrect."
+
+msgid "share_ia_error_identification_for_ovi"
+msgstr "Unable to continue transfer. User name or password for %s incorrect.\n(Also check time settings.)"
+
+msgid "share_ia_error_service"
+msgstr "Transfer pending. Awaiting service response."
+
+msgid "share_ia_error_unknown"
+msgstr "ਟਰਾਂਸਫਰ ਫੇਲ੍ਹੀ ਹੋਈ। ਜਾਰੀ ਰੱਖਣ ਲਈ ਅਸਮਰੱਥ।"
+
+msgid "share_ia_error_upload_limit"
+msgstr "Transfer of %d files failed. Service upload limit exceeded."
+
+msgid "share_ia_error_upload_limit_single_file"
+msgstr "Transfer of %s failed. Service upload limit exceeded."
+
+msgid "share_ib_account_editing_completed"
+msgstr "ਅਕਾਊਂਟ ਸੋਧ ਪੂਰੀ ਹੋਈ"
+
+msgid "share_ib_account_setup_completed"
+msgstr "ਅਕਾਊਂਟ ਸੈਟਅੱਪ ਪੂਰਾ ਹੋਇਆ"
+
+msgid "share_ib_album_update_failed"
+msgstr "ਐਲਬਮ ਲਿਸਟ ਅੱਪਡੇਟ ਫੇਲ੍ਹ ਹੋਈ"
+
+msgid "share_ib_all_files_no_longer_available"
+msgstr "ਫਾਇਲਾਂ ਉਪਲੱਬਧ ਨਹੀਂ ਰਹੀਆਂ। ਸਾਂਝਾ ਕਰਨਾ ਫੇਲ੍ਹ ਹੋਇਆ।"
+
+msgid "share_ib_enter_credentials_first"
+msgstr "ਪਹਿਲਾਂ ਆਪਣਾ ਯੂਜ਼ਰ ਨਾਂ ਅਤੇ ਪਾਸਵਰਡ ਦਿਓ।"
+
+msgid "share_ib_file_no_longer_available"
+msgstr "%s ਹੁਣ ਉਪਲੱਬਧ ਨਹੀਂ ਰਹੀ"
+
+msgid "share_ib_files_no_longer_available"
+msgstr "%d ਫਾਇਲਾਂ ਹੁਣ ਉਪਲੱਬਧ ਨਹੀਂ ਰਹੀਆਂ"
+
+msgid "share_ib_no_account_to_validate"
+msgstr "ਅਕਾਊਂਟ ਸੈਟਅੱਪ ਮੁਕੰਮਲ ਨਹੀਂ ਹੋਇਆ। ਓਪਰੇਸ਼ਨ ਰੱਦ ਕੀਤਾ ਗਿਆ।"
+
+msgid "share_ib_no_changes_to_validate"
+msgstr "ਬਦਲਾਅ ਮੁਕੰਮਲ ਨਹੀਂ ਹੋਏ। ਓਪਰੇਸ਼ਨ ਰੱਦ ਕੀਤੇ।"
+
+msgid "share_ib_no_connection"
+msgstr "ਨੈੱਟਵਰਕ ਕੁਨੈਕਸ਼ਨ ਉਪਲੱਬਧ ਨਹੀਂ ਹੈ। ਓਪਰੇਸ਼ਨ ਰੱਦ ਕੀਤਾ।"
+
+msgid "share_ib_no_files_selected"
+msgstr "ਕੋਈ ਫਾਇਲ ਨਹੀਂ ਚੁਣੀ। ਸਾਂਝਾ ਕਰਨਾ ਰੱਦ ਕੀਤਾ।"
+
+msgid "share_ib_not_enough_memory_processing"
+msgstr "ਸਾਂਝਾ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਫਾਇਲਾਂ ਉੱਤੇ ਕਾਰਵਾਈ ਕਰਨ ਲਈ ਲੋੜੀਦੀ ਮੈਮੋਰੀ ਨਹੀਂ ਹੈ"
+
+msgid "share_ib_not_enough_memory_scaling"
+msgstr "ਚਿੱਤਰ ਦਾ ਆਕਾਰ ਬਦਲਣ ਲਈ ਲੋੜੀਦੀ ਮੈਮੋਰੀ ਨਹੀਂ ਹੈ"
+
+msgid "share_ib_only_file_no_longer_available"
+msgstr "ਫਾਇਲ ਹੁਣ ਉਪਲੱਬਧ ਨਹੀਂ ਰਹੀ। ਸਾਂਝਾ ਕਰਨਾ ਫੇਲ੍ਹ ਹੋਇਆ।"
+
+msgid "share_ib_processing"
+msgstr "ਸਾਂਝਾ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਫਾਇਲਾਂ ਉੱਤੇ ਕਾਰਵਾਈ ਜਾਰੀ ਹੈ"
+
+msgid "share_ib_service_not_responding"
+msgstr "Service not responding. Try again later."
+
+msgid "share_ib_validation_failed"
+msgstr "ਅਕਾਊਂਟ ਪਰਮਾਣਕਿਤਾ ਫੇਲ੍ਹ ਹੋਈ"
+
+msgid "share_ib_wrong_credentials"
+msgstr "ਯੂਜ਼ਰ ਨਾਂ ਜਾਂ ਪਾਸਵਰਡ ਗਲਤ ਹੈ"
+
+msgid "share_ib_wrong_credentials_for_ovi"
+msgstr "User name or password incorrect.\n(Also check time settings.)"
+
+msgid "share_li_album_default"
+msgstr "Default"
+
+msgid "share_li_album_mymedia"
+msgstr "ਸਭ ਮੀਡਿਆ"
+
+msgid "share_nc_cancel_sharing"
+msgstr "Stop sharing %d files via %s?"
+
+msgid "share_nc_cancel_sharing_single_file"
+msgstr "Stop sharing %s via %s?"
+
+msgid "share_nc_delete_account"
+msgstr "%s ਲਈ ਕੀ ਅਕਾਊਂਟ ਹਟਾਉਣਾ ਹੈ?"
+
+msgid "share_nc_delete_account_in_use"
+msgstr "ਅਕਾਊਂਟ ਵਰਤੋਂ ਅਧੀਨ ਹੈ। %s ਲਈ ਅਕਾਊਂਟ ਹਟਾਉਣਾ ਹੈ?"
+
+msgid "share_ni_account_deleted"
+msgstr "Account selected for sharing has been deleted.\nSelect another account."
+
+msgid "share_ni_already_sent_multiple"
+msgstr "Files already sent to service: %d"
+
+msgid "share_ni_already_sent_single"
+msgstr "%s ਪਹਿਲਾਂ ਹੀ ਸਰਵਿਸ ਉੱਤੇ ਭੇਜੀ ਗਈ।"
+
+msgid "share_ni_metadata_removal_some"
+msgstr "Unable to remove metadata from %d/%d files.\nOnly metadata from other files will be removed."
+
+msgid "share_ni_non_local_files"
+msgstr "Unable to share non-local files. Operation canceled."
+
+msgid "share_ni_only_account_deleted"
+msgstr "Account selected for sharing has been deleted.\nNew account must be created."
+
+msgid "share_ni_outbox_full"
+msgstr "ਨਵੇਂ ਟਰਾਂਸਫਰ ਲਈ ਲੋੜੀਦੀ ਮੈਮੋਰੀ ਨਹੀਂ ਹੈ"
+
+msgid "share_ni_sso_account_setup_completed"
+msgstr "Account setup for Ovi by Nokia completed.\nSharing, chat and web services activated"
+
+msgid "share_ni_too_many_files"
+msgstr "Unable to share more than %d files at once. Operation canceled."
+
+msgid "share_ni_username_existing"
+msgstr "Account with user name %s already exists for %s.\nOperation canceled."
+
+msgid "share_ti_accounts_select_service"
+msgstr "ਅਕਾਊਂਟ ਸੈਟਅੱਪ - ਸਰਵਿਸ ਚੁਣੋAccount setup - Select service"
+
+msgid "share_ti_accounts_setup"
+msgstr "ਅਕਾਊਂਟ ਸੈਟਅੱਪ - %s"
+
+msgid "share_ti_accounts_setup_web_sign_in"
+msgstr "ਅਕਾਊਂਟ ਸੈਟਅੱਪ - %s ਵਿੱਚ ਲਾਗਇਨ ਕਰੋ"
+
+msgid "share_ti_accounts_setup_web_validate"
+msgstr "Account setup - Validate %s account"
+
+msgid "share_ti_accounts_validating"
+msgstr "%s ਲਈ ਅਕਾਊਂਟ ਵੈਧਤਾ"
+
+msgid "share_ti_cpa_edit_account"
+msgstr "%s ਲਈ ਅਕਾਊਂਟ ਸੋਧੋ"
+
+msgid "share_ti_cpa_validate_changes"
+msgstr "Validate changes for %s account"
+
+msgid "share_ti_cpa_validating_changes"
+msgstr "Validating changes for %s account"
+
+msgid "share_ti_options"
+msgstr "ਸਾਂਝਾ ਕਰਨ ਚੋਣਾਂ"
+
+msgid "share_ti_select_account"
+msgstr "ਅਕਾਊਂਟ ਚੁਣੋ"
+
+msgid "share_ti_select_album"
+msgstr "ਐਲਬਮ ਚੁਣੋ"
+
+msgid "share_ti_share_dialogs_multiple"
+msgstr "%d ਫਾਇਲਾਂ ਸਾਂਝੀਆਂ ਕਰੋ"
+
+msgid "share_ti_share_dialogs_single"
+msgstr "%s ਸਾਂਝ"
+
+msgid "share_ti_share_status_dialog"
+msgstr "ਸਾਂਝ ਹਾਲਤ"
+
+msgid "share_ti_single_content_details"
+msgstr "ਵੇਰਵਾ ਸੋਧ: %s"
+
+msgid "share_ti_status_menu_plug_in"
+msgstr "ਸਾਂਝਾ"
+
+msgid "share_ti_transfer_error_dialogs"
+msgstr "Sharing %d files via %s"
+
+msgid "share_ti_transfer_error_dialogs_single_file"
+msgstr "%s %s ਰਾਹੀਂ ਸਾਂਝਾ"
