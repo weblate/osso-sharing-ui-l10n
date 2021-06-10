@@ -1,0 +1,375 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2012-05-26 15:45+0000\n"
+"Last-Translator: Stanislau <kasrkin@mail.by>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: be_BY\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "share_bd_account"
+msgstr "Рахунак"
+
+msgid "share_bd_accounts_register_new"
+msgstr "Зарэгістраваць новы рахунак"
+
+msgid "share_bd_accounts_sign_in"
+msgstr "Увайсці"
+
+msgid "share_bd_accounts_use_existing"
+msgstr "Выкарыстоўваць існуючы рахунак"
+
+msgid "share_bd_accounts_validate"
+msgstr "Пацвердзіць"
+
+msgid "share_bd_album_update_list"
+msgstr "Абнавіць спіс альбома"
+
+msgid "share_bd_connect"
+msgstr "Падлучыцца"
+
+msgid "share_bd_error_cancel_sharing"
+msgstr "Спыніць перадачу"
+
+msgid "share_bd_error_identification_edit_account"
+msgstr "Рэдагаваць рахунак"
+
+msgid "share_bd_error_service_retry"
+msgstr "Паўтарыць"
+
+msgid "share_bd_new_account"
+msgstr "Новы"
+
+msgid "share_bd_options"
+msgstr "Опцыі"
+
+msgid "share_bd_options_album"
+msgstr "Альбом"
+
+msgid "share_bd_options_metadata"
+msgstr "Метададзеныя"
+
+msgid "share_bd_options_privacy"
+msgstr "Прыватнасць"
+
+msgid "share_bd_options_size"
+msgstr "Памер выявы"
+
+msgid "share_bd_send_bluetooth"
+msgstr "Даслаць праз Bluetooth"
+
+msgid "share_bd_send_email"
+msgstr "Даслаць праз электронную пошту"
+
+msgid "share_bd_share_to_service"
+msgstr "Падзяліцца праз службу"
+
+msgid "share_bd_tags"
+msgstr "Тэгі"
+
+msgid "share_cpa_ti"
+msgstr "Рахункі сумеснага доступу"
+
+msgid "share_fi_accounts_add_new_service"
+msgstr "Праверыць новую службу"
+
+msgid "share_fi_album_last_update"
+msgstr "Спіс абноўлены"
+
+msgid "share_fi_cpa_edit_account_password"
+msgstr "Пароль"
+
+msgid "share_fi_cpa_edit_account_username"
+msgstr "Імя карыстальніка"
+
+msgid "share_fi_cpa_no_accounts"
+msgstr "(няма рахункаў)"
+
+msgid "share_fi_description_placeholder"
+msgstr "Апісанне"
+
+msgid "share_fi_favourite"
+msgstr "Выбранае"
+
+msgid "share_fi_favourites"
+msgstr "Выбраныя"
+
+msgid "share_fi_options_metadata_keep_all"
+msgstr "Захаваць усё"
+
+msgid "share_fi_options_metadata_remove_all"
+msgstr "Выдаліць ўсё ў файле"
+
+msgid "share_fi_options_metadata_remove_some"
+msgstr "Выдаліць каардынаты GPS і імя стваральніка"
+
+msgid "share_fi_options_privacy_family"
+msgstr "Сям'я"
+
+msgid "share_fi_options_privacy_friends"
+msgstr "Сябры"
+
+msgid "share_fi_options_privacy_friends_and_family"
+msgstr "Сябры і сям'я"
+
+msgid "share_fi_options_privacy_private"
+msgstr "Прыватны"
+
+msgid "share_fi_options_privacy_public"
+msgstr "Публічны"
+
+msgid "share_fi_options_size_large"
+msgstr "Вялікі"
+
+msgid "share_fi_options_size_medium"
+msgstr "Сярэдні"
+
+msgid "share_fi_options_size_original"
+msgstr "Захаваць арыгінал"
+
+msgid "share_fi_options_size_small"
+msgstr "Маленькі"
+
+msgid "share_fi_status_account_not_available"
+msgstr "Рахунак недаступны"
+
+msgid "share_fi_status_fileformat_error"
+msgstr "Памылка фарматавання файла"
+
+msgid "share_fi_status_in_queue"
+msgstr "У чарзе"
+
+msgid "share_fi_status_menu_sending"
+msgstr "Дасыланне %s"
+
+msgid "share_fi_status_sending"
+msgstr "Дасыланне"
+
+msgid "share_fi_status_unknown_error"
+msgstr "Памылка абмену"
+
+msgid "share_fi_status_upload_limit_error"
+msgstr "Памылка запампоўчага ліміту"
+
+msgid "share_fi_status_waiting_for_connection"
+msgstr "Чаканне падлучэння"
+
+msgid "share_fi_status_waiting_for_service"
+msgstr "Чаканне служб"
+
+msgid "share_fi_status_wrong_credentials"
+msgstr "Памылка ідэнтыфікацыі"
+
+msgid "share_fi_title_placeholder"
+msgstr "Назва"
+
+msgid "share_ia_accounts_setup_web_sign_in"
+msgstr "Працягніце наладу рахунку, увайшоўшы ў %s праз вэб-старонку.\nВярніцеся ў наладу ўліковага запісу пасля ўваходу ў сістэму."
+
+msgid "share_ia_accounts_setup_web_start"
+msgstr "Новы рахунак Flickr мусіць быць наладжаны праз вэб-старонку.\nВярнуцца ў Налада ўліковага запісу пасля рэгістрацыі існуючага або новага рахунку."
+
+msgid "share_ia_accounts_setup_web_validate"
+msgstr "Праверце рахунак для завяршэння налады рахунка"
+
+msgid "share_ia_cpa_edit_account_web"
+msgstr "Націсніце 'Рэдагаваць', каб адчыніць сеціўную старонку для рэдагавання ўліковага запісу %s.\nКалі ласка, вярніцеся сюды пасля змены рахунку для пацвярджэння зменаў."
+
+msgid "share_ia_cpa_validate_changes"
+msgstr "Пацвердзіце змены для завяршэння рэдагавання рахунку"
+
+msgid "share_ia_error_account"
+msgstr "Немагчыма працягнуць перадачу. Абраны рахунак больш не даступны."
+
+msgid "share_ia_error_connection"
+msgstr "Перадача прыпынена. Чаканне падлучэння да сецівы."
+
+msgid "share_ia_error_fileformat"
+msgstr "Памылка перадачы %d файлаў. Служба не можа выявіць фармат файла."
+
+msgid "share_ia_error_fileformat_single_file"
+msgstr "Перадача %s не адбылася. Служба не можа выявіць фармат файла."
+
+msgid "share_ia_error_identification"
+msgstr "Немагчыма працягнуць абмен. Імя карыстальніка ці пароль для %s няправільныя."
+
+msgid "share_ia_error_identification_for_ovi"
+msgstr "Немагчыма працягнуць абмен. Імя карыстальніка ці пароль для %s няправільныя.\n(Таксама праверце налады часу.)"
+
+msgid "share_ia_error_service"
+msgstr "Перадача прыпынена. Чакнне адказу сервера."
+
+msgid "share_ia_error_unknown"
+msgstr "Памылка перадачы. Немагчыма працягнуць"
+
+msgid "share_ia_error_upload_limit"
+msgstr "Перадача %d файлаў не ўдалася. Служба дасягнула ліміту запампоўкі."
+
+msgid "share_ia_error_upload_limit_single_file"
+msgstr "Перадача %s не ўдалася. Служба дасягнула ліміту запампоўкі."
+
+msgid "share_ib_account_editing_completed"
+msgstr "Рэдагаванне рахунку завершана"
+
+msgid "share_ib_account_setup_completed"
+msgstr "Налада рахунку завершана"
+
+msgid "share_ib_album_update_failed"
+msgstr "Памылка абнаўлення спіса альбома."
+
+msgid "share_ib_all_files_no_longer_available"
+msgstr "Файлы болей недаступныя. абмену."
+
+msgid "share_ib_enter_credentials_first"
+msgstr "Спачатку ўвядзіце імя карыстальніка і пароль"
+
+msgid "share_ib_file_no_longer_available"
+msgstr "%s болей недаступны"
+
+msgid "share_ib_files_no_longer_available"
+msgstr "%d файлы болей недаступныя"
+
+msgid "share_ib_no_account_to_validate"
+msgstr "Налада рахунку не завершана. Аперацыя скасаваная."
+
+msgid "share_ib_no_changes_to_validate"
+msgstr "Змены не завершаны. Аперацыя скасаваная."
+
+msgid "share_ib_no_connection"
+msgstr "Няма даступных сеціўных падлучэнняў. Аперацыя скасаваная."
+
+msgid "share_ib_no_files_selected"
+msgstr "Няма абраных файлаў. Абмен сасаваны."
+
+msgid "share_ib_not_enough_memory_processing"
+msgstr "Не хапае памяці для апрацоўкі файлаў перад абменам"
+
+msgid "share_ib_not_enough_memory_scaling"
+msgstr "Не хапае памяці для змены памераў малюнкаў"
+
+msgid "share_ib_only_file_no_longer_available"
+msgstr "Файл болей недаступны. Памылка абмену."
+
+msgid "share_ib_processing"
+msgstr "Апрацоўка файлаў перад абменам"
+
+msgid "share_ib_service_not_responding"
+msgstr "Служба не адказвае. Паспрабуйце яшчэ раз пазжэй."
+
+msgid "share_ib_validation_failed"
+msgstr "Памылка праверкі рахунку"
+
+msgid "share_ib_wrong_credentials"
+msgstr "Няправільныя імя карстальніка ці пароль"
+
+msgid "share_ib_wrong_credentials_for_ovi"
+msgstr "Няправільныя імя карстальніка ці пароль.\n(Таксама праверце налады часу.)"
+
+msgid "share_li_album_default"
+msgstr "Па змаўчанні"
+
+msgid "share_li_album_mymedia"
+msgstr "Усе медыяфайлы"
+
+msgid "share_nc_cancel_sharing"
+msgstr "Спыніць абмен %d  файлаў праз %s?"
+
+msgid "share_nc_cancel_sharing_single_file"
+msgstr "Спыніць абмен %s праз %s?"
+
+msgid "share_nc_delete_account"
+msgstr "Выдаліць рахунак для %s?"
+
+msgid "share_nc_delete_account_in_use"
+msgstr "Рахунак выкарыстоўваецца. Выдаліць рахунак для %s?"
+
+msgid "share_ni_account_deleted"
+msgstr "Рахунак, абраны для абмену, быў выдалены.\nАбярыце іншы рахунак."
+
+msgid "share_ni_already_sent_multiple"
+msgstr "Файлы ўжо дасланыя на службу: %d "
+
+msgid "share_ni_already_sent_single"
+msgstr "%s ужо дасланы на службу"
+
+msgid "share_ni_metadata_removal_some"
+msgstr "Немагчыма выдаліць метададзеныя з %d/%d файлаў.\nТолькі метададзеныя з іншых файлаў могуць быць выдаленыя."
+
+msgid "share_ni_non_local_files"
+msgstr "Немагчыма перадаць нелакальныя файлы. Аперацыя скасаваная."
+
+msgid "share_ni_only_account_deleted"
+msgstr "Рахунак, абраны для абмену, быў выдалены.\nНовы рахунак мусіць быць створаны."
+
+msgid "share_ni_outbox_full"
+msgstr "Не хапае памяці для новых перадач"
+
+msgid "share_ni_sso_account_setup_completed"
+msgstr "Налада рахунку для Ovi by Nokia завершана.\nАбмен, чат і сеціўныя службы актываваныя."
+
+msgid "share_ni_too_many_files"
+msgstr "Немагчыма перадаць болей, чым %d файлаў за адзін раз. Аперацыя скасаваная."
+
+msgid "share_ni_username_existing"
+msgstr "Рахунак з імем карыстальніка %s ужо існуе для %s.\nАперацыя скасаваная."
+
+msgid "share_ti_accounts_select_service"
+msgstr "Налада рахунку - Абярыце службу"
+
+msgid "share_ti_accounts_setup"
+msgstr "Налада рахунку - %s"
+
+msgid "share_ti_accounts_setup_web_sign_in"
+msgstr "Налада рахунку - Увайдзіце ў %s"
+
+msgid "share_ti_accounts_setup_web_validate"
+msgstr "Налада рахунку - Пацвярдзіце рахунак %s"
+
+msgid "share_ti_accounts_validating"
+msgstr "Пацверджанне рахунку для %s"
+
+msgid "share_ti_cpa_edit_account"
+msgstr "Рэдагаваць рахунак для %s"
+
+msgid "share_ti_cpa_validate_changes"
+msgstr "Пацвярдзіце змены для рахунку %s"
+
+msgid "share_ti_cpa_validating_changes"
+msgstr "Пацверджанне зменаў для рахунку %s"
+
+msgid "share_ti_options"
+msgstr "Опцыі абмену"
+
+msgid "share_ti_select_account"
+msgstr "Выбраць рахунак"
+
+msgid "share_ti_select_album"
+msgstr "Выбраць альбом"
+
+msgid "share_ti_share_dialogs_multiple"
+msgstr "Перадаць %d файлы"
+
+msgid "share_ti_share_dialogs_single"
+msgstr "Перадаць %s"
+
+msgid "share_ti_share_status_dialog"
+msgstr "Стан перадачы"
+
+msgid "share_ti_single_content_details"
+msgstr "Рэдагаваць дэталі: %s"
+
+msgid "share_ti_status_menu_plug_in"
+msgstr "Абмен"
+
+msgid "share_ti_transfer_error_dialogs"
+msgstr "Абмен %d файлаў праз %s"
+
+msgid "share_ti_transfer_error_dialogs_single_file"
+msgstr "Абмен %s праз %s"
