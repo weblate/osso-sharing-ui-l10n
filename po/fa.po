@@ -1,0 +1,376 @@
+# 
+# Translators:
+# jeco <maemosoft@yahoo.com>, 2011.
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2011-11-06 14:59+0000\n"
+"Last-Translator: jeco <maemosoft@yahoo.com>\n"
+"Language-Team: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fa\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "share_bd_account"
+msgstr "حساب کاربری"
+
+msgid "share_bd_accounts_register_new"
+msgstr "ثبت حساب کاربری جدید"
+
+msgid "share_bd_accounts_sign_in"
+msgstr "ثبت نام"
+
+msgid "share_bd_accounts_use_existing"
+msgstr "استفاده از حساب‌های کاربری موجود"
+
+msgid "share_bd_accounts_validate"
+msgstr "معتبر سازی"
+
+msgid "share_bd_album_update_list"
+msgstr "بروزآوری لیست آلبوم"
+
+msgid "share_bd_connect"
+msgstr "اتصال"
+
+msgid "share_bd_error_cancel_sharing"
+msgstr "متوقف کردن اشتراک گذاری"
+
+msgid "share_bd_error_identification_edit_account"
+msgstr "ویرایش حساب کاربری"
+
+msgid "share_bd_error_service_retry"
+msgstr "دوباره امتحان کنید"
+
+msgid "share_bd_new_account"
+msgstr "جدید"
+
+msgid "share_bd_options"
+msgstr "انتخاب‌ها"
+
+msgid "share_bd_options_album"
+msgstr "آلبوم"
+
+msgid "share_bd_options_metadata"
+msgstr "فراداده‌ها"
+
+msgid "share_bd_options_privacy"
+msgstr "حریم‌ها"
+
+msgid "share_bd_options_size"
+msgstr "سایز عکس"
+
+msgid "share_bd_send_bluetooth"
+msgstr "ارسال با بلوتوث"
+
+msgid "share_bd_send_email"
+msgstr "ارسال با ایمیل"
+
+msgid "share_bd_share_to_service"
+msgstr "اشتراک گذاری با سرویس"
+
+msgid "share_bd_tags"
+msgstr "برچسب‌ها"
+
+msgid "share_cpa_ti"
+msgstr "به اشتراک گذاری حساب کاریری"
+
+msgid "share_fi_accounts_add_new_service"
+msgstr "بررسی برای سرویس جدید"
+
+msgid "share_fi_album_last_update"
+msgstr "لیست بروزرسانی شد"
+
+msgid "share_fi_cpa_edit_account_password"
+msgstr "کلمه عبور"
+
+msgid "share_fi_cpa_edit_account_username"
+msgstr "نام کاربری"
+
+msgid "share_fi_cpa_no_accounts"
+msgstr "حساب کاربری موجود نیست"
+
+msgid "share_fi_description_placeholder"
+msgstr "شرح"
+
+msgid "share_fi_favourite"
+msgstr "علاقه‌مندی"
+
+msgid "share_fi_favourites"
+msgstr "علاقه‌مندی‌ها"
+
+msgid "share_fi_options_metadata_keep_all"
+msgstr "نگه داشتن همه"
+
+msgid "share_fi_options_metadata_remove_all"
+msgstr "حذف همه در این فایل"
+
+msgid "share_fi_options_metadata_remove_some"
+msgstr "حذف نام جی‌پی‌اس و نام خلق کننده"
+
+msgid "share_fi_options_privacy_family"
+msgstr "خانواده"
+
+msgid "share_fi_options_privacy_friends"
+msgstr "دوستان"
+
+msgid "share_fi_options_privacy_friends_and_family"
+msgstr "دوستان و خانواده"
+
+msgid "share_fi_options_privacy_private"
+msgstr "خصوصی"
+
+msgid "share_fi_options_privacy_public"
+msgstr "عمومی"
+
+msgid "share_fi_options_size_large"
+msgstr "بزرگ"
+
+msgid "share_fi_options_size_medium"
+msgstr "متوسط"
+
+msgid "share_fi_options_size_original"
+msgstr "حفظ سایز اصلی "
+
+msgid "share_fi_options_size_small"
+msgstr "کوچک"
+
+msgid "share_fi_status_account_not_available"
+msgstr "حساب کاربری در دسترس نیست"
+
+msgid "share_fi_status_fileformat_error"
+msgstr "خطا در خصوص فرمت فایل"
+
+msgid "share_fi_status_in_queue"
+msgstr "در صف انتظار"
+
+msgid "share_fi_status_menu_sending"
+msgstr "در حال ارسال به %s"
+
+msgid "share_fi_status_sending"
+msgstr "در حال ارسال"
+
+msgid "share_fi_status_unknown_error"
+msgstr "اشکال در ارسال"
+
+msgid "share_fi_status_upload_limit_error"
+msgstr "خطا : آپلود محدود"
+
+msgid "share_fi_status_waiting_for_connection"
+msgstr "انتظار برای اتصال"
+
+msgid "share_fi_status_waiting_for_service"
+msgstr "انتظار برای خدمات"
+
+msgid "share_fi_status_wrong_credentials"
+msgstr "خطا در شناسایی"
+
+msgid "share_fi_title_placeholder"
+msgstr "عنوان"
+
+msgid "share_ia_accounts_setup_web_sign_in"
+msgstr "شوید تا فرآیند ساخت حساب کاربری را تکمیل نمائید  %s از طریق وبسایت وارد.\nبعد از وارد شدن مجدد به فرآیند ساخت حساب کاربری بازگردید."
+
+msgid "share_ia_accounts_setup_web_start"
+msgstr "حساب کاربری جدید فلیکر باید از طریق صفحه ی وب راه‌اندازی شود.\nبعد از وارد کردن حساب کاربری موجود و یا ساخت حساب کاربری جدید به راه‌انداز حساب کاربری بازگردید."
+
+msgid "share_ia_accounts_setup_web_validate"
+msgstr "برای تکمیل راه‌اندازی حساب کاربری ، حساب کاربری را تائید نمائید"
+
+msgid "share_ia_cpa_edit_account_web"
+msgstr "گزینهء \" ویرایش \" را برای باز کردن صفحه‌ی وب و ویرایش %s اکانت فشار دهید\nبرای معتبر سازی تغییرات ، پس از ویرایش اکانت به همین‌جا بازگردید"
+
+msgid "share_ia_cpa_validate_changes"
+msgstr "برای تکمیل ویرایش حساب کاربری ، تغییرات انجام شده را تائید نمائید"
+
+msgid "share_ia_error_account"
+msgstr "قادر به ادامه‌ی انتقال نیست.حساب کاربری انتخاب شده در دسترس نیست"
+
+msgid "share_ia_error_connection"
+msgstr "در حال انتظار برای انتقال.منتظر برای اتصال به اینترنت."
+
+msgid "share_ia_error_fileformat"
+msgstr "انتقال فایل‌های %d ناموفق بود\nفرمت فایل توسط سرویس مورد قبول نیست"
+
+msgid "share_ia_error_fileformat_single_file"
+msgstr "انتقال %d ناموفق بود.\nفرمت فایل توسط سرویس مورد قبول نیست"
+
+msgid "share_ia_error_identification"
+msgstr "قادر به ادامه‌ی انتقال نیست.نام کاربری یا کلمه‌ی عبور اشتباه است."
+
+msgid "share_ia_error_identification_for_ovi"
+msgstr "امکان ادامه‌ی انتقال وجود ندارد.نام کاربری یا رمز عبور وارد شده برای %s اشتباه است.\n(همچنین تنظیمات زمان را نیز بررسی کنید.)"
+
+msgid "share_ia_error_service"
+msgstr "در حال انتظار برای انتقال.منتظر برای دریافت پاسخ از جانب مرکز سرویس."
+
+msgid "share_ia_error_unknown"
+msgstr "انتقال ناموفق بود. امکان ادامه دادن وجود ندارد"
+
+msgid "share_ia_error_upload_limit"
+msgstr "انتقال %d ناموفق بود\nبه سقف مجاز ، مقدار آپلود رسیدید"
+
+msgid "share_ia_error_upload_limit_single_file"
+msgstr "انتقال  از %d ناموفق بود\nبیش از حد مجاز سرویس آپلود است"
+
+msgid "share_ib_account_editing_completed"
+msgstr "ویرایش حساب کاریری کامل شد"
+
+msgid "share_ib_account_setup_completed"
+msgstr "راه‌اندازی حساب کاربری کامل شد"
+
+msgid "share_ib_album_update_failed"
+msgstr "بروزرسانی لیست آلبوم ناموفق بود"
+
+msgid "share_ib_all_files_no_longer_available"
+msgstr "فایل‌ها در دسترس نیستند. به اشتراک گذاری ناموفق بود."
+
+msgid "share_ib_enter_credentials_first"
+msgstr "ابتدا نام کاربری و کلمه‌ی عبور را وارد نمائید"
+
+msgid "share_ib_file_no_longer_available"
+msgstr "%s دیگر در دسترس نیست"
+
+msgid "share_ib_files_no_longer_available"
+msgstr "%d فایل‌ها در دسترس نیستند"
+
+msgid "share_ib_no_account_to_validate"
+msgstr "راه‌اندازی حساب به پایان نرسیده است. عملیات متوقف شد."
+
+msgid "share_ib_no_changes_to_validate"
+msgstr "تغییرات به اتمام نرسیده‌اند. عملیات متوقف شد."
+
+msgid "share_ib_no_connection"
+msgstr "شبکه‌ای برای اتصال موجود نیست.عملیات متوقف شد"
+
+msgid "share_ib_no_files_selected"
+msgstr "فایلی انتخاب نشده است.به اشتراک گذاری متوقف شد"
+
+msgid "share_ib_not_enough_memory_processing"
+msgstr "حافظه‌ی کافی برای پردازش فایل ، قبل از به اشتراک گذاری وجود ندارد"
+
+msgid "share_ib_not_enough_memory_scaling"
+msgstr "برای تغییر اندازه‌ی تصاویر، حافظه‌ی کافی موجود نیست"
+
+msgid "share_ib_only_file_no_longer_available"
+msgstr "فایل در دسترس نیست. اشتراک گذاری ناموفق بود."
+
+msgid "share_ib_processing"
+msgstr "در حال پردازش فایل‌ها پیش از اشتراک گذاری"
+
+msgid "share_ib_service_not_responding"
+msgstr "سرویس مورد نظر پاسخی نمی‌دهد. بعدا مجدد تلاش کنید."
+
+msgid "share_ib_validation_failed"
+msgstr "تائید حساب کاربری ناموفق بود"
+
+msgid "share_ib_wrong_credentials"
+msgstr "نام کاربری یا کلمه‌ی عبور اشتباه است"
+
+msgid "share_ib_wrong_credentials_for_ovi"
+msgstr "نام کاربری یا کلمه‌ی عبور اشتباه است.\nتنظیمات زمان را نیز بررسی کنید"
+
+msgid "share_li_album_default"
+msgstr "پیش‌فرض"
+
+msgid "share_li_album_mymedia"
+msgstr "تمام مدیاها"
+
+msgid "share_nc_cancel_sharing"
+msgstr "متوقف کردن اشتراک گذاری فایل‌های  %d از طریق %s?"
+
+msgid "share_nc_cancel_sharing_single_file"
+msgstr "متوقف کردن اشتراک گذاری  %d از طریق %s?"
+
+msgid "share_nc_delete_account"
+msgstr "حذف حساب کاربری %s?"
+
+msgid "share_nc_delete_account_in_use"
+msgstr "حساب کاربری در حال استفاده است.حذف حساب کاربری %s?"
+
+msgid "share_ni_account_deleted"
+msgstr "حساب کاربری انتخاب شده برای به اشتراک گذاری حذف شده است\nحساب کاربری دیگری انتخاب کنید"
+
+msgid "share_ni_already_sent_multiple"
+msgstr "فایل‌های ارسال شده به مرکز سرویس: %d"
+
+msgid "share_ni_already_sent_single"
+msgstr "%s هم اکنون به مرکز سرویس ارسال شدند"
+
+msgid "share_ni_metadata_removal_some"
+msgstr "قادر به پاک کردن فراداده‌ها از فایل‌های.%d نیست\nفراداده‌ی سایر فایل‌ها حذف خواهد شد."
+
+msgid "share_ni_non_local_files"
+msgstr "قادر به اشتراک گذاری فایل‌های غیر محلی نیست.عملیات لغو شد"
+
+msgid "share_ni_only_account_deleted"
+msgstr "حساب کاربری انتخاب شده برای به اشتراک‌گذاری حذف شده است\nباید حساب کاربری جدیدی ایجاد کنید."
+
+msgid "share_ni_outbox_full"
+msgstr "حافظه ی کافی برای موارد انتقالی جدید وجود ندارد"
+
+msgid "share_ni_sso_account_setup_completed"
+msgstr "راه اندازی حساب کاربری برای اُوی نوکیا کامل شد.\nبه اشتراک گذاری پیام‌های فوری و خدمات وب فعال شد"
+
+msgid "share_ni_too_many_files"
+msgstr "قادر به اشترک گذاری بیش از  %d فایل در یک بار نیست. عملیات لغو شد"
+
+msgid "share_ni_username_existing"
+msgstr "حساب کاربری با نام کاربری %s در حال حاضر موجود است %s.\nعملیات لغو شد"
+
+msgid "share_ti_accounts_select_service"
+msgstr "راه اندازی حساب کاربری - سرویس مورد نظر را انتخاب کنید"
+
+msgid "share_ti_accounts_setup"
+msgstr "راه اندازی حساب کاربری - %s"
+
+msgid "share_ti_accounts_setup_web_sign_in"
+msgstr "راه اندازی حساب کابری - ورود به حساب کاربری %s"
+
+msgid "share_ti_accounts_setup_web_validate"
+msgstr "راه‌اندازی حساب کاربری - %s حساب کاربری را تائید کنید"
+
+msgid "share_ti_accounts_validating"
+msgstr "تائید حساب کاربری برای %s"
+
+msgid "share_ti_cpa_edit_account"
+msgstr "ویرایش حساب کاربری برای %s"
+
+msgid "share_ti_cpa_validate_changes"
+msgstr "تغییرات انجام شده برای %s حساب کاربری را تائید کنید"
+
+msgid "share_ti_cpa_validating_changes"
+msgstr "در حال تائید تغییرات انجام شده برای %s حساب کاربری"
+
+msgid "share_ti_options"
+msgstr "گزینه‌های اشتراک گذاری"
+
+msgid "share_ti_select_account"
+msgstr "انتخاب حساب کاربری"
+
+msgid "share_ti_select_album"
+msgstr "انتخاب آلبوم"
+
+msgid "share_ti_share_dialogs_multiple"
+msgstr "به اشتراک گذاری فایل‌های %d"
+
+msgid "share_ti_share_dialogs_single"
+msgstr "به اشتراک گذاری %d"
+
+msgid "share_ti_share_status_dialog"
+msgstr "وضعیت اشتراک گذاری"
+
+msgid "share_ti_single_content_details"
+msgstr "ویرایش جزییات : %s"
+
+msgid "share_ti_status_menu_plug_in"
+msgstr "اشتراک گذاری"
+
+msgid "share_ti_transfer_error_dialogs"
+msgstr "اشتراک گذاری فایل‌های %d از طریق %s"
+
+msgid "share_ti_transfer_error_dialogs_single_file"
+msgstr "اشتراک گذاری %d از طریق %s"
