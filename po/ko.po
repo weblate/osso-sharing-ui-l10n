@@ -1,0 +1,375 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2010-11-30 11:48+0000\n"
+"Last-Translator: \n"
+"Language-Team: Korean (http://www.transifex.net/projects/p/n900-extra-translations/language/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0\n"
+
+msgid "share_bd_account"
+msgstr "계정"
+
+msgid "share_bd_accounts_register_new"
+msgstr "새로운 계정 등록"
+
+msgid "share_bd_accounts_sign_in"
+msgstr "로그인"
+
+msgid "share_bd_accounts_use_existing"
+msgstr "기존 계정 사용"
+
+msgid "share_bd_accounts_validate"
+msgstr "인증하기"
+
+msgid "share_bd_album_update_list"
+msgstr "앨범 목록 업데이트"
+
+msgid "share_bd_connect"
+msgstr "연결"
+
+msgid "share_bd_error_cancel_sharing"
+msgstr "공유 중지"
+
+msgid "share_bd_error_identification_edit_account"
+msgstr "계정 편집"
+
+msgid "share_bd_error_service_retry"
+msgstr "재시도"
+
+msgid "share_bd_new_account"
+msgstr "새로 만들기"
+
+msgid "share_bd_options"
+msgstr "옵션"
+
+msgid "share_bd_options_album"
+msgstr "앨범"
+
+msgid "share_bd_options_metadata"
+msgstr "메타데이터"
+
+msgid "share_bd_options_privacy"
+msgstr "프라이버시"
+
+msgid "share_bd_options_size"
+msgstr "이미지 크기"
+
+msgid "share_bd_send_bluetooth"
+msgstr "블루투스를 통해 전송"
+
+msgid "share_bd_send_email"
+msgstr "이메일을 통해 전송"
+
+msgid "share_bd_share_to_service"
+msgstr "서비스를 통해 공유"
+
+msgid "share_bd_tags"
+msgstr "태그"
+
+msgid "share_cpa_ti"
+msgstr "공유 계정"
+
+msgid "share_fi_accounts_add_new_service"
+msgstr "새로운 서비스 확인"
+
+msgid "share_fi_album_last_update"
+msgstr "목록 업데이트됨"
+
+msgid "share_fi_cpa_edit_account_password"
+msgstr "비밀번호"
+
+msgid "share_fi_cpa_edit_account_username"
+msgstr "사용자 이름"
+
+msgid "share_fi_cpa_no_accounts"
+msgstr "(계정 없음)"
+
+msgid "share_fi_description_placeholder"
+msgstr "설명"
+
+msgid "share_fi_favourite"
+msgstr "Favorite"
+
+msgid "share_fi_favourites"
+msgstr "Favorites"
+
+msgid "share_fi_options_metadata_keep_all"
+msgstr "모두 유지"
+
+msgid "share_fi_options_metadata_remove_all"
+msgstr "모두 삭제"
+
+msgid "share_fi_options_metadata_remove_some"
+msgstr "GPS 정보 및 생성자 이름 제거"
+
+msgid "share_fi_options_privacy_family"
+msgstr "가족"
+
+msgid "share_fi_options_privacy_friends"
+msgstr "친구들"
+
+msgid "share_fi_options_privacy_friends_and_family"
+msgstr "친구들과 가족"
+
+msgid "share_fi_options_privacy_private"
+msgstr "개인"
+
+msgid "share_fi_options_privacy_public"
+msgstr "공개"
+
+msgid "share_fi_options_size_large"
+msgstr "큼"
+
+msgid "share_fi_options_size_medium"
+msgstr "중간"
+
+msgid "share_fi_options_size_original"
+msgstr "원본 유지"
+
+msgid "share_fi_options_size_small"
+msgstr "작음"
+
+msgid "share_fi_status_account_not_available"
+msgstr "계정이 사용 불가능함"
+
+msgid "share_fi_status_fileformat_error"
+msgstr "파일 형식 오류"
+
+msgid "share_fi_status_in_queue"
+msgstr "대기 중"
+
+msgid "share_fi_status_menu_sending"
+msgstr "%s 에게 보내는 중"
+
+msgid "share_fi_status_sending"
+msgstr "보내는 중"
+
+msgid "share_fi_status_unknown_error"
+msgstr "전송 오류"
+
+msgid "share_fi_status_upload_limit_error"
+msgstr "업로드 제한 오류"
+
+msgid "share_fi_status_waiting_for_connection"
+msgstr "연결 기다리는 중"
+
+msgid "share_fi_status_waiting_for_service"
+msgstr "서비스 기다리는 중"
+
+msgid "share_fi_status_wrong_credentials"
+msgstr "식별 오류"
+
+msgid "share_fi_title_placeholder"
+msgstr "제목"
+
+msgid "share_ia_accounts_setup_web_sign_in"
+msgstr "계정 설정을 %s 웹 페이지를 통하여 로그인 한 다음에 계속 합니다.\n로그인 한 다음에 계정 설정으로 돌아와 주시기 바랍니다."
+
+msgid "share_ia_accounts_setup_web_start"
+msgstr "새로운 Flickr 계정 설정은 웹 페이지를 통하여 진행합니다.\n기존 계정 혹은 새로운 계정을 등록후 계정 설정으로 돌아와 주시기 바랍니다."
+
+msgid "share_ia_accounts_setup_web_validate"
+msgstr "계정 설정을 완료하기 위해서 계정 유효확인을 해주시기 바랍니다"
+
+msgid "share_ia_cpa_edit_account_web"
+msgstr "'편집'을 탭하여 웹 페이지를 통하여 %s 계정을 편집 합니다.\n편집을 한 다음에 변경사항이 유효한지 확인을 위해서 여기로 돌아와 주시기 바랍니다"
+
+msgid "share_ia_cpa_validate_changes"
+msgstr "계정 편집을 완료하기 위해서 변경점 유효확인을 해주시기 바랍니다"
+
+msgid "share_ia_error_account"
+msgstr "전송을 계속할 수 없습니다. 선택한 계정을 더 이상 사용할 수 없습니다."
+
+msgid "share_ia_error_connection"
+msgstr "전송이 중지됐습니다. 인터넷 연결을 기다리고 있습니다."
+
+msgid "share_ia_error_fileformat"
+msgstr "%d개의 파일을 전송하는데 실패하였습니다. 서비스가 지원하지 않는 파일 형식입니다."
+
+msgid "share_ia_error_fileformat_single_file"
+msgstr "%d 을 전송하는데 실패하였습니다. 서비스가 지원하지 않는 파일 형식입니다."
+
+msgid "share_ia_error_identification"
+msgstr "전송을 계속할 수 없습니다. 사용자 이름 혹은 비밀번호 %s 이 올바르지 않습니다."
+
+msgid "share_ia_error_identification_for_ovi"
+msgstr "Unable to continue transfer. User name or password for %s incorrect.\n(Also check time settings.)"
+
+msgid "share_ia_error_service"
+msgstr "전송이 중지됐습니다. 서비스 응답을 기다리는 중입니다."
+
+msgid "share_ia_error_unknown"
+msgstr "전송이 실패했습니다. 계속할 수 없습니다."
+
+msgid "share_ia_error_upload_limit"
+msgstr "%d개의 파일을 전송하는데 실패했습니다. 서비스의 업로드 제한을 초과했습니다."
+
+msgid "share_ia_error_upload_limit_single_file"
+msgstr "%s 을 전송하는데 실패하였습니다. 서비스의 업로드 제한을 초과했습니다."
+
+msgid "share_ib_account_editing_completed"
+msgstr "계정 편집이 완료되었습니다"
+
+msgid "share_ib_account_setup_completed"
+msgstr "계정 설정이 완료되었습니다"
+
+msgid "share_ib_album_update_failed"
+msgstr "앨범 목록 업데이트가 실패했습니다"
+
+msgid "share_ib_all_files_no_longer_available"
+msgstr "파일들을 더 이상 사용할 수 없습니다. 공유가 실패했습니다."
+
+msgid "share_ib_enter_credentials_first"
+msgstr "사용자 이름 및 비밀번호를 먼저 입력해주세요"
+
+msgid "share_ib_file_no_longer_available"
+msgstr "%s 을 더 이상 사용할 수 없습니다"
+
+msgid "share_ib_files_no_longer_available"
+msgstr "%d 개의 파일들을 더 이상 사용할 수 없습니다"
+
+msgid "share_ib_no_account_to_validate"
+msgstr "계정 설정이 끝나지 않았습니다. 작업이 중단되었습니다."
+
+msgid "share_ib_no_changes_to_validate"
+msgstr "변경이 끝나지 않았습니다. 작업이 중단되었습니다."
+
+msgid "share_ib_no_connection"
+msgstr "네트워크 연결가 연결되지 않았습니다. 작업이 중단되었습니다."
+
+msgid "share_ib_no_files_selected"
+msgstr "파일들이 선택되지 않았습니다. 공유가 중단되었습니다."
+
+msgid "share_ib_not_enough_memory_processing"
+msgstr "공유를 진행하기 위해 필요한 파일 작업을 위한 메모리가 부족합니다."
+
+msgid "share_ib_not_enough_memory_scaling"
+msgstr "이미지 사이즈를 조정하기 위한 메모리가 부족합니다"
+
+msgid "share_ib_only_file_no_longer_available"
+msgstr "파일들을 더 이상 사용할 수 없습니다. 공유가 실패했습니다."
+
+msgid "share_ib_processing"
+msgstr "공유를 진행하기 위해 필요한 파일 작업을 진행 중입니다"
+
+msgid "share_ib_service_not_responding"
+msgstr "서비스가 응답하지 않습니다. 나중에 다시 시도해주세요."
+
+msgid "share_ib_validation_failed"
+msgstr "계정 확인이 실패했습니다"
+
+msgid "share_ib_wrong_credentials"
+msgstr "사용자 이름 혹은 비밀번호가 올바르지 않습니다"
+
+msgid "share_ib_wrong_credentials_for_ovi"
+msgstr "User name or password incorrect.\n(Also check time settings.)"
+
+msgid "share_li_album_default"
+msgstr "Default"
+
+msgid "share_li_album_mymedia"
+msgstr "모든 미디어"
+
+msgid "share_nc_cancel_sharing"
+msgstr "%s를 통한 %d개의 파일들의 공유를 중단 하시겠습니까?"
+
+msgid "share_nc_cancel_sharing_single_file"
+msgstr "%s 파일에 대하여 %s를 통한 공유를 중단 하시겠습니까?"
+
+msgid "share_nc_delete_account"
+msgstr "%s 계정을 삭제 하시겠습니까?"
+
+msgid "share_nc_delete_account_in_use"
+msgstr "계정이 사용 중입니다. %s 을 삭제하시겠습니까?"
+
+msgid "share_ni_account_deleted"
+msgstr "공유를 위해 선택한 계정이 삭제되었습니다.\n다른 계정을 선택해주세요."
+
+msgid "share_ni_already_sent_multiple"
+msgstr "파일이 이미 서비스에 전송 되었습니다: %d"
+
+msgid "share_ni_already_sent_single"
+msgstr "%s 이 이미 서비스에 전송 되었습니다"
+
+msgid "share_ni_metadata_removal_some"
+msgstr "%d/%d 파일들로부터 메타데이터를 삭제할 수 없습니다.\n이외의 파일들만 메타데이터가 삭제 되었습니다."
+
+msgid "share_ni_non_local_files"
+msgstr "원격 파일들을 공유할 수 없습니다. 작업이 중단되었습니다."
+
+msgid "share_ni_only_account_deleted"
+msgstr "공유를 위해 선택한 계정이 삭제되었습니다.\n새로운 계정을 만들어야 합니다."
+
+msgid "share_ni_outbox_full"
+msgstr "새로운 전송을 위한 메모리가 부족합니다."
+
+msgid "share_ni_sso_account_setup_completed"
+msgstr "노키아가 제공하는 Ovi 계정 설정이 완료되었습니다.\n공유, 채팅 그리고 웹 서비스가 활성화 되었습니다"
+
+msgid "share_ni_too_many_files"
+msgstr "한 번에 %d 개 보다 많은 파일을 공유 할 수 없습니다. 작업이 중단되었습니다"
+
+msgid "share_ni_username_existing"
+msgstr "계정의 사용자 이름 %s 이미 %s 에 존재합니다.\n작업이 중단되었습니다."
+
+msgid "share_ti_accounts_select_service"
+msgstr "계정 설정 - 서비스 선택"
+
+msgid "share_ti_accounts_setup"
+msgstr "계정 설정 - %s"
+
+msgid "share_ti_accounts_setup_web_sign_in"
+msgstr "계정 설정 - %s 에 로그인"
+
+msgid "share_ti_accounts_setup_web_validate"
+msgstr "계정 설정- %s 계정 유효확인"
+
+msgid "share_ti_accounts_validating"
+msgstr "%s 계정이 유효한지 확인 중입니다"
+
+msgid "share_ti_cpa_edit_account"
+msgstr "%s 계정 편집"
+
+msgid "share_ti_cpa_validate_changes"
+msgstr "%s 계정 변경사항 유효확인"
+
+msgid "share_ti_cpa_validating_changes"
+msgstr "%s 계정 변경사항 유효확인 중입니다"
+
+msgid "share_ti_options"
+msgstr "공유 옵션"
+
+msgid "share_ti_select_account"
+msgstr "계정 선택"
+
+msgid "share_ti_select_album"
+msgstr "앨범 선택"
+
+msgid "share_ti_share_dialogs_multiple"
+msgstr "%d 개의 파일 공유"
+
+msgid "share_ti_share_dialogs_single"
+msgstr "%s 공유"
+
+msgid "share_ti_share_status_dialog"
+msgstr "상태 공유"
+
+msgid "share_ti_single_content_details"
+msgstr "정보 편집: %s"
+
+msgid "share_ti_status_menu_plug_in"
+msgstr "공유"
+
+msgid "share_ti_transfer_error_dialogs"
+msgstr "%s 을 통하여 %d 개의 파일을 공유"
+
+msgid "share_ti_transfer_error_dialogs_single_file"
+msgstr "%s 을 %s 을 통하여 공유"
