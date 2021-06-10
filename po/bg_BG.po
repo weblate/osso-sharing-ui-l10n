@@ -1,0 +1,375 @@
+# 
+# Translators:
+msgid ""
+msgstr ""
+"Project-Id-Version: n900 extra translations\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"POT-Creation-Date: 2009.07.06 09:42+0300\n"
+"PO-Revision-Date: 2010-11-30 11:48+0000\n"
+"Last-Translator: \n"
+"Language-Team: Bulgarian (http://www.transifex.net/projects/p/n900-extra-translations/language/bg/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: bg\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "share_bd_account"
+msgstr "Регистрация"
+
+msgid "share_bd_accounts_register_new"
+msgstr "Нова регистрация"
+
+msgid "share_bd_accounts_sign_in"
+msgstr "Влизане"
+
+msgid "share_bd_accounts_use_existing"
+msgstr "Използване на съществуваща регистрация"
+
+msgid "share_bd_accounts_validate"
+msgstr "Потвърждав."
+
+msgid "share_bd_album_update_list"
+msgstr "Обновяване на списъка с албуми"
+
+msgid "share_bd_connect"
+msgstr "Връзка"
+
+msgid "share_bd_error_cancel_sharing"
+msgstr "Без споделяне"
+
+msgid "share_bd_error_identification_edit_account"
+msgstr "Редактиране на регистрация"
+
+msgid "share_bd_error_service_retry"
+msgstr "Повторно"
+
+msgid "share_bd_new_account"
+msgstr "Нова"
+
+msgid "share_bd_options"
+msgstr "Настройки"
+
+msgid "share_bd_options_album"
+msgstr "Албум"
+
+msgid "share_bd_options_metadata"
+msgstr "Метаданни"
+
+msgid "share_bd_options_privacy"
+msgstr "Поверителност"
+
+msgid "share_bd_options_size"
+msgstr "Размер на изображение"
+
+msgid "share_bd_send_bluetooth"
+msgstr "Изпращане през Bluetooth"
+
+msgid "share_bd_send_email"
+msgstr "Изпращане през е-поща"
+
+msgid "share_bd_share_to_service"
+msgstr "Споделяне през услуга"
+
+msgid "share_bd_tags"
+msgstr "Етикети"
+
+msgid "share_cpa_ti"
+msgstr "Регистрации за споделяне"
+
+msgid "share_fi_accounts_add_new_service"
+msgstr "Проверка за нова услуга"
+
+msgid "share_fi_album_last_update"
+msgstr "Списъкът бе обновен"
+
+msgid "share_fi_cpa_edit_account_password"
+msgstr "Парола"
+
+msgid "share_fi_cpa_edit_account_username"
+msgstr "Потребителско име"
+
+msgid "share_fi_cpa_no_accounts"
+msgstr "(няма регистрации)"
+
+msgid "share_fi_description_placeholder"
+msgstr "Описание"
+
+msgid "share_fi_favourite"
+msgstr "Любим"
+
+msgid "share_fi_favourites"
+msgstr "Любими"
+
+msgid "share_fi_options_metadata_keep_all"
+msgstr "Запазване на всичко"
+
+msgid "share_fi_options_metadata_remove_all"
+msgstr "Премахване на всичко от файла"
+
+msgid "share_fi_options_metadata_remove_some"
+msgstr "Премахване на GPS координатите и името на автора"
+
+msgid "share_fi_options_privacy_family"
+msgstr "Семейство"
+
+msgid "share_fi_options_privacy_friends"
+msgstr "Приятели"
+
+msgid "share_fi_options_privacy_friends_and_family"
+msgstr "Приятели и семейство"
+
+msgid "share_fi_options_privacy_private"
+msgstr "Поверително"
+
+msgid "share_fi_options_privacy_public"
+msgstr "Публично"
+
+msgid "share_fi_options_size_large"
+msgstr "Голям"
+
+msgid "share_fi_options_size_medium"
+msgstr "Среден"
+
+msgid "share_fi_options_size_original"
+msgstr "Запазване на оригинала"
+
+msgid "share_fi_options_size_small"
+msgstr "Малък"
+
+msgid "share_fi_status_account_not_available"
+msgstr "Регистрацията не е налична"
+
+msgid "share_fi_status_fileformat_error"
+msgstr "Грешка с файловия формат"
+
+msgid "share_fi_status_in_queue"
+msgstr "В опашката"
+
+msgid "share_fi_status_menu_sending"
+msgstr "Изпращане на %s"
+
+msgid "share_fi_status_sending"
+msgstr "Изпращане"
+
+msgid "share_fi_status_unknown_error"
+msgstr "Грешка при прехвърлянето"
+
+msgid "share_fi_status_upload_limit_error"
+msgstr "Грешка с ограничението при качване"
+
+msgid "share_fi_status_waiting_for_connection"
+msgstr "В очакване на връзка"
+
+msgid "share_fi_status_waiting_for_service"
+msgstr "В очакване за услуга"
+
+msgid "share_fi_status_wrong_credentials"
+msgstr "Грешка при идентификацията"
+
+msgid "share_fi_title_placeholder"
+msgstr "Заглавие"
+
+msgid "share_ia_accounts_setup_web_sign_in"
+msgstr "Трябва да продължете с настройката на регистрацията като\nвлезете в %s през уеб страницата. След това се върнете тук."
+
+msgid "share_ia_accounts_setup_web_start"
+msgstr "Нова регистрация във Flickr трябва да бъде направена\nчрез тяхната уеб страница. \nРегистрирайте се там и след това се върнете тук."
+
+msgid "share_ia_accounts_setup_web_validate"
+msgstr "Валидирайте регистрацията си за да завършите настройката"
+
+msgid "share_ia_cpa_edit_account_web"
+msgstr "Натиснете „Редактиране“ за да отворите интернет\nстраницатa и редактирате регистрацията\n%s.\nСлед това се върнете тук за да потвърдите\nпромените."
+
+msgid "share_ia_cpa_validate_changes"
+msgstr "Валидирайте промените за да завършите редактирането"
+
+msgid "share_ia_error_account"
+msgstr "Прехвърлянето не може да продължи. Избраната регистрация вече не съществува."
+
+msgid "share_ia_error_connection"
+msgstr "Прехвърлянето е в застой. Изчаква се за връзка с Интернет."
+
+msgid "share_ia_error_fileformat"
+msgstr "Прехвърлянето на %d файла бе неуспешно. Услугата не може да приеме файловия формат."
+
+msgid "share_ia_error_fileformat_single_file"
+msgstr "Прехвърлянето на %s бе неуспешно. Услугата не може да приеме файловия формат."
+
+msgid "share_ia_error_identification"
+msgstr "Прехвърлянето не може да продължи. Потребителското име или паролата за %s са невалидни."
+
+msgid "share_ia_error_identification_for_ovi"
+msgstr "Неуспешно продължаване с трансфера. Потребителското име или парола за %s за невалидни.\n(Проверете и настройките на часа)"
+
+msgid "share_ia_error_service"
+msgstr "Прехвърлянето е в застой. Изчаква се за отговор от услугата."
+
+msgid "share_ia_error_unknown"
+msgstr "Прехвърлянето бе неуспешно. Не може да се продължи."
+
+msgid "share_ia_error_upload_limit"
+msgstr "Прехвърлянето на %d файла бе неуспешно. Превишено е ограничението за качване към услугата."
+
+msgid "share_ia_error_upload_limit_single_file"
+msgstr "Прехвърлянето на %s бе неуспешно. Превишено е ограничението за качване към услугата."
+
+msgid "share_ib_account_editing_completed"
+msgstr "Редактирането на регистрацията завърши"
+
+msgid "share_ib_account_setup_completed"
+msgstr "Настройването на регистрацията завърши"
+
+msgid "share_ib_album_update_failed"
+msgstr "Обновяването на списъка с албуми бе неуспешно"
+
+msgid "share_ib_all_files_no_longer_available"
+msgstr "Файловете вече не са налични. Споделянето бе неуспешно."
+
+msgid "share_ib_enter_credentials_first"
+msgstr "Първо въведете потребителско име и парола"
+
+msgid "share_ib_file_no_longer_available"
+msgstr "%s вече не е наличен"
+
+msgid "share_ib_files_no_longer_available"
+msgstr "%d файла вече не са налични"
+
+msgid "share_ib_no_account_to_validate"
+msgstr "Настройването на регистрацията не е завършена. Операцията бе прекъсната."
+
+msgid "share_ib_no_changes_to_validate"
+msgstr "Промените не са завършени. Операцията бе прекъсната."
+
+msgid "share_ib_no_connection"
+msgstr "Няма налична мрежова свързаност. Операцията бе прекъсната."
+
+msgid "share_ib_no_files_selected"
+msgstr "Няма избрани файлове. Споделянето бе прекъснато."
+
+msgid "share_ib_not_enough_memory_processing"
+msgstr "Няма достатъчно памет за да се обработят файловете преди споделянето."
+
+msgid "share_ib_not_enough_memory_scaling"
+msgstr "Няма достатъчно памет за да се преоразмерят изображенията."
+
+msgid "share_ib_only_file_no_longer_available"
+msgstr "Файлът вече не е наличен. Споделянето бе неуспешно."
+
+msgid "share_ib_processing"
+msgstr "Обработка на файловете преди споделяне"
+
+msgid "share_ib_service_not_responding"
+msgstr "Услугата не отговаря. Опитайте отново по-късно."
+
+msgid "share_ib_validation_failed"
+msgstr "Потвърждаването на регистрацията бе неуспешно"
+
+msgid "share_ib_wrong_credentials"
+msgstr "Потребителското име или паролата са невалидни"
+
+msgid "share_ib_wrong_credentials_for_ovi"
+msgstr "Потребителското име или парола за невалидни.\n(Проверете и настройките на часа)"
+
+msgid "share_li_album_default"
+msgstr "По подразбиране"
+
+msgid "share_li_album_mymedia"
+msgstr "Всички носители"
+
+msgid "share_nc_cancel_sharing"
+msgstr "Желаете ли да спрете споделянето на %d файла чрез %s?"
+
+msgid "share_nc_cancel_sharing_single_file"
+msgstr "Желаете ли да спрете споделянето на %s чрез %s?"
+
+msgid "share_nc_delete_account"
+msgstr "Желаете ли да изтриете регистрацията за %s?"
+
+msgid "share_nc_delete_account_in_use"
+msgstr "Регистрацията се използва. Желаете ли да изтриете настройките за %s?"
+
+msgid "share_ni_account_deleted"
+msgstr "Избраната регистрация за споделяне бе изтрита.\nИзберете друга."
+
+msgid "share_ni_already_sent_multiple"
+msgstr "%d файла вече са изпратени към услугата"
+
+msgid "share_ni_already_sent_single"
+msgstr "%s вече е изпратен към услугата"
+
+msgid "share_ni_metadata_removal_some"
+msgstr "Метаданните от %d/%d файла не могат да бъдат премахнати.\nТова ще бъде извършено за останалите файлове."
+
+msgid "share_ni_non_local_files"
+msgstr "Отдалечени файлове не могат да се споделят. Операцията бе прекъсната."
+
+msgid "share_ni_only_account_deleted"
+msgstr "Избраната регистрация за споделяне бе изтрита.\nТрябва да бъде създадена нова."
+
+msgid "share_ni_outbox_full"
+msgstr "Няма достатъчно памет за нови прехвърляния"
+
+msgid "share_ni_sso_account_setup_completed"
+msgstr "Регистрацията за Ovi на Nokia завърши.\nСподелянето, моментните съобщения и уеб услугите са активирани."
+
+msgid "share_ni_too_many_files"
+msgstr "Не може да се споделят повече от %d файла наведнъж. Операцията бе прекъсната."
+
+msgid "share_ni_username_existing"
+msgstr "Регистрация с потребителско име %s вече съществува за %s.\nОперацията бе прекъсната."
+
+msgid "share_ti_accounts_select_service"
+msgstr "Настройка на регистрация – Избор на услуга"
+
+msgid "share_ti_accounts_setup"
+msgstr "Настройка на регистрация – %s"
+
+msgid "share_ti_accounts_setup_web_sign_in"
+msgstr "Настройка на регистрация – Влизане в %s"
+
+msgid "share_ti_accounts_setup_web_validate"
+msgstr "Настройка на регистрация – Валидация за %s"
+
+msgid "share_ti_accounts_validating"
+msgstr "Потвърждаване на регистрация за %s"
+
+msgid "share_ti_cpa_edit_account"
+msgstr "Редактиране на регистрация за %s"
+
+msgid "share_ti_cpa_validate_changes"
+msgstr "Потвърждаване на промените по регистрацията за %s"
+
+msgid "share_ti_cpa_validating_changes"
+msgstr "Потвърждаване на промените по регистрацията за %s"
+
+msgid "share_ti_options"
+msgstr "Настройки на споделянето"
+
+msgid "share_ti_select_account"
+msgstr "Избор на регистрация"
+
+msgid "share_ti_select_album"
+msgstr "Избор на албум"
+
+msgid "share_ti_share_dialogs_multiple"
+msgstr "Споделяне на %d файла"
+
+msgid "share_ti_share_dialogs_single"
+msgstr "Споделяне на %s"
+
+msgid "share_ti_share_status_dialog"
+msgstr "Статус на споделянето"
+
+msgid "share_ti_single_content_details"
+msgstr "Редактиране на подробностите: %s"
+
+msgid "share_ti_status_menu_plug_in"
+msgstr "Споделяне"
+
+msgid "share_ti_transfer_error_dialogs"
+msgstr "Споделяне на %d файла чрез %s"
+
+msgid "share_ti_transfer_error_dialogs_single_file"
+msgstr "Споделяне на %s чрез %s"
