@@ -3,28 +3,31 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: n900 extra translations\n"
-"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/issues/list\n"
+"Report-Msgid-Bugs-To: http://code.google.com/p/n900-extra-translations/"
+"issues/list\n"
 "POT-Creation-Date: 2009.07.06 09:42+0300\n"
-"PO-Revision-Date: 2010-11-30 11:48+0000\n"
-"Last-Translator: \n"
-"Language-Team: en_US\n"
+"PO-Revision-Date: 2022-08-15 07:16+0000\n"
+"Last-Translator: yangyangdaji <1504305527@qq.com>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
+"maemo-leste/osso-sharing-ui-l10n/zh_Hans/>\n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh_CN\n"
-"Plural-Forms: nplurals=1; plural=0\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.14-dev\n"
 
 msgid "share_bd_account"
-msgstr "帐户"
+msgstr "账户"
 
 msgid "share_bd_accounts_register_new"
 msgstr "注册新账户"
 
 msgid "share_bd_accounts_sign_in"
-msgstr "登陆"
+msgstr "登录"
 
 msgid "share_bd_accounts_use_existing"
-msgstr "使用现有的帐户"
+msgstr "使用现有的账户"
 
 msgid "share_bd_accounts_validate"
 msgstr "验证"
@@ -39,7 +42,7 @@ msgid "share_bd_error_cancel_sharing"
 msgstr "停止共享"
 
 msgid "share_bd_error_identification_edit_account"
-msgstr "编辑帐户"
+msgstr "编辑账户"
 
 msgid "share_bd_error_service_retry"
 msgstr "重试"
@@ -75,7 +78,7 @@ msgid "share_bd_tags"
 msgstr "标签"
 
 msgid "share_cpa_ti"
-msgstr "共享帐户"
+msgstr "共享账户"
 
 msgid "share_fi_accounts_add_new_service"
 msgstr "检查新服务"
@@ -90,7 +93,7 @@ msgid "share_fi_cpa_edit_account_username"
 msgstr "用户名"
 
 msgid "share_fi_cpa_no_accounts"
-msgstr "(没有帐户)"
+msgstr "(没有账户)"
 
 msgid "share_fi_description_placeholder"
 msgstr "描述"
@@ -138,7 +141,7 @@ msgid "share_fi_options_size_small"
 msgstr "小"
 
 msgid "share_fi_status_account_not_available"
-msgstr "帐户无法使用"
+msgstr "账户无法使用"
 
 msgid "share_fi_status_fileformat_error"
 msgstr "文件格式错误"
@@ -171,25 +174,29 @@ msgid "share_fi_title_placeholder"
 msgstr "标题"
 
 msgid "share_ia_accounts_setup_web_sign_in"
-msgstr "继续在帐户设置登陆后返回帐号设置."
+msgstr ""
+"请通过 %s 网页登录。\n"
+"登录后再返回到账户设置。"
 
 msgid "share_ia_accounts_setup_web_start"
-msgstr "必须通过网页设立新的Flickr帐户.\n注册或登陆新的帐户后返回帐号设置."
+msgstr ""
+"必须通过网页设立新的Flickr账户.\n"
+"注册或登录新的账户后返回帐号设置."
 
 msgid "share_ia_accounts_setup_web_validate"
-msgstr "验证帐户,完成帐户设置"
+msgstr "验证账户,完成账户设置"
 
 msgid "share_ia_cpa_edit_account_web"
-msgstr "点击'编辑'修改完成后回到这里来验证帐户变更."
+msgstr "点击'编辑'修改完成后回到这里来验证账户变更."
 
 msgid "share_ia_cpa_validate_changes"
-msgstr "验证更改完成帐户编辑"
+msgstr "验证更改完成账户编辑"
 
 msgid "share_ia_error_account"
-msgstr "无法继续转移.选择的帐户不再可用."
+msgstr "无法继续转移.选择的账户不再可用."
 
 msgid "share_ia_error_connection"
-msgstr "转移正在等待中.请等待网络连接"
+msgstr "转移正在等待中.请等待网络连接。"
 
 msgid "share_ia_error_fileformat"
 msgstr "转让 %d 文件失败.文件格式无法被服务接受."
@@ -198,7 +205,7 @@ msgid "share_ia_error_fileformat_single_file"
 msgstr "转移 %s 失败. 该文件格式服务器无法接受."
 
 msgid "share_ia_error_identification"
-msgstr "无法继续转移.户名或密码 %s 不正确"
+msgstr "无法继续转移. 用户名或密码 %s 不正确。"
 
 msgid "share_ia_error_identification_for_ovi"
 msgstr "无法继续传送. %s 的用户名称或密码不正确.\n (请一并检查时间设定)"
@@ -213,13 +220,13 @@ msgid "share_ia_error_upload_limit"
 msgstr "转移 %d 文件失败. 服务上载限制超出."
 
 msgid "share_ia_error_upload_limit_single_file"
-msgstr "转移 %s 失败.超出服务上载限制"
+msgstr "转移 %s 失败。超出服务上载限制。"
 
 msgid "share_ib_account_editing_completed"
-msgstr "帐户编辑完成"
+msgstr "账户编辑完成"
 
 msgid "share_ib_account_setup_completed"
-msgstr "帐户设置完成"
+msgstr "账户设置完成"
 
 msgid "share_ib_album_update_failed"
 msgstr "相册目录更新失败"
@@ -237,7 +244,7 @@ msgid "share_ib_files_no_longer_available"
 msgstr "%d 文件不再可用"
 
 msgid "share_ib_no_account_to_validate"
-msgstr "未完成帐户设置.操作取消."
+msgstr "未完成账户设置.操作取消."
 
 msgid "share_ib_no_changes_to_validate"
 msgstr "改变未完成.操作取消."
@@ -264,7 +271,7 @@ msgid "share_ib_service_not_responding"
 msgstr "服务没有响应.请稍后再试."
 
 msgid "share_ib_validation_failed"
-msgstr "帐户验证失败"
+msgstr "账户验证失败"
 
 msgid "share_ib_wrong_credentials"
 msgstr "用户名或密码不正确"
@@ -285,13 +292,15 @@ msgid "share_nc_cancel_sharing_single_file"
 msgstr "停止共享 %s 通过 %s?"
 
 msgid "share_nc_delete_account"
-msgstr "删除帐户 %s?"
+msgstr "删除账户 %s?"
 
 msgid "share_nc_delete_account_in_use"
-msgstr "帐户使用.除帐户 %s?"
+msgstr "账户使用.除账户 %s?"
 
 msgid "share_ni_account_deleted"
-msgstr "选择共享帐户已被删除.\n选择其他帐户."
+msgstr ""
+"选择共享账户已被删除.\n"
+"选择其他账户."
 
 msgid "share_ni_already_sent_multiple"
 msgstr "文件已发送到服务: %d"
@@ -300,55 +309,63 @@ msgid "share_ni_already_sent_single"
 msgstr "%s 已经发送到服务"
 
 msgid "share_ni_metadata_removal_some"
-msgstr "无法删除元数据将会移除来源于其他文件的元数据."
+msgstr ""
+"无法从 %d/%d 文件删除元数据。\n"
+"将会移除来自其他文件的元数据。"
 
 msgid "share_ni_non_local_files"
 msgstr "无法分享非本地文件.操作取消."
 
 msgid "share_ni_only_account_deleted"
-msgstr "选择的共享帐户已被删除.\n必须创建新账户."
+msgstr ""
+"选择的共享账户已被删除.\n"
+"必须创建新账户."
 
 msgid "share_ni_outbox_full"
 msgstr "没有足够的内存来为新的转移使用"
 
 msgid "share_ni_sso_account_setup_completed"
-msgstr "Ovi帐户安装由诺基亚公司设计开发.\n共享"
+msgstr ""
+"Ovi账户安装由诺基亚公司设计开发.\n"
+"共享"
 
 msgid "share_ni_too_many_files"
 msgstr "无法一次分享 %d 多个文件. 操作取消."
 
 msgid "share_ni_username_existing"
-msgstr "帐户用户名取消操作."
+msgstr ""
+"账户用户名 %s 已存在于 %s 。\n"
+"操作已取消。"
 
 msgid "share_ti_accounts_select_service"
-msgstr "帐户设置 - 选择服务"
+msgstr "账户设置 - 选择服务"
 
 msgid "share_ti_accounts_setup"
-msgstr "帐户设置 - %s"
+msgstr "账户设置 - %s"
 
 msgid "share_ti_accounts_setup_web_sign_in"
-msgstr "帐户设置-登录到 %s"
+msgstr "账户设置-登录到 %s"
 
 msgid "share_ti_accounts_setup_web_validate"
-msgstr "帐户设置-验证 %s 帐户"
+msgstr "账户设置-验证 %s 账户"
 
 msgid "share_ti_accounts_validating"
-msgstr "验证帐户 %s"
+msgstr "验证账户 %s"
 
 msgid "share_ti_cpa_edit_account"
-msgstr "编辑帐户 %s"
+msgstr "编辑账户 %s"
 
 msgid "share_ti_cpa_validate_changes"
-msgstr "验证 %s 帐户"
+msgstr "验证 %s 账户"
 
 msgid "share_ti_cpa_validating_changes"
-msgstr "验证 %s 帐户"
+msgstr "验证 %s 账户"
 
 msgid "share_ti_options"
 msgstr "共享选项"
 
 msgid "share_ti_select_account"
-msgstr "选择帐户"
+msgstr "选择账户"
 
 msgid "share_ti_select_album"
 msgstr "选择相册"
