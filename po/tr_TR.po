@@ -3,13 +3,16 @@ msgstr ""
 "Project-Id-Version: osso-sharing-ui 20090706094241\n"
 "Report-Msgid-Bugs-To: oksan.savasoglu-niemi@nokia.com\n"
 "POT-Creation-Date: 2009.07.06 09:42+0300\n"
-"PO-Revision-Date: 2010-05-29 22:09+0200\n"
-"Last-Translator: Aranel Surion <aranel@aranelsurion.org>\n"
-"Language-Team: tr_TR\n"
+"PO-Revision-Date: 2024-08-12 11:09+0000\n"
+"Last-Translator: Oğuz Ersen <oguz@ersen.moe>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-sharing-ui-l10n/tr/>\n"
+"Language: tr_TR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=n != 1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 msgid "share_bd_account"
 msgstr "Hesap"
@@ -66,7 +69,7 @@ msgid "share_bd_send_email"
 msgstr "E-posta ile paylaş"
 
 msgid "share_bd_share_to_service"
-msgstr "Servis yoluyla paylaş"
+msgstr "Hizmet yoluyla paylaş"
 
 msgid "share_bd_tags"
 msgstr "Etiketle"
@@ -75,7 +78,7 @@ msgid "share_cpa_ti"
 msgstr "Paylaşım hesapları"
 
 msgid "share_fi_accounts_add_new_service"
-msgstr "Yeni servis için kontrol et"
+msgstr "Yeni hizmet için denetle"
 
 msgid "share_fi_album_last_update"
 msgstr "Liste güncellendi"
@@ -153,13 +156,13 @@ msgid "share_fi_status_unknown_error"
 msgstr "Aktarım hatası"
 
 msgid "share_fi_status_upload_limit_error"
-msgstr "Upload limiti hatası"
+msgstr "Karşıya yükleme sınırı hatası"
 
 msgid "share_fi_status_waiting_for_connection"
 msgstr "Bağlantı bekleniyor"
 
 msgid "share_fi_status_waiting_for_service"
-msgstr "Servis bekleniyor"
+msgstr "Hizmet bekleniyor"
 
 msgid "share_fi_status_wrong_credentials"
 msgstr "Tanımlama hatası"
@@ -195,10 +198,10 @@ msgid "share_ia_error_connection"
 msgstr "Aktarım beklemede. Internet bağlantısı bekleniyor."
 
 msgid "share_ia_error_fileformat"
-msgstr "%d dosyanın aktarımı başarısız. Servis dosya biçimini kabul edemiyor."
+msgstr "%d dosyanın aktarımı başarısız. Hizmet dosya biçimini kabul edemiyor."
 
 msgid "share_ia_error_fileformat_single_file"
-msgstr "%s aktarımı başarısız. Servis dosya biçimini kabul edemiyor."
+msgstr "%s aktarımı başarısız. Hizmet dosya biçimini kabul edemiyor."
 
 msgid "share_ia_error_identification"
 msgstr "Aktarıma devam edilemiyor. %s için kullanıcı adı veya parola geçersiz."
@@ -209,16 +212,16 @@ msgstr ""
 "(Ayrıca saat ayarlarınızı kontrol edin.)"
 
 msgid "share_ia_error_service"
-msgstr "Aktarım beklemede. Servis cevabı bekleniyor."
+msgstr "Aktarım beklemede. Hizmet cevabı bekleniyor."
 
 msgid "share_ia_error_unknown"
 msgstr "Aktarım başarısız. Devam edilemiyor."
 
 msgid "share_ia_error_upload_limit"
-msgstr "%d dosyanın aktarımı başarısız. Servis upload limiti aşıldı."
+msgstr "%d dosyanın aktarımı başarısız. Hizmet karşıya yükleme sınırı aşıldı."
 
 msgid "share_ia_error_upload_limit_single_file"
-msgstr "%s aktarımı başarısız. Servis upload limiti aşıldı."
+msgstr "%s aktarımı başarısız. Hizmet karşıya yükleme sınırı aşıldı."
 
 msgid "share_ib_account_editing_completed"
 msgstr "Hesap düzenlemesi tamamlandı"
@@ -266,7 +269,7 @@ msgid "share_ib_processing"
 msgstr "Paylaşmadan önce dosyalar işleniyor"
 
 msgid "share_ib_service_not_responding"
-msgstr "Servis cevap vermiyor. Daha sonra tekrar deneyin."
+msgstr "Hizmet cevap vermiyor. Daha sonra tekrar deneyin."
 
 msgid "share_ib_validation_failed"
 msgstr "Hesap doğrulaması başarısız"
@@ -303,10 +306,10 @@ msgstr ""
 "Başka hesap seçin."
 
 msgid "share_ni_already_sent_multiple"
-msgstr "%d dosya servise zaten gönderildi"
+msgstr "%d dosya hizmete zaten gönderildi"
 
 msgid "share_ni_already_sent_single"
-msgstr "%s zaten servise gönderildi"
+msgstr "%s zaten hizmete gönderildi"
 
 msgid "share_ni_metadata_removal_some"
 msgstr ""
@@ -327,7 +330,7 @@ msgstr "Yeni aktarımlar için bellek yetersiz"
 msgid "share_ni_sso_account_setup_completed"
 msgstr ""
 "Nokia Ovi için hesap kurulumu tamamlandı.\n"
-"Paylaşım, anlık mesajlaşma ve web servisleri etkinleşti"
+"Paylaşım, anlık mesajlaşma ve web hizmetleri etkinleşti"
 
 msgid "share_ni_too_many_files"
 msgstr "Bir kerede %d dosyadan fazlası paylaşılamaz. İşlem iptal edildi."
@@ -338,7 +341,7 @@ msgstr ""
 "İşlem iptal edildi."
 
 msgid "share_ti_accounts_select_service"
-msgstr "Hesap kurulumu - Servis seçin"
+msgstr "Hesap kurulumu - Hizmet seçin"
 
 msgid "share_ti_accounts_setup"
 msgstr "Hesap kurulumu - %s"
@@ -380,7 +383,7 @@ msgid "share_ti_share_status_dialog"
 msgstr "Paylaşım durumu"
 
 msgid "share_ti_single_content_details"
-msgstr "Detayları düzenle: %s"
+msgstr "Ayrıntıları düzenle: %s"
 
 msgid "share_ti_status_menu_plug_in"
 msgstr "Paylaşım"
