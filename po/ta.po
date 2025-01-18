@@ -3,371 +3,399 @@ msgstr ""
 "Project-Id-Version: osso-sharing-ui 20091214124314\n"
 "Report-Msgid-Bugs-To: parazyd@dyne.org\n"
 "POT-Creation-Date: 2009.12.14 12:43+0200\n"
-"PO-Revision-Date: 2009.12.14 12:43+0200\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-01-19 13:00+0000\n"
+"Last-Translator: தமிழ்நேரம் <anishprabu.t@gmail.com>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/maemo-leste/"
+"osso-sharing-ui-l10n/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 msgid "share_bd_account"
-msgstr ""
+msgstr "கணக்கு"
 
 msgid "share_bd_accounts_register_new"
-msgstr ""
+msgstr "புதிய கணக்கை பதிவு செய்யுங்கள்"
 
 msgid "share_bd_accounts_sign_in"
-msgstr ""
+msgstr "விடுபதிகை"
 
 msgid "share_bd_accounts_use_existing"
-msgstr ""
+msgstr "இருக்கும் கணக்கைப் பயன்படுத்தவும்"
 
 msgid "share_bd_accounts_validate"
-msgstr ""
+msgstr "சரிபார்க்கவும்"
 
 msgid "share_bd_album_update_list"
-msgstr ""
+msgstr "ஆல்பம் பட்டியலைப் புதுப்பிக்கவும்"
 
 msgid "share_bd_connect"
-msgstr ""
+msgstr "இணை"
 
 msgid "share_bd_error_cancel_sharing"
-msgstr ""
+msgstr "பகிர்வை நிறுத்துங்கள்"
 
 msgid "share_bd_error_identification_edit_account"
-msgstr ""
+msgstr "கணக்கைத் திருத்து"
 
 msgid "share_bd_error_service_retry"
-msgstr ""
+msgstr "மீண்டும் முயற்சிக்கவும்"
 
 msgid "share_bd_new_account"
-msgstr ""
+msgstr "புதிய"
 
 msgid "share_bd_options"
-msgstr ""
+msgstr "விருப்பங்கள்"
 
 msgid "share_bd_options_album"
-msgstr ""
+msgstr "ஆல்பம்"
 
 msgid "share_bd_options_metadata"
-msgstr ""
+msgstr "மேனிலை தரவு"
 
 msgid "share_bd_options_privacy"
-msgstr ""
+msgstr "தனியுரிமை"
 
 msgid "share_bd_options_size"
-msgstr ""
+msgstr "பட அளவு"
 
 msgid "share_bd_send_bluetooth"
-msgstr ""
+msgstr "ஊடலை வழியாக அனுப்பவும்"
 
 msgid "share_bd_send_email"
-msgstr ""
+msgstr "மின்னஞ்சல் வழியாக அனுப்பவும்"
 
 msgid "share_bd_share_to_service"
-msgstr ""
+msgstr "பணி வழியாக பகிரவும்"
 
 msgid "share_bd_tags"
-msgstr ""
+msgstr "குறிச்சொற்கள்"
 
 msgid "share_cpa_ti"
-msgstr ""
+msgstr "கணக்குகளைப் பகிர்வது"
 
 msgid "share_fi_accounts_add_new_service"
-msgstr ""
+msgstr "புதிய சேவையை சரிபார்க்கவும்"
 
 msgid "share_fi_album_last_update"
-msgstr ""
+msgstr "பட்டியல் புதுப்பிக்கப்பட்டது"
 
 msgid "share_fi_cpa_edit_account_password"
-msgstr ""
+msgstr "கடவுச்சொல்"
 
 msgid "share_fi_cpa_edit_account_username"
-msgstr ""
+msgstr "பயனர் பெயர்"
 
 msgid "share_fi_cpa_no_accounts"
-msgstr ""
+msgstr "(கணக்குகள் இல்லை)"
 
 msgid "share_fi_description_placeholder"
-msgstr ""
+msgstr "விவரம்"
 
 msgid "share_fi_favourite"
-msgstr ""
+msgstr "பிடித்த"
 
 msgid "share_fi_favourites"
-msgstr ""
+msgstr "பிடித்தவை"
 
 msgid "share_fi_options_metadata_keep_all"
-msgstr ""
+msgstr "அனைத்தையும் வைத்திருங்கள்"
 
 msgid "share_fi_options_metadata_remove_all"
-msgstr ""
+msgstr "அனைத்தையும் கோப்பில் அகற்று"
 
 msgid "share_fi_options_metadata_remove_some"
-msgstr ""
+msgstr "சி.பி.எச் ஒருங்கிணைப்புகள் மற்றும் படைப்பாளரின் பெயரை அகற்று"
 
 msgid "share_fi_options_privacy_family"
-msgstr ""
+msgstr "குடும்பம்"
 
 msgid "share_fi_options_privacy_friends"
-msgstr ""
+msgstr "நண்பர்கள்"
 
 msgid "share_fi_options_privacy_friends_and_family"
-msgstr ""
+msgstr "நண்பர்கள் மற்றும் குடும்பத்தினர்"
 
 msgid "share_fi_options_privacy_private"
-msgstr ""
+msgstr "தனிப்பட்ட"
 
 msgid "share_fi_options_privacy_public"
-msgstr ""
+msgstr "பொது"
 
 msgid "share_fi_options_size_large"
-msgstr ""
+msgstr "பெரிய"
 
 msgid "share_fi_options_size_medium"
-msgstr ""
+msgstr "சராசரி"
 
 msgid "share_fi_options_size_original"
-msgstr ""
+msgstr "அசல் பாதுகாக்கவும்"
 
 msgid "share_fi_options_size_small"
-msgstr ""
+msgstr "சிறிய"
 
 msgid "share_fi_status_account_not_available"
-msgstr ""
+msgstr "கணக்கு கிடைக்கவில்லை"
 
 msgid "share_fi_status_fileformat_error"
-msgstr ""
+msgstr "கோப்பு வடிவமைப்பு பிழை"
 
 msgid "share_fi_status_in_queue"
-msgstr ""
+msgstr "வரிசையில்"
 
 msgid "share_fi_status_menu_sending"
-msgstr ""
+msgstr "%s க்கு அனுப்புகிறது"
 
 msgid "share_fi_status_sending"
-msgstr ""
+msgstr "அனுப்புகிறது"
 
 msgid "share_fi_status_unknown_error"
-msgstr ""
+msgstr "பரிமாற்ற பிழை"
 
 msgid "share_fi_status_upload_limit_error"
-msgstr ""
+msgstr "வரம்பு பிழையைப் பதிவேற்றவும்"
 
 msgid "share_fi_status_waiting_for_connection"
-msgstr ""
+msgstr "இணைப்புக்காக காத்திருக்கிறது"
 
 msgid "share_fi_status_waiting_for_service"
-msgstr ""
+msgstr "சேவைக்காக காத்திருக்கிறது"
 
 msgid "share_fi_status_wrong_credentials"
-msgstr ""
+msgstr "அடையாள பிழை"
 
 msgid "share_fi_title_placeholder"
-msgstr ""
+msgstr "தலைப்பு"
 
 msgid "share_ia_accounts_setup_web_sign_in"
 msgstr ""
+"வலைப்பக்கத்தின் மூலம் %s இல் கையொப்பமிடுவதன் மூலம் கணக்கு அமைப்பைத் தொடரவும்.\n"
+" உள்நுழைந்த பிறகு கணக்கு அமைப்புக்குத் திரும்பு."
 
 msgid "share_ia_accounts_setup_web_start"
 msgstr ""
+"புதிய பிளிக்கர் கணக்கு வலைப்பக்கத்தின் மூலம் அமைக்கப்பட வேண்டும்.\n"
+" ஏற்கனவே அல்லது புதிய கணக்கைப் பதிவுசெய்த பிறகு கணக்கு அமைப்புக்குத் திரும்பு."
 
 msgid "share_ia_accounts_setup_web_validate"
-msgstr ""
+msgstr "கணக்கு அமைப்பை முடிக்க கணக்கை சரிபார்க்கவும்"
 
 msgid "share_ia_cpa_edit_account_web"
 msgstr ""
+"%s கணக்கைத் திருத்த வலைப்பக்கத்தைத் திறக்க 'திருத்து' என்பதைத் தட்டவும்.\n"
+" மாற்றங்களை சரிபார்க்க கணக்கைத் திருத்திய பின் இங்கே திரும்பவும்."
 
 msgid "share_ia_cpa_validate_changes"
-msgstr ""
+msgstr "முழுமையான கணக்கு திருத்துதல் மாற்றங்களை சரிபார்க்கவும்"
 
 msgid "share_ia_error_account"
 msgstr ""
+"பரிமாற்றத்தைத் தொடர முடியவில்லை. தேர்ந்தெடுக்கப்பட்ட கணக்கு இனி கிடைக்காது."
 
 msgid "share_ia_error_connection"
-msgstr ""
+msgstr "இடமாற்றம் நிலுவையில் உள்ளது. இணைய இணைப்புக்காக காத்திருக்கிறது."
 
 msgid "share_ia_error_fileformat"
 msgstr ""
+"%d கோப்புகளின் பரிமாற்றம் தோல்வியடைந்தது. கோப்பு வடிவமைப்பை ஏற்க முடியவில்லை."
 
 msgid "share_ia_error_fileformat_single_file"
-msgstr ""
+msgstr "%s பரிமாற்றம் தோல்வியடைந்தது. கோப்பு வடிவமைப்பை ஏற்க முடியவில்லை."
 
 msgid "share_ia_error_identification"
 msgstr ""
+"பரிமாற்றத்தைத் தொடர முடியவில்லை. %s தவறான பயனர் பெயர் அல்லது கடவுச்சொல்."
 
 msgid "share_ia_error_identification_for_ovi"
 msgstr ""
+"பரிமாற்றத்தைத் தொடர முடியவில்லை. %s தவறான பயனர் பெயர் அல்லது கடவுச்சொல்.\n"
+" (நேர அமைப்புகளையும் சரிபார்க்கவும்.)"
 
 msgid "share_ia_error_service"
-msgstr ""
+msgstr "இடமாற்றம் நிலுவையில் உள்ளது. பணி பதிலுக்காக காத்திருக்கிறது."
 
 msgid "share_ia_error_unknown"
-msgstr ""
+msgstr "இடமாற்றம் தோல்வியுற்றது. தொடர முடியவில்லை."
 
 msgid "share_ia_error_upload_limit"
-msgstr ""
+msgstr "%d கோப்புகளின் பரிமாற்றம் தோல்வியடைந்தது. பணி பதிவேற்ற வரம்பு மீறியது."
 
 msgid "share_ia_error_upload_limit_single_file"
-msgstr ""
+msgstr "%s பரிமாற்றம் தோல்வியடைந்தது. பணி பதிவேற்ற வரம்பு மீறியது."
 
 msgid "share_ib_account_editing_completed"
-msgstr ""
+msgstr "கணக்கு திருத்துதல் முடிந்தது"
 
 msgid "share_ib_account_setup_completed"
-msgstr ""
+msgstr "கணக்கு அமைப்பு முடிந்தது"
 
 msgid "share_ib_album_update_failed"
-msgstr ""
+msgstr "ஆல்பம் பட்டியல் புதுப்பிப்பு தோல்வியடைந்தது"
 
 msgid "share_ib_all_files_no_longer_available"
-msgstr ""
+msgstr "கோப்புகள் இனி கிடைக்காது. பகிர்வு தோல்வியடைந்தது."
 
 msgid "share_ib_enter_credentials_first"
-msgstr ""
+msgstr "முதலில் பயனர் பெயர் மற்றும் கடவுச்சொல்லை உள்ளிடவும்"
 
 msgid "share_ib_file_no_longer_available"
-msgstr ""
+msgstr "%s இனி கிடைக்காது"
 
 msgid "share_ib_files_no_longer_available"
-msgstr ""
+msgstr "%d கோப்புகள் இனி கிடைக்காது"
 
 msgid "share_ib_no_account_to_validate"
-msgstr ""
+msgstr "கணக்கு அமைப்பு முடிக்கப்படவில்லை. செயல்பாடு ரத்து செய்யப்பட்டது."
 
 msgid "share_ib_no_changes_to_validate"
-msgstr ""
+msgstr "மாற்றங்கள் முடிக்கப்படவில்லை. செயல்பாடு ரத்து செய்யப்பட்டது."
 
 msgid "share_ib_no_connection"
-msgstr ""
+msgstr "பிணைய இணைப்பு எதுவும் கிடைக்கவில்லை. செயல்பாடு ரத்து செய்யப்பட்டது."
 
 msgid "share_ib_no_files_selected"
-msgstr ""
+msgstr "கோப்புகள் எதுவும் தேர்ந்தெடுக்கப்படவில்லை. பகிர்வு ரத்து செய்யப்பட்டது."
 
 msgid "share_ib_not_enough_memory_processing"
-msgstr ""
+msgstr "பகிர்வதற்கு முன் கோப்புகளை செயலாக்க போதுமான நினைவகம் இல்லை"
 
 msgid "share_ib_not_enough_memory_scaling"
-msgstr ""
+msgstr "படங்களை மறுஅளவிடுவதற்கு போதுமான நினைவகம் இல்லை"
 
 msgid "share_ib_only_file_no_longer_available"
-msgstr ""
+msgstr "கோப்பு இனி கிடைக்காது. பகிர்வு தோல்வியடைந்தது."
 
 msgid "share_ib_processing"
-msgstr ""
+msgstr "பகிர்வதற்கு முன் கோப்புகளை செயலாக்குகிறது"
 
 msgid "share_ib_service_not_responding"
-msgstr ""
+msgstr "பணி பதிலளிக்கவில்லை. பின்னர் மீண்டும் முயற்சிக்கவும்."
 
 msgid "share_ib_validation_failed"
-msgstr ""
+msgstr "கணக்கு சரிபார்ப்பு தோல்வியடைந்தது"
 
 msgid "share_ib_wrong_credentials"
-msgstr ""
+msgstr "பயனர் பெயர் அல்லது கடவுச்சொல் தவறானது"
 
 msgid "share_ib_wrong_credentials_for_ovi"
 msgstr ""
+"பயனர் பெயர் அல்லது கடவுச்சொல் தவறானது.\n"
+" (நேர அமைப்புகளையும் சரிபார்க்கவும்.)"
 
 msgid "share_li_album_default"
-msgstr ""
+msgstr "இயல்புநிலை"
 
 msgid "share_li_album_mymedia"
-msgstr ""
+msgstr "அனைத்து ஊடகங்களும்"
 
 msgid "share_nc_cancel_sharing"
-msgstr ""
+msgstr "%d கோப்புகளை %s வழியாக பகிர்வதை நிறுத்தவா?"
 
 msgid "share_nc_cancel_sharing_single_file"
-msgstr ""
+msgstr "%s வழியாக %s வழியாக பகிர்வதை நிறுத்தவா?"
 
 msgid "share_nc_delete_account"
-msgstr ""
+msgstr "%s க்கான கணக்கை நீக்கவா?"
 
 msgid "share_nc_delete_account_in_use"
-msgstr ""
+msgstr "பயன்பாட்டில் உள்ள கணக்கு. %s க்கான கணக்கை நீக்கவா?"
 
 msgid "share_ni_account_deleted"
 msgstr ""
+"பகிர்வுக்கு தேர்ந்தெடுக்கப்பட்ட கணக்கு நீக்கப்பட்டது.\n"
+" மற்றொரு கணக்கைத் தேர்ந்தெடுக்கவும்."
 
 msgid "share_ni_already_sent_multiple"
-msgstr ""
+msgstr "சேவைக்கு ஏற்கனவே அனுப்பப்பட்ட %d கோப்புகள்"
 
 msgid "share_ni_already_sent_single"
-msgstr ""
+msgstr "%ஏற்கனவே சேவைக்கு அனுப்பப்பட்டது"
 
 msgid "share_ni_metadata_removal_some"
 msgstr ""
+"%d/ %d கோப்புகளிலிருந்து மெட்டாடேட்டாவை அகற்ற முடியவில்லை.\n"
+" மற்ற கோப்புகளிலிருந்து மேனிலை தரவு மட்டுமே அகற்றப்படும்."
 
 msgid "share_ni_non_local_files"
 msgstr ""
+"உள்ளக அல்லாத கோப்புகளைப் பகிர முடியவில்லை. செயல்பாடு ரத்து செய்யப்பட்டது."
 
 msgid "share_ni_only_account_deleted"
 msgstr ""
+"பகிர்வுக்கு தேர்ந்தெடுக்கப்பட்ட கணக்கு நீக்கப்பட்டது.\n"
+" புதிய கணக்கு உருவாக்கப்பட வேண்டும்."
 
 msgid "share_ni_outbox_full"
-msgstr ""
+msgstr "புதிய இடமாற்றங்களுக்கு போதுமான நினைவகம் இல்லை"
 
 msgid "share_ni_sso_account_setup_completed"
 msgstr ""
+"நோக்கியா மூலம் OVI க்கான கணக்கு அமைவு முடிந்தது.\n"
+" பகிர்வு, உடனடி செய்தி அனுப்புதல் மற்றும் வலை சேவைகள் செயல்படுத்தப்பட்டன"
 
 msgid "share_ni_too_many_files"
 msgstr ""
+"ஒரே நேரத்தில் %d கோப்புகளை விட அதிகமாக பகிர முடியவில்லை. செயல்பாடு ரத்து "
+"செய்யப்பட்டது."
 
 msgid "share_ni_username_existing"
 msgstr ""
+"பயனர் பெயருடன் கணக்கு %s ஏற்கனவே %s க்கு உள்ளது.\n"
+" செயல்பாடு ரத்து செய்யப்பட்டது."
 
 msgid "share_ti_accounts_select_service"
-msgstr ""
+msgstr "கணக்கு அமைவு - சேவையைத் தேர்ந்தெடுக்கவும்"
 
 msgid "share_ti_accounts_setup"
-msgstr ""
+msgstr "கணக்கு அமைவு - %s"
 
 msgid "share_ti_accounts_setup_web_sign_in"
-msgstr ""
+msgstr "கணக்கு அமைவு - %s இல் உள்நுழைக"
 
 msgid "share_ti_accounts_setup_web_validate"
-msgstr ""
+msgstr "கணக்கு அமைவு - %s கணக்கை சரிபார்க்கவும்"
 
 msgid "share_ti_accounts_validating"
-msgstr ""
+msgstr "%s க்கு கணக்கை சரிபார்க்கிறது"
 
 msgid "share_ti_cpa_edit_account"
-msgstr ""
+msgstr "%s க்கான கணக்கைத் திருத்தவும்"
 
 msgid "share_ti_cpa_validate_changes"
-msgstr ""
+msgstr "%s கணக்கிற்கான மாற்றங்களை சரிபார்க்கவும்"
 
 msgid "share_ti_cpa_validating_changes"
-msgstr ""
+msgstr "%s கணக்கிற்கான மாற்றங்களை சரிபார்க்கிறது"
 
 msgid "share_ti_options"
-msgstr ""
+msgstr "பகிர்வு விருப்பங்கள்"
 
 msgid "share_ti_select_account"
-msgstr ""
+msgstr "கணக்கைத் தேர்ந்தெடுக்கவும்"
 
 msgid "share_ti_select_album"
-msgstr ""
+msgstr "ஆல்பத்தைத் தேர்ந்தெடுக்கவும்"
 
 msgid "share_ti_share_dialogs_multiple"
-msgstr ""
+msgstr "%d கோப்புகளைப் பகிரவும்"
 
 msgid "share_ti_share_dialogs_single"
-msgstr ""
+msgstr "பங்கு %s"
 
 msgid "share_ti_share_status_dialog"
-msgstr ""
+msgstr "பகிர்வு நிலை"
 
 msgid "share_ti_single_content_details"
-msgstr ""
+msgstr "விவரங்களைத் திருத்து: %s"
 
 msgid "share_ti_status_menu_plug_in"
-msgstr ""
+msgstr "பகிர்வு"
 
 msgid "share_ti_transfer_error_dialogs"
-msgstr ""
+msgstr "%d கோப்புகளை %s வழியாக பகிர்கிறது"
 
 msgid "share_ti_transfer_error_dialogs_single_file"
-msgstr ""
+msgstr "%s வழியாக %s வழியாக பகிர்கிறது"
